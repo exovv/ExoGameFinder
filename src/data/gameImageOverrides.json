@@ -1,0 +1,866 @@
+{
+  "2 jeux de 54 cartes 1 tarot": {
+    "bggId": 4505,
+    "bggUrl": "https://boardgamegeek.com/boardgame/4505/tarot",
+    "imageUrl": "https://cf.geekdo-images.com/DDrDIu8zfnvuvL4-7Ph_UA__itemrep@2x/img/EvHMBmrTHLINdSZzVtMG3IXZzok=/fit-in/492x600/filters:strip_icc()/pic8884433.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/DDrDIu8zfnvuvL4-7Ph_UA__itemrep/img/40O57cG_BmxhQoiVvTh7ZrFBC3o=/fit-in/246x300/filters:strip_icc()/pic8884433.jpg"
+  },
+  "6 qui prend": {
+    "bggId": 432,
+    "bggUrl": "https://boardgamegeek.com/boardgame/432/take-5",
+    "imageUrl": "https://cf.geekdo-images.com/WuOY1XAIJQ-RGAmT_apW_w__itemrep@2x/img/MagVLJdRd5y1TuSb0CN0ycKHU60=/fit-in/492x600/filters:strip_icc()/pic8632998.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/WuOY1XAIJQ-RGAmT_apW_w__itemrep/img/MagVLJdRd5y1TuSb0CN0ycKHU60=/fit-in/246x300/filters:strip_icc()/pic8632998.jpg"
+  },
+  "7 wonders extensions leaders cities armada": {
+    "bggId": 68448,
+    "bggUrl": "https://boardgamegeek.com/boardgame/68448/7-wonders",
+    "imageUrl": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__itemrep@2x/img/C1Q2lgN2URAqsAtanK5XI72phN8=/fit-in/492x600/filters:strip_icc()/pic7149798.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__itemrep/img/EUlr4of74-i75S-jIrgNfaQ3M6Q=/fit-in/246x300/filters:strip_icc()/pic7149798.jpg"
+  },
+  "7 wonders architects": {
+    "bggId": 346703,
+    "bggUrl": "https://boardgamegeek.com/boardgame/346703/7-wonders-architects",
+    "imageUrl": "https://cf.geekdo-images.com/BGtYtHbLgYhYyNMoyOm1RA__itemrep@2x/img/kKaBEC_JM_5lz8lwNTFCX_SGIxk=/fit-in/492x600/filters:strip_icc()/pic7416525.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/BGtYtHbLgYhYyNMoyOm1RA__itemrep/img/faMnJWD7KhIAYs4jdNCB49gYATE=/fit-in/246x300/filters:strip_icc()/pic7416525.jpg"
+  },
+  "7 wonders duel": {
+    "bggId": 173346,
+    "bggUrl": "https://boardgamegeek.com/boardgame/173346/7-wonders-duel",
+    "imageUrl": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__itemrep@2x/img/MfMm8FX7KX0xxieQowGXpPfJlh4=/fit-in/492x600/filters:strip_icc()/pic2576399.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__itemrep/img/x5L93n_pSsxfFZ0Ir-JqtjLf-Jw=/fit-in/246x300/filters:strip_icc()/pic2576399.jpg"
+  },
+  "abyss": {
+    "bggId": 155987,
+    "bggUrl": "https://boardgamegeek.com/boardgame/155987/abyss",
+    "imageUrl": "https://cf.geekdo-images.com/O9nPs9wrCghDF4izqFtoGQ__itemrep@2x/img/L-gwwGNIhArG7tWGEGb4YSEPkxU=/fit-in/492x600/filters:strip_icc()/pic1965255.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/O9nPs9wrCghDF4izqFtoGQ__itemrep/img/dJB0SwUxDR8KC2inJG5pl_bnekU=/fit-in/246x300/filters:strip_icc()/pic1965255.jpg"
+  },
+  "akropolis": {
+    "bggId": 357563,
+    "bggUrl": "https://boardgamegeek.com/boardgame/357563/akropolis",
+    "imageUrl": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__itemrep@2x/img/nnJlWz7nWcNTdvcXnH4OT11LKAk=/fit-in/492x600/filters:strip_icc()/pic6705097.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__itemrep/img/Z9D0pCwwJ8tdOq6u1RC4ZGvw4yw=/fit-in/246x300/filters:strip_icc()/pic6705097.jpg"
+  },
+  "ark nova": {
+    "bggId": 342942,
+    "bggUrl": "https://boardgamegeek.com/boardgame/342942/ark-nova",
+    "imageUrl": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep@2x/img/Pr8zSaMINlALYjR0agud0_EFESs=/fit-in/492x600/filters:strip_icc()/pic6293412.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep/img/IRqrT7kOqPQilogauyQkOnLx-HU=/fit-in/246x300/filters:strip_icc()/pic6293412.jpg"
+  },
+  "avalon": {
+    "bggId": 128882,
+    "bggUrl": "https://boardgamegeek.com/boardgame/128882/the-resistance-avalon",
+    "imageUrl": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__itemrep@2x/img/LWho2GMg9S2-oZaC51J90YjPLxM=/fit-in/492x600/filters:strip_icc()/pic1398895.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__itemrep/img/KtGX_JFWNUXci7H5zs7GjS0QrQk=/fit-in/246x300/filters:strip_icc()/pic1398895.jpg"
+  },
+  "avignon": {
+    "bggId": 188181,
+    "bggUrl": "https://boardgamegeek.com/boardgame/188181/avignon-a-clash-of-popes",
+    "imageUrl": "https://cf.geekdo-images.com/LB_SsOqsKYj35Tp3QXe2Qg__itemrep@2x/img/eMVHdzFqDFFQJlcjmfyScoAk2RI=/fit-in/492x600/filters:strip_icc()/pic2810331.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/LB_SsOqsKYj35Tp3QXe2Qg__itemrep/img/BYY6jwVwzYyY4WYwWh6oFuckxqQ=/fit-in/246x300/filters:strip_icc()/pic2810331.png"
+  },
+  "azul": {
+    "bggId": 230802,
+    "bggUrl": "https://boardgamegeek.com/boardgame/230802/azul",
+    "imageUrl": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep@2x/img/PH6uta5QGxUHg7aZ609yifJQrhY=/fit-in/492x600/filters:strip_icc()/pic6973671.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png"
+  },
+  "bang": {
+    "bggId": 3955,
+    "bggUrl": "https://boardgamegeek.com/boardgame/3955/bang",
+    "imageUrl": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__itemrep@2x/img/y8voqbS1PSXTwdM-hIhQYDNACls=/fit-in/492x600/filters:strip_icc()/pic1170986.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__itemrep/img/odOgplfH-u2pzHgbhhDQF0aIsmA=/fit-in/246x300/filters:strip_icc()/pic1170986.jpg"
+  },
+  "barrage": {
+    "bggId": 251247,
+    "bggUrl": "https://boardgamegeek.com/boardgame/251247/barrage",
+    "imageUrl": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__itemrep@2x/img/aS773dDJTpgmO9UxQF-emlZpBeI=/fit-in/492x600/filters:strip_icc()/pic4336469.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__itemrep/img/-s65MFZDOx3Uf0Ec8Nol2nTBl5g=/fit-in/246x300/filters:strip_icc()/pic4336469.png"
+  },
+  "captain sonar": {
+    "bggId": 171131,
+    "bggUrl": "https://boardgamegeek.com/boardgame/171131/captain-sonar",
+    "imageUrl": "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__itemrep@2x/img/7aD6wtwAMKsAHG7mPVL-gwYoMno=/fit-in/492x600/filters:strip_icc()/pic7069368.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__itemrep/img/0qNokH1lcUP6H6Wyd5jXJsLy-Ko=/fit-in/246x300/filters:strip_icc()/pic7069368.jpg"
+  },
+  "carcassonne": {
+    "bggId": 822,
+    "bggUrl": "https://boardgamegeek.com/boardgame/822/carcassonne",
+    "imageUrl": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__itemrep@2x/img/5X0usMdIui2cFTdbDSTBfCqNZr8=/fit-in/492x600/filters:strip_icc()/pic8621446.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__itemrep/img/6TWoEvnQQe_sO--6WLd_PQOnEQg=/fit-in/246x300/filters:strip_icc()/pic8621446.jpg"
+  },
+  "cascadia": {
+    "bggId": 295947,
+    "bggUrl": "https://boardgamegeek.com/boardgame/295947/cascadia",
+    "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep@2x/img/jluk2bo_VuQ6kgX2bH9gFI9j0AM=/fit-in/492x600/filters:strip_icc()/pic5100691.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep/img/RjD03wEf_LoX0EF4DhnW6f0xNHU=/fit-in/246x300/filters:strip_icc()/pic5100691.jpg"
+  },
+  "catane extensions 5 6 joueurs marine marine 5 6 joueurs": {
+    "bggId": 13,
+    "bggUrl": "https://boardgamegeek.com/boardgame/13/catan",
+    "imageUrl": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep@2x/img/81lS9PRn2JwyE4br1l7Z5fgSyFo=/fit-in/492x600/filters:strip_icc()/pic9156909.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep/img/81lS9PRn2JwyE4br1l7Z5fgSyFo=/fit-in/246x300/filters:strip_icc()/pic9156909.png"
+  },
+  "celestia": {
+    "bggId": 175117,
+    "bggUrl": "https://boardgamegeek.com/boardgame/175117/celestia",
+    "imageUrl": "https://cf.geekdo-images.com/LE-dGEPYcDRK-CGAqN2iGw__itemrep@2x/img/6VrBMyNDX5GyznG9knGN855W0a8=/fit-in/492x600/filters:strip_icc()/pic8723226.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/LE-dGEPYcDRK-CGAqN2iGw__itemrep/img/5xlBHVMmeyM87IPwYXzrM76daY8=/fit-in/246x300/filters:strip_icc()/pic8723226.jpg"
+  },
+  "century": {
+    "bggId": 209685,
+    "bggUrl": "https://boardgamegeek.com/boardgame/209685/century-spice-road",
+    "imageUrl": "https://cf.geekdo-images.com/0_KEDk4lCvryf1Ju3YQJxA__itemrep@2x/img/zaAgkPtqBZsFOCkKMlzb2Hbn2dY=/fit-in/492x600/filters:strip_icc()/pic3339551.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/0_KEDk4lCvryf1Ju3YQJxA__itemrep/img/zaAgkPtqBZsFOCkKMlzb2Hbn2dY=/fit-in/246x300/filters:strip_icc()/pic3339551.jpg"
+  },
+  "century big box": {
+    "bggId": 382315,
+    "bggUrl": "https://boardgamegeek.com/boardgame/382315/century-big-box",
+    "imageUrl": "https://cf.geekdo-images.com/wHakScdsKjEo7F2RMvsT8g__itemrep@2x/img/7LGRSqnmrbu3p3aVYsIvUvFDKd8=/fit-in/492x600/filters:strip_icc()/pic7400020.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/wHakScdsKjEo7F2RMvsT8g__itemrep/img/V4SrtmvrtCvteLPYJu3KqLEHIpw=/fit-in/246x300/filters:strip_icc()/pic7400020.png"
+  },
+  "cerbere": {
+    "bggId": 256918,
+    "bggUrl": "https://boardgamegeek.com/boardgame/256918/cerberus",
+    "imageUrl": "https://cf.geekdo-images.com/ABZviyGtdvSexTS3l1Q6cA__itemrep@2x/img/iOND6NYv3_oL2oqLL_8rdHo8hpU=/fit-in/492x600/filters:strip_icc()/pic4244549.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ABZviyGtdvSexTS3l1Q6cA__itemrep/img/iOND6NYv3_oL2oqLL_8rdHo8hpU=/fit-in/246x300/filters:strip_icc()/pic4244549.png"
+  },
+  "chakra": {
+    "bggId": 267378,
+    "bggUrl": "https://boardgamegeek.com/boardgame/267378/chakra",
+    "imageUrl": "https://cf.geekdo-images.com/KJ7S0Cv32wJ0CdBHj7gwcg__itemrep@2x/img/qIchlFaoUguBvqP4QlWKajSQGyM=/fit-in/492x600/filters:strip_icc()/pic4487174.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/KJ7S0Cv32wJ0CdBHj7gwcg__itemrep/img/79wA6ueY5IY3h3Xw0IVaE9CZ2-w=/fit-in/246x300/filters:strip_icc()/pic4487174.jpg"
+  },
+  "challengers": {
+    "bggId": 359970,
+    "bggUrl": "https://boardgamegeek.com/boardgame/359970/challengers",
+    "imageUrl": "https://cf.geekdo-images.com/GtLESZ4ZjqikK12bjBTmig__itemrep@2x/img/-af5PtdzlWZfRVBKVWX6XymF-Dc=/fit-in/492x600/filters:strip_icc()/pic7040521.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/GtLESZ4ZjqikK12bjBTmig__itemrep/img/cQv55tLYndS_f0MX8EzBRW0aVhc=/fit-in/246x300/filters:strip_icc()/pic7040521.jpg"
+  },
+  "champ d honneur": {
+    "bggId": 249259,
+    "bggUrl": "https://boardgamegeek.com/boardgame/249259/war-chest",
+    "imageUrl": "https://cf.geekdo-images.com/BryJNSSDbCohXeaJPx3tpw__itemrep@2x/img/Eqw2Oys_WRYnADIwT8aBoYR0cX8=/fit-in/492x600/filters:strip_icc()/pic4232048.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/BryJNSSDbCohXeaJPx3tpw__itemrep/img/Eqw2Oys_WRYnADIwT8aBoYR0cX8=/fit-in/246x300/filters:strip_icc()/pic4232048.png"
+  },
+  "chiche pois chiche": {
+    "bggId": 446264,
+    "bggUrl": "https://boardgamegeek.com/boardgame/446264/chiche-ou-pois-chiche",
+    "imageUrl": "https://cf.geekdo-images.com/zxVVmggfpHJpmnJY9j-k1w__itemrep/img/Py7CTY0tSBSwKQ0sgVjRFfsVUZU=/fit-in/246x300/filters:strip_icc()/pic1657689.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/zxVVmggfpHJpmnJY9j-k1w__itemrep/img/Py7CTY0tSBSwKQ0sgVjRFfsVUZU=/fit-in/246x300/filters:strip_icc()/pic1657689.jpg"
+  },
+  "citadelles": {
+    "bggId": 478,
+    "bggUrl": "https://boardgamegeek.com/boardgame/478/citadels",
+    "imageUrl": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__itemrep/img/oH3tfcboUKXbBDhDEVShQ6_vxeY=/fit-in/246x300/filters:strip_icc()/pic636868.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__itemrep/img/oH3tfcboUKXbBDhDEVShQ6_vxeY=/fit-in/246x300/filters:strip_icc()/pic636868.jpg"
+  },
+  "clank": {
+    "bggId": 201808,
+    "bggUrl": "https://boardgamegeek.com/boardgame/201808/clank-a-deck-building-adventure",
+    "imageUrl": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__itemrep@2x/img/mmZozOIJSKk9eOjSnCBCB5jbURM=/fit-in/492x600/filters:strip_icc()/pic4449526.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__itemrep/img/pdioRYjmiownDyFOmbIy-aC5kfU=/fit-in/246x300/filters:strip_icc()/pic4449526.jpg"
+  },
+  "codenames": {
+    "bggId": 178900,
+    "bggUrl": "https://boardgamegeek.com/boardgame/178900/codenames",
+    "imageUrl": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__itemrep@2x/img/aunQPNKfQbrb3ok4ayEhC4osqkc=/fit-in/492x600/filters:strip_icc()/pic8907965.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__itemrep/img/iM9m6bb1zTCzDzkXhiKE5V1gomc=/fit-in/246x300/filters:strip_icc()/pic8907965.jpg"
+  },
+  "codex naturalis": {
+    "bggId": 314503,
+    "bggUrl": "https://boardgamegeek.com/boardgame/314503/codex-naturalis",
+    "imageUrl": "https://cf.geekdo-images.com/0I7U0tz-RgpIFWWco5FKLA__itemrep@2x/img/AEWZ6H6im7Xva_BQWMm_1H4kIe8=/fit-in/492x600/filters:strip_icc()/pic5612161.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/0I7U0tz-RgpIFWWco5FKLA__itemrep/img/KslJVipFSC2aBNhBtoRjlZ19hIk=/fit-in/246x300/filters:strip_icc()/pic5612161.png"
+  },
+  "colt express": {
+    "bggId": 158899,
+    "bggUrl": "https://boardgamegeek.com/boardgame/158899/colt-express",
+    "imageUrl": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__itemrep@2x/img/XeJfZ66mTVfFmljMASTidQWzgpE=/fit-in/492x600/filters:strip_icc()/pic2869710.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__itemrep/img/TvYm-n4tYlxtLfE2iU-aBDeRC5I=/fit-in/246x300/filters:strip_icc()/pic2869710.jpg"
+  },
+  "complots": {
+    "bggId": 188188,
+    "bggUrl": "https://boardgamegeek.com/boardgame/188188/complots",
+    "imageUrl": "https://cf.geekdo-images.com/xxeCjCjznn8wh5p8CSx5jA__itemrep@2x/img/D6qKDBOx0rIBURIkZwgr2UvyZS0=/fit-in/492x600/filters:strip_icc()/pic1896477.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/xxeCjCjznn8wh5p8CSx5jA__itemrep/img/sZmlgTGTk5cbNTkQi4DuS8icCWQ=/fit-in/246x300/filters:strip_icc()/pic1896477.jpg"
+  },
+  "cryptide": {
+    "bggId": 246784,
+    "bggUrl": "https://boardgamegeek.com/boardgame/246784/cryptid",
+    "imageUrl": "https://cf.geekdo-images.com/qrPLpAnhFgc470ZRuXlvbg__itemrep@2x/img/w2HYpSCAGm0fdyH5QXxe0L6EGdY=/fit-in/492x600/filters:strip_icc()/pic4037705.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/qrPLpAnhFgc470ZRuXlvbg__itemrep/img/z6MdPedVOUZ3rKOu7513i3D9fnY=/fit-in/246x300/filters:strip_icc()/pic4037705.jpg"
+  },
+  "cuba": {
+    "bggId": 30380,
+    "bggUrl": "https://boardgamegeek.com/boardgame/30380/cuba",
+    "imageUrl": "https://cf.geekdo-images.com/nRp3AZhQD99Ajp5-96km-w__itemrep@2x/img/1Ma43mwSrW4e1KGWVSZWZyJglik=/fit-in/492x600/filters:strip_icc()/pic1205385.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/nRp3AZhQD99Ajp5-96km-w__itemrep/img/oL3r2UcSuxYgeRcb2A7r-uv_-ns=/fit-in/246x300/filters:strip_icc()/pic1205385.jpg"
+  },
+  "dice forge extension": {
+    "bggId": 194594,
+    "bggUrl": "https://boardgamegeek.com/boardgame/194594/dice-forge",
+    "imageUrl": "https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__itemrep@2x/img/lMwqGXPtIKvdbdG1DaG17jFxFbE=/fit-in/492x600/filters:strip_icc()/pic3477004.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__itemrep/img/0hqPt1oo9J1GxmHqluUP-QC7xII=/fit-in/246x300/filters:strip_icc()/pic3477004.jpg"
+  },
+  "district noir": {
+    "bggId": 216497,
+    "bggUrl": "https://boardgamegeek.com/boardgame/216497/district-noir",
+    "imageUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__itemrep@2x/img/hUe88i243SMd1_NLlsv0C2Cs77M=/fit-in/492x600/filters:strip_icc()/pic6954556.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__itemrep/img/F3V0-7kqljcfy2M-_qsbuQ-8ZiE=/fit-in/246x300/filters:strip_icc()/pic6954556.jpg"
+  },
+  "dixit": {
+    "bggId": 39856,
+    "bggUrl": "https://boardgamegeek.com/boardgame/39856/dixit",
+    "imageUrl": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__itemrep@2x/img/KLwExlTzRJJWirlhiyev9WV_pXQ=/fit-in/492x600/filters:strip_icc()/pic6738336.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__itemrep/img/tsmN3sAHJ6trDaWNbq08BZXtq7g=/fit-in/246x300/filters:strip_icc()/pic6738336.jpg"
+  },
+  "dominion extension prosperite": {
+    "bggId": 66690,
+    "bggUrl": "https://boardgamegeek.com/boardgame/66690/dominion-prosperity",
+    "imageUrl": "https://cf.geekdo-images.com/fEawLvevkxPv9AQ3mSiwVQ__itemrep@2x/img/jptiRNjeFb3ULXxbCF4PpBuPo30=/fit-in/492x600/filters:strip_icc()/pic1747320.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/fEawLvevkxPv9AQ3mSiwVQ__itemrep/img/jptiRNjeFb3ULXxbCF4PpBuPo30=/fit-in/246x300/filters:strip_icc()/pic1747320.jpg"
+  },
+  "draftosaurus": {
+    "bggId": 264055,
+    "bggUrl": "https://boardgamegeek.com/boardgame/264055/draftosaurus",
+    "imageUrl": "https://cf.geekdo-images.com/JahbLRZ_jEe8P8gisXUtJw__itemrep@2x/img/t3mMf2gcz1j6PDIZzdqEUL6BQNs=/fit-in/492x600/filters:strip_icc()/pic4447676.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/JahbLRZ_jEe8P8gisXUtJw__itemrep/img/3HPC1vPT_u5pUPBP-gwl24X4YBw=/fit-in/246x300/filters:strip_icc()/pic4447676.jpg"
+  },
+  "eila et l eclat de la montagne": {
+    "bggId": 293207,
+    "bggUrl": "https://boardgamegeek.com/boardgame/293207/eila-and-something-shiny",
+    "imageUrl": "https://cf.geekdo-images.com/ddeXV_p59xHZJtIyNSclvg__itemrep@2x/img/LVA-qrmlx8jf0sAdnc-tFU_JUO0=/fit-in/492x600/filters:strip_icc()/pic5391049.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ddeXV_p59xHZJtIyNSclvg__itemrep/img/E_QuFZbCGNmqaepIzqarZ_nPa4E=/fit-in/246x300/filters:strip_icc()/pic5391049.jpg"
+  },
+  "ettin": {
+    "bggId": 292971,
+    "bggUrl": "https://boardgamegeek.com/boardgame/292971/ettin",
+    "imageUrl": "https://cf.geekdo-images.com/q25iY5ZV7iWxHaP-XkR6_A__itemrep@2x/img/eDu2vp_Mr9u3zc76kRDuqW4b7Aw=/fit-in/492x600/filters:strip_icc()/pic5051938.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/q25iY5ZV7iWxHaP-XkR6_A__itemrep/img/0HOeSc-aDPJl4RwziSrF-mnwxsc=/fit-in/246x300/filters:strip_icc()/pic5051938.jpg"
+  },
+  "everdell": {
+    "bggId": 199792,
+    "bggUrl": "https://boardgamegeek.com/boardgame/199792/everdell",
+    "imageUrl": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__itemrep@2x/img/rCk5yWDLA7IBpIqBw8Sc0OOh7aE=/fit-in/492x600/filters:strip_icc()/pic3918905.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__itemrep/img/nyVhVuXdmw-1sigbocTKG81UInM=/fit-in/246x300/filters:strip_icc()/pic3918905.png"
+  },
+  "exploding kittens": {
+    "bggId": 172225,
+    "bggUrl": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
+    "imageUrl": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png"
+  },
+  "faraway": {
+    "bggId": 385761,
+    "bggUrl": "https://boardgamegeek.com/boardgame/385761/faraway",
+    "imageUrl": "https://cf.geekdo-images.com/u1cwi9BWSKsPxSkVO0BzbA__itemrep@2x/img/VV2_TwOzKj4Cy0v_y7TH6PwzDPs=/fit-in/492x600/filters:strip_icc()/pic7570101.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/u1cwi9BWSKsPxSkVO0BzbA__itemrep/img/zePe7fFwykEcn7UUR6OKGdXJ2z0=/fit-in/246x300/filters:strip_icc()/pic7570101.png"
+  },
+  "fiesta de los muertos": {
+    "bggId": 285253,
+    "bggUrl": "https://boardgamegeek.com/boardgame/285253/fiesta-de-los-muertos",
+    "imageUrl": "https://cf.geekdo-images.com/cbcG9UP9T430LZqV3aVVEg__itemrep@2x/img/w1hhhJq_OIeFtusDVo9V_vNVgdU=/fit-in/492x600/filters:strip_icc()/pic4868417.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/cbcG9UP9T430LZqV3aVVEg__itemrep/img/b5lxiMuZQCaz9K6AlsI-2Wi8yiM=/fit-in/246x300/filters:strip_icc()/pic4868417.png"
+  },
+  "five tribes": {
+    "bggId": 157354,
+    "bggUrl": "https://boardgamegeek.com/boardgame/157354/five-tribes-the-djinns-of-naqala",
+    "imageUrl": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep@2x/img/zuzTFDhvV2L8IAtxo0XAcB5kq-w=/fit-in/492x600/filters:strip_icc()/pic2055255.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc()/pic2055255.jpg"
+  },
+  "flamme rouge": {
+    "bggId": 199478,
+    "bggUrl": "https://boardgamegeek.com/boardgame/199478/flamme-rouge",
+    "imageUrl": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__itemrep@2x/img/5VhwTldbJVcP7QlLvo9xjSVwYXU=/fit-in/492x600/filters:strip_icc()/pic3482521.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__itemrep/img/llOD08EhBC5thzsFpkEXTnV_Y2k=/fit-in/246x300/filters:strip_icc()/pic3482521.jpg"
+  },
+  "for sale": {
+    "bggId": 172,
+    "bggUrl": "https://boardgamegeek.com/boardgame/172/for-sale",
+    "imageUrl": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__itemrep@2x/img/wvMylNRaOq0xUo7IEZQ2MFY1T-8=/fit-in/492x600/filters:strip_icc()/pic1513085.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__itemrep/img/f97jITL2ueA_2OAEOW-l6niBLFA=/fit-in/246x300/filters:strip_icc()/pic1513085.jpg"
+  },
+  "formula d": {
+    "bggId": 37904,
+    "bggUrl": "https://boardgamegeek.com/boardgame/37904/formula-d",
+    "imageUrl": "https://cf.geekdo-images.com/ScuaQBHRYnsqrwSxSdEdIw__itemrep@2x/img/mBYS31SJCXNrnljZ6DF0yCKoPJM=/fit-in/492x600/filters:strip_icc()/pic519914.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ScuaQBHRYnsqrwSxSdEdIw__itemrep/img/M4VAiKG4O6gK3RnhznDm-ibIeaA=/fit-in/246x300/filters:strip_icc()/pic519914.jpg"
+  },
+  "galerapagos": {
+    "bggId": 224272,
+    "bggUrl": "https://boardgamegeek.com/boardgame/224272/hellapagos",
+    "imageUrl": "https://cf.geekdo-images.com/2OjDcY1_CIvjKT-kvyb9Lw__itemrep@2x/img/WQLtyF-W6LDxEHtUd1Gk_zcdRCI=/fit-in/492x600/filters:strip_icc()/pic3484991.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/2OjDcY1_CIvjKT-kvyb9Lw__itemrep/img/WQLtyF-W6LDxEHtUd1Gk_zcdRCI=/fit-in/246x300/filters:strip_icc()/pic3484991.jpg"
+  },
+  "ganymede": {
+    "bggId": 248005,
+    "bggUrl": "https://boardgamegeek.com/boardgame/248005/ganymede",
+    "imageUrl": "https://cf.geekdo-images.com/Uz1oTAA1XfxTaZ7FA-3DyQ__itemrep@2x/img/MIpeQ5qUEHlmx613R-BFOiSQ4Dk=/fit-in/492x600/filters:strip_icc()/pic4044081.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/Uz1oTAA1XfxTaZ7FA-3DyQ__itemrep/img/ABggHZ78SUrpo0rS8efp_h7Hp-A=/fit-in/246x300/filters:strip_icc()/pic4044081.jpg"
+  },
+  "hanabi": {
+    "bggId": 98778,
+    "bggUrl": "https://boardgamegeek.com/boardgame/98778/hanabi",
+    "imageUrl": "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__itemrep@2x/img/LyLpjMu9OT3JXpx6wSMp5hlG7yg=/fit-in/492x600/filters:strip_icc()/pic2007286.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__itemrep/img/-8TE91boynDg5reWQGyIkc7Wx6I=/fit-in/246x300/filters:strip_icc()/pic2007286.jpg"
+  },
+  "harmonies": {
+    "bggId": 414317,
+    "bggUrl": "https://boardgamegeek.com/boardgame/414317/harmonies",
+    "imageUrl": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__itemrep@2x/img/eRw-ai-NVnY8tRnRrM-IGbHgW4M=/fit-in/492x600/filters:strip_icc()/pic8026369.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__itemrep/img/wGng6fVAYRI5NKBX6x-pksZKJGI=/fit-in/246x300/filters:strip_icc()/pic8026369.png"
+  },
+  "heat": {
+    "bggId": 366013,
+    "bggUrl": "https://boardgamegeek.com/boardgame/366013/heat-pedal-to-the-metal",
+    "imageUrl": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep@2x/img/S1Vm6B8-yVTbjq6pOf091HNeKMg=/fit-in/492x600/filters:strip_icc()/pic6940449.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep/img/mSj0nZUY3ofhIXFZJLGzF-6MQTg=/fit-in/246x300/filters:strip_icc()/pic6940449.png"
+  },
+  "humanity": {
+    "bggId": 379633,
+    "bggUrl": "https://boardgamegeek.com/boardgame/379633/humanity",
+    "imageUrl": "https://cf.geekdo-images.com/jhS92fbGyfajIZ_zPK9-rA__itemrep@2x/img/Ldo1i28V-PoKwQYY7jGW13BtQ9w=/fit-in/492x600/filters:strip_icc()/pic7682588.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/jhS92fbGyfajIZ_zPK9-rA__itemrep/img/_NFU9LV3yN8SSzkRYSQlakEjH_s=/fit-in/246x300/filters:strip_icc()/pic7682588.jpg"
+  },
+  "i m banana": {
+    "bggId": 324930,
+    "bggUrl": "https://boardgamegeek.com/boardgame/324930/i-am-a-banana",
+    "imageUrl": "https://cf.geekdo-images.com/ChvyGov8wOWPI5LjFzM_wg__itemrep@2x/img/gEj8LXmeP8C0a9XpIyIb4OyypOE=/fit-in/492x600/filters:strip_icc()/pic5922001.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ChvyGov8wOWPI5LjFzM_wg__itemrep/img/R7x3yaBHPJ3vBEFbI_nPJVMxteM=/fit-in/246x300/filters:strip_icc()/pic5922001.jpg"
+  },
+  "it s a wonderful world extension loisirs et corruption": {
+    "bggId": 271324,
+    "bggUrl": "https://boardgamegeek.com/boardgame/271324/its-a-wonderful-world",
+    "imageUrl": "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__itemrep@2x/img/8FpWzkugXPnjGHeMnsvh7IJHBEE=/fit-in/492x600/filters:strip_icc()/pic4651175.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__itemrep/img/TynLbZcCSpvnnHyCVT3weV6D5M4=/fit-in/246x300/filters:strip_icc()/pic4651175.jpg"
+  },
+  "jamaica": {
+    "bggId": 28023,
+    "bggUrl": "https://boardgamegeek.com/boardgame/28023/jamaica",
+    "imageUrl": "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__itemrep@2x/img/ZXoaO80f0kyj1sCADj-uLS97qk8=/fit-in/492x600/filters:strip_icc()/pic6434838.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__itemrep/img/UFkHRyuYbSGq-imt8JeFbBSJu4E=/fit-in/246x300/filters:strip_icc()/pic6434838.png"
+  },
+  "jenga": {
+    "bggId": 2452,
+    "bggUrl": "https://boardgamegeek.com/boardgame/2452/jenga",
+    "imageUrl": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__itemrep@2x/img/6y3KNeQQ2P1IO6aUuNbq5PJCC2g=/fit-in/492x600/filters:strip_icc()/pic5140451.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__itemrep/img/QKKA_oP2hMaXjTo2DpghOy4ylPw=/fit-in/246x300/filters:strip_icc()/pic5140451.jpg"
+  },
+  "king of tokyo": {
+    "bggId": 70323,
+    "bggUrl": "https://boardgamegeek.com/boardgame/70323/king-of-tokyo",
+    "imageUrl": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__itemrep@2x/img/3e4Rf5u2trvxizg5sqJIzCCp9MM=/fit-in/492x600/filters:strip_icc()/pic3043734.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__itemrep/img/HVllMOifrnS8P1Ygzj7Teo_rwA4=/fit-in/246x300/filters:strip_icc()/pic3043734.jpg"
+  },
+  "kingdomino": {
+    "bggId": 204583,
+    "bggUrl": "https://boardgamegeek.com/boardgame/204583/kingdomino",
+    "imageUrl": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__itemrep@2x/img/SHPMAJpWboNb57LJfdDF1Tj5y08=/fit-in/492x600/filters:strip_icc()/pic8443569.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__itemrep/img/HBQW09mf1nlYLGF4jmB9jfm4_EI=/fit-in/246x300/filters:strip_icc()/pic8443569.png"
+  },
+  "kyudo": {
+    "bggId": 363718,
+    "bggUrl": "https://boardgamegeek.com/boardgame/363718/kyudo",
+    "imageUrl": "https://cf.geekdo-images.com/wGOzsjUuTzi9YgDnKykJ_g__itemrep@2x/img/lj9kkHM6CO6ywK6vAoZtNnaop84=/fit-in/492x600/filters:strip_icc()/pic6883183.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/wGOzsjUuTzi9YgDnKykJ_g__itemrep/img/NmNF1pAK_4ZzTaDlaCDUS65IjKA=/fit-in/246x300/filters:strip_icc()/pic6883183.jpg"
+  },
+  "les aventuriers du rail": {
+    "bggId": 9209,
+    "bggUrl": "https://boardgamegeek.com/boardgame/9209/ticket-to-ride",
+    "imageUrl": "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__itemrep@2x/img/nAI08lHzxwXX2mVrNcBms4FEO_o=/fit-in/492x600/filters:strip_icc()/pic8937637.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__itemrep/img/OYmwWIZ8MCn3aDAiywQ1fG7UY6E=/fit-in/246x300/filters:strip_icc()/pic8937637.jpg"
+  },
+  "les charlatans de belcastel": {
+    "bggId": 244521,
+    "bggUrl": "https://boardgamegeek.com/boardgame/244521/the-quacks-of-quedlinburg",
+    "imageUrl": "https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__itemrep@2x/img/c7pCgJKI_O0UOz1_lM49Z7N_rxw=/fit-in/492x600/filters:strip_icc()/pic8780293.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__itemrep/img/c7pCgJKI_O0UOz1_lM49Z7N_rxw=/fit-in/246x300/filters:strip_icc()/pic8780293.png"
+  },
+  "les chevaliers de la table ronde": {
+    "bggId": 15062,
+    "bggUrl": "https://boardgamegeek.com/boardgame/15062/shadows-over-camelot",
+    "imageUrl": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__itemrep@2x/img/A-_9Itb87X4AOkFwy5IoSNqYNlc=/fit-in/492x600/filters:strip_icc()/pic70547.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__itemrep/img/A-_9Itb87X4AOkFwy5IoSNqYNlc=/fit-in/246x300/filters:strip_icc()/pic70547.jpg"
+  },
+  "les tavernes de la vallee profonde": {
+    "bggId": 269207,
+    "bggUrl": "https://boardgamegeek.com/boardgame/269207/the-taverns-of-tiefenthal",
+    "imageUrl": "https://cf.geekdo-images.com/H-AU-nhjCbaxWlWj_O-eFw__itemrep@2x/img/8LH8v96SQye_kDFtH5j68a0ikhQ=/fit-in/492x600/filters:strip_icc()/pic4873141.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/H-AU-nhjCbaxWlWj_O-eFw__itemrep/img/8LH8v96SQye_kDFtH5j68a0ikhQ=/fit-in/246x300/filters:strip_icc()/pic4873141.jpg"
+  },
+  "ligretto": {
+    "bggId": 943,
+    "bggUrl": "https://boardgamegeek.com/boardgame/943/ligretto",
+    "imageUrl": "https://cf.geekdo-images.com/BQ6UyXXeivndO4F9Hu8CHw__itemrep@2x/img/rAtKL-L-h2Bog-xlHiyjIcz0-_c=/fit-in/492x600/filters:strip_icc()/pic1306961.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/BQ6UyXXeivndO4F9Hu8CHw__itemrep/img/Avxt2pUifVr7XkyOn1U84g0jN-E=/fit-in/246x300/filters:strip_icc()/pic1306961.jpg"
+  },
+  "living forest": {
+    "bggId": 328479,
+    "bggUrl": "https://boardgamegeek.com/boardgame/328479/living-forest",
+    "imageUrl": "https://cf.geekdo-images.com/fPhdfZX9UTLr4-SVgK0zoQ__itemrep@2x/img/kiV6QoOhk-ae2Nv28OTpWQywbUg=/fit-in/492x600/filters:strip_icc()/pic5899025.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/fPhdfZX9UTLr4-SVgK0zoQ__itemrep/img/GkBRKg9Bx3YA5cciuNivpAul7V0=/fit-in/246x300/filters:strip_icc()/pic5899025.jpg"
+  },
+  "loups garous de thiercelieux": {
+    "bggId": 25821,
+    "bggUrl": "https://boardgamegeek.com/boardgame/25821/the-werewolves-of-millers-hollow",
+    "imageUrl": "https://cf.geekdo-images.com/rZ0tOafAt1oue_7NKqELsg__itemrep@2x/img/SzYQNQjt2AU3Vvb1dF0GkKUit6U=/fit-in/492x600/filters:strip_icc()/pic7203269.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/rZ0tOafAt1oue_7NKqELsg__itemrep/img/8Ku8ENBwf0oH1uWnMMoXKkRIRe0=/fit-in/246x300/filters:strip_icc()/pic7203269.jpg"
+  },
+  "love letter": {
+    "bggId": 129622,
+    "bggUrl": "https://boardgamegeek.com/boardgame/129622/love-letter",
+    "imageUrl": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__itemrep@2x/img/RuIYzxY90UFXkgth8B5Gq-rP1bo=/fit-in/492x600/filters:strip_icc()/pic1401448.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__itemrep/img/SJxpAXjBIPEj9m6hHZYeTbz9wzc=/fit-in/246x300/filters:strip_icc()/pic1401448.jpg"
+  },
+  "lucky numbers": {
+    "bggId": 118247,
+    "bggUrl": "https://boardgamegeek.com/boardgame/118247/lucky-numbers",
+    "imageUrl": "https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__itemrep@2x/img/BtYrHCSfBSCAlXj3HuzJpa7LLmg=/fit-in/492x600/filters:strip_icc()/pic5646606.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__itemrep/img/Zd5wWUlNKwn2_BfFtu1mUOnN73Y=/fit-in/246x300/filters:strip_icc()/pic5646606.jpg"
+  },
+  "lueur": {
+    "bggId": 275044,
+    "bggUrl": "https://boardgamegeek.com/boardgame/275044/glow",
+    "imageUrl": "https://cf.geekdo-images.com/LF53VHdWBIRFrZRYtvyslg__itemrep@2x/img/JotScL1qcAHt8kJyH3efMcigJXM=/fit-in/492x600/filters:strip_icc()/pic5989627.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/LF53VHdWBIRFrZRYtvyslg__itemrep/img/JotScL1qcAHt8kJyH3efMcigJXM=/fit-in/246x300/filters:strip_icc()/pic5989627.png"
+  },
+  "mafia de cuba": {
+    "bggId": 176558,
+    "bggUrl": "https://boardgamegeek.com/boardgame/176558/mafia-de-cuba",
+    "imageUrl": "https://cf.geekdo-images.com/nvdogXld5bIr8uXIq2M-uA__itemrep@2x/img/Lmc9loeLoW7CFbNqGSMBDANMoDU=/fit-in/492x600/filters:strip_icc()/pic2519675.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/nvdogXld5bIr8uXIq2M-uA__itemrep/img/RX8xHz9gbSTPYr7PYS2jIqVpAGU=/fit-in/246x300/filters:strip_icc()/pic2519675.jpg"
+  },
+  "magic maze": {
+    "bggId": 209778,
+    "bggUrl": "https://boardgamegeek.com/boardgame/209778/magic-maze",
+    "imageUrl": "https://cf.geekdo-images.com/NVsxRYyE_vIBzObK72maCQ__itemrep@2x/img/BhWG4pIaDlR005yeXUjxNUnsU9k=/fit-in/492x600/filters:strip_icc()/pic9402780.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/NVsxRYyE_vIBzObK72maCQ__itemrep/img/ozjueUP3d2DwPtf9ajsjH1DO6zs=/fit-in/246x300/filters:strip_icc()/pic9402780.jpg"
+  },
+  "marrakech": {
+    "bggId": 29223,
+    "bggUrl": "https://boardgamegeek.com/boardgame/29223/marrakech",
+    "imageUrl": "https://cf.geekdo-images.com/JFE29MODWOFXreEmM-xhyQ__itemrep@2x/img/yWxHy85jYDT4v98CK6z3tsYNgrg=/fit-in/492x600/filters:strip_icc()/pic8594649.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/JFE29MODWOFXreEmM-xhyQ__itemrep/img/hO2TUcU1O4X4xt9q3eAvoNwFKDc=/fit-in/246x300/filters:strip_icc()/pic8594649.jpg"
+  },
+  "mascarade": {
+    "bggId": 139030,
+    "bggUrl": "https://boardgamegeek.com/boardgame/139030/mascarade",
+    "imageUrl": "https://cf.geekdo-images.com/OS3ckk3rZbwFi8en1rjiGQ__itemrep@2x/img/WZ37aJm-R5zFH-_LbDKINxS6SWQ=/fit-in/492x600/filters:strip_icc()/pic1762410.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/OS3ckk3rZbwFi8en1rjiGQ__itemrep/img/ZWkLn2SNjXpaj19LcLVG5KWXHo8=/fit-in/246x300/filters:strip_icc()/pic1762410.jpg"
+  },
+  "micromacro": {
+    "bggId": 318977,
+    "bggUrl": "https://boardgamegeek.com/boardgame/318977/micromacro-crime-city",
+    "imageUrl": "https://cf.geekdo-images.com/bLL3P-G25nIUkFjHxfJfnw__itemrep@2x/img/_sHEwUDFzOu_tL0OexjhVMhKlMA=/fit-in/492x600/filters:strip_icc()/pic7632081.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/bLL3P-G25nIUkFjHxfJfnw__itemrep/img/_sHEwUDFzOu_tL0OexjhVMhKlMA=/fit-in/246x300/filters:strip_icc()/pic7632081.jpg"
+  },
+  "mille fiori": {
+    "bggId": 346501,
+    "bggUrl": "https://boardgamegeek.com/boardgame/346501/mille-fiori",
+    "imageUrl": "https://cf.geekdo-images.com/acERQjU6qQ_BGxF3IBri8w__itemrep@2x/img/ljGOC-awW3Fym7zJbc60LUkmZQg=/fit-in/492x600/filters:strip_icc()/pic6703416.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/acERQjU6qQ_BGxF3IBri8w__itemrep/img/2cp2lhi12FjAhvHfwIATXtUEnfQ=/fit-in/246x300/filters:strip_icc()/pic6703416.jpg"
+  },
+  "mille sabords": {
+    "bggId": 117663,
+    "bggUrl": "https://boardgamegeek.com/boardgame/117663/piraten-kapern",
+    "imageUrl": "https://cf.geekdo-images.com/ASvNr8Z7n4uuXiIeKTCpjA__itemrep@2x/img/dZg8Yhyx__osp8pNgmuKt4tutEU=/fit-in/492x600/filters:strip_icc()/pic5755894.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ASvNr8Z7n4uuXiIeKTCpjA__itemrep/img/dZg8Yhyx__osp8pNgmuKt4tutEU=/fit-in/246x300/filters:strip_icc()/pic5755894.jpg"
+  },
+  "miniville deluxe": {
+    "bggId": 175239,
+    "bggUrl": "https://boardgamegeek.com/boardgame/175239/machi-koro-deluxe-edition",
+    "imageUrl": "https://cf.geekdo-images.com/aUg1VOMxRGmfEy7esNH7eA__itemrep@2x/img/UfvgnobHwpJkwJrT2EijdX6rymQ=/fit-in/492x600/filters:strip_icc()/pic3762127.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/aUg1VOMxRGmfEy7esNH7eA__itemrep/img/OFnNW5u4EYsXrIaA-54h2ndIGUA=/fit-in/246x300/filters:strip_icc()/pic3762127.jpg"
+  },
+  "mr jack": {
+    "bggId": 21763,
+    "bggUrl": "https://boardgamegeek.com/boardgame/21763/mr-jack",
+    "imageUrl": "https://cf.geekdo-images.com/CDdF4xOQJsNK0gX8-tBdCQ__itemrep@2x/img/9LLoR-wc1kP6I9pR3PqBwwshilM=/fit-in/492x600/filters:strip_icc()/pic3066125.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/CDdF4xOQJsNK0gX8-tBdCQ__itemrep/img/_YdCCKiPRSPuqsUh8Bt2qYfNTO8=/fit-in/246x300/filters:strip_icc()/pic3066125.jpg"
+  },
+  "mystic vale": {
+    "bggId": 194607,
+    "bggUrl": "https://boardgamegeek.com/boardgame/194607/mystic-vale",
+    "imageUrl": "https://cf.geekdo-images.com/2cf8lebaIrJ8Z62HGEs2wQ__itemrep/img/fHUOINdWuIy88ikjNIVqg-4_Gcw=/fit-in/246x300/filters:strip_icc()/pic3287905.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/2cf8lebaIrJ8Z62HGEs2wQ__itemrep/img/fHUOINdWuIy88ikjNIVqg-4_Gcw=/fit-in/246x300/filters:strip_icc()/pic3287905.png"
+  },
+  "next station london": {
+    "bggId": 353545,
+    "bggUrl": "https://boardgamegeek.com/boardgame/353545/next-station-london",
+    "imageUrl": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__itemrep@2x/img/2Kfv2VnUb9IafH3VbLV7HSjLxHI=/fit-in/492x600/filters:strip_icc()/pic9018430.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__itemrep/img/2Kfv2VnUb9IafH3VbLV7HSjLxHI=/fit-in/246x300/filters:strip_icc()/pic9018430.jpg"
+  },
+  "nidavellir": {
+    "bggId": 293014,
+    "bggUrl": "https://boardgamegeek.com/boardgame/293014/nidavellir",
+    "imageUrl": "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__itemrep@2x/img/_6MmVv42mhdf72XmeXaC_GqRJgo=/fit-in/492x600/filters:strip_icc()/pic5039625.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__itemrep/img/-2DjDG1x3IfG1mAu-xACSDSfWfw=/fit-in/246x300/filters:strip_icc()/pic5039625.jpg"
+  },
+  "odin": {
+    "bggId": 406854,
+    "bggUrl": "https://boardgamegeek.com/boardgame/406854/odin",
+    "imageUrl": "https://cf.geekdo-images.com/hh5YOk9OQ3e0uJbMOfvT2g__itemrep@2x/img/2LLu8boasR3sir5Q02xLJZi31i8=/fit-in/492x600/filters:strip_icc()/pic7921978.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/hh5YOk9OQ3e0uJbMOfvT2g__itemrep/img/shH_xtvVrn_DU4pNe2-2BlMTknA=/fit-in/246x300/filters:strip_icc()/pic7921978.jpg"
+  },
+  "one night werewolf": {
+    "bggId": 142503,
+    "bggUrl": "https://boardgamegeek.com/boardgame/142503/one-night-werewolf",
+    "imageUrl": "https://cf.geekdo-images.com/teCePgeoQI1onAJuGLwkfg__itemrep@2x/img/UgPbnfUkn20Bv48eSJLcvW4EGLc=/fit-in/492x600/filters:strip_icc()/pic1772885.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/teCePgeoQI1onAJuGLwkfg__itemrep/img/8fCHYaZ5UChEx7X4FTqSIJ6KfOk=/fit-in/246x300/filters:strip_icc()/pic1772885.jpg"
+  },
+  "oriflamme": {
+    "bggId": 287084,
+    "bggUrl": "https://boardgamegeek.com/boardgame/287084/oriflamme",
+    "imageUrl": "https://cf.geekdo-images.com/8MpTeqlzyIupMpSSxP3PAw__itemrep/img/p1K88arOKzctAl3sWqNvMFwUpiw=/fit-in/246x300/filters:strip_icc()/pic4949335.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/8MpTeqlzyIupMpSSxP3PAw__itemrep/img/p1K88arOKzctAl3sWqNvMFwUpiw=/fit-in/246x300/filters:strip_icc()/pic4949335.jpg"
+  },
+  "paleo": {
+    "bggId": 300531,
+    "bggUrl": "https://boardgamegeek.com/boardgame/300531/paleo",
+    "imageUrl": "https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__itemrep@2x/img/qQ968jxrSME_x7OhQT-dCqsqars=/fit-in/492x600/filters:strip_icc()/pic6039256.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__itemrep/img/5Wx2IlXzKh8HmBD-_5Rm2b1YjO4=/fit-in/246x300/filters:strip_icc()/pic6039256.jpg"
+  },
+  "pandemic": {
+    "bggId": 30549,
+    "bggUrl": "https://boardgamegeek.com/boardgame/30549/pandemic",
+    "imageUrl": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep@2x/img/qnS9n-lo85ht2reXk7MsdbgeQfM=/fit-in/492x600/filters:strip_icc()/pic1534148.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep/img/wAMLbgihOl7dJDHnvqt7OXKEV-4=/fit-in/246x300/filters:strip_icc()/pic1534148.jpg"
+  },
+  "papayoo": {
+    "bggId": 73365,
+    "bggUrl": "https://boardgamegeek.com/boardgame/73365/papayoo",
+    "imageUrl": "https://cf.geekdo-images.com/hZiP8Opgl82VKH01wMILpQ__itemrep@2x/img/48InCcLMOi8wUMi6e7D0E_9VjUg=/fit-in/492x600/filters:strip_icc()/pic8308540.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/hZiP8Opgl82VKH01wMILpQ__itemrep/img/fWznWKXFb3TQSnyZoi_rBV7wZJc=/fit-in/246x300/filters:strip_icc()/pic8308540.jpg"
+  },
+  "paquet de chips": {
+    "bggId": 344114,
+    "bggUrl": "https://boardgamegeek.com/boardgame/344114/bag-of-chips",
+    "imageUrl": "https://cf.geekdo-images.com/kzc_9tBQELXG8H25TTcCKw__itemrep@2x/img/7Qb9-LBpgho82rEnmwso88cBjTE=/fit-in/492x600/filters:strip_icc()/pic9328596.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/kzc_9tBQELXG8H25TTcCKw__itemrep/img/WOq26CxzCdhM44O-LzOz6LePpD4=/fit-in/246x300/filters:strip_icc()/pic9328596.png"
+  },
+  "parks": {
+    "bggId": 266524,
+    "bggUrl": "https://boardgamegeek.com/boardgame/266524/parks",
+    "imageUrl": "https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep@2x/img/dWnVJtUVqMkUpp-NelP0ww1Fit8=/fit-in/492x600/filters:strip_icc()/pic4852372.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc()/pic4852372.jpg"
+  },
+  "perspectives": {
+    "bggId": 400995,
+    "bggUrl": "https://boardgamegeek.com/boardgame/400995/perspectives",
+    "imageUrl": "https://cf.geekdo-images.com/2rDKsXHGRLNdoXb0K48HcQ__itemrep@2x/img/SVawhd8RavbujOIHMdHLmsGkR5M=/fit-in/492x600/filters:strip_icc()/pic7723935.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/2rDKsXHGRLNdoXb0K48HcQ__itemrep/img/aUsqco3FP6j93FVG9MC1NWjxr6E=/fit-in/246x300/filters:strip_icc()/pic7723935.jpg"
+  },
+  "perudo": {
+    "bggId": 45,
+    "bggUrl": "https://boardgamegeek.com/boardgame/45/perudo",
+    "imageUrl": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__itemrep@2x/img/jqv6Ta_SNfKqP7v_ZBym4gROf7o=/fit-in/492x600/filters:strip_icc()/pic8630033.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__itemrep/img/tubF280kmjh83kbDkV4O7hdtw3I=/fit-in/246x300/filters:strip_icc()/pic8630033.png"
+  },
+  "potion explosion": {
+    "bggId": 180974,
+    "bggUrl": "https://boardgamegeek.com/boardgame/180974/potion-explosion",
+    "imageUrl": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__itemrep@2x/img/3AlOnOByRPwHuV9dE3WBmwmQROk=/fit-in/492x600/filters:strip_icc()/pic7298696.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__itemrep/img/RnUXrb01rO0D_9Mg00BkNvJ6ows=/fit-in/246x300/filters:strip_icc()/pic7298696.jpg"
+  },
+  "puerto rico": {
+    "bggId": 3076,
+    "bggUrl": "https://boardgamegeek.com/boardgame/3076/puerto-rico",
+    "imageUrl": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep@2x/img/xsGhB4hILkmPU5nRak34ryHhSBU=/fit-in/492x600/filters:strip_icc()/pic158548.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg"
+  },
+  "push": {
+    "bggId": 265256,
+    "bggUrl": "https://boardgamegeek.com/boardgame/265256/push",
+    "imageUrl": "https://cf.geekdo-images.com/6mcfJ0qM9BW-tVi8ylg_uQ__itemrep@2x/img/gFx-5RQSi29K4gRacA0h43jTy4M=/fit-in/492x600/filters:strip_icc()/pic5197222.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/6mcfJ0qM9BW-tVi8ylg_uQ__itemrep/img/T_MTLYtMtbntHXKfUQqhSM75A-o=/fit-in/246x300/filters:strip_icc()/pic5197222.jpg"
+  },
+  "queendomino": {
+    "bggId": 232043,
+    "bggUrl": "https://boardgamegeek.com/boardgame/232043/queendomino",
+    "imageUrl": "https://cf.geekdo-images.com/_6VtTmeI4e7cORxFWRC7Og__itemrep@2x/img/azhbpakL9YErOL2jbDhy802Cb8g=/fit-in/492x600/filters:strip_icc()/pic3672901.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/_6VtTmeI4e7cORxFWRC7Og__itemrep/img/vHPqOYE1zACpaddnHtRsGADB7pE=/fit-in/246x300/filters:strip_icc()/pic3672901.png"
+  },
+  "qwirkle": {
+    "bggId": 25669,
+    "bggUrl": "https://boardgamegeek.com/boardgame/25669/qwirkle",
+    "imageUrl": "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__itemrep@2x/img/mbKpr3pmVc6cXJ9S1em53Kd1wKA=/fit-in/492x600/filters:strip_icc()/pic309353.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__itemrep/img/NT_ZcUmqsFuTFrGQbybvmPsl1dY=/fit-in/246x300/filters:strip_icc()/pic309353.jpg"
+  },
+  "race for the galaxy": {
+    "bggId": 28143,
+    "bggUrl": "https://boardgamegeek.com/boardgame/28143/race-for-the-galaxy",
+    "imageUrl": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__itemrep@2x/img/akHxpP1vYQFKDHj87aH0hlo2H3M=/fit-in/492x600/filters:strip_icc()/pic5261714.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__itemrep/img/DBzrnh_ZSypfwdfZXVOvCGBf1ig=/fit-in/246x300/filters:strip_icc()/pic5261714.jpg"
+  },
+  "res arcana": {
+    "bggId": 262712,
+    "bggUrl": "https://boardgamegeek.com/boardgame/262712/res-arcana",
+    "imageUrl": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep@2x/img/eB4ouSAbstiOnpVoIWWTAfdT1oM=/fit-in/492x600/filters:strip_icc()/pic4422847.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg"
+  },
+  "romeo et juliette": {
+    "bggId": 287638,
+    "bggUrl": "https://boardgamegeek.com/boardgame/287638/romeo-and-juliette",
+    "imageUrl": "https://cf.geekdo-images.com/xtyJIUyRammqfDqU2wPsTw__itemrep@2x/img/n68qD4d7HW61lPsny2JFJcHHMKI=/fit-in/492x600/filters:strip_icc()/pic5188323.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/xtyJIUyRammqfDqU2wPsTw__itemrep/img/VmG3boJkqXSmGlZSpV-2DFlNrtI=/fit-in/246x300/filters:strip_icc()/pic5188323.jpg"
+  },
+  "root": {
+    "bggId": 237182,
+    "bggUrl": "https://boardgamegeek.com/boardgame/237182/root",
+    "imageUrl": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep@2x/img/ws8Cu10dtH9Dk0bzuc4xHmIKDEc=/fit-in/492x600/filters:strip_icc()/pic4254509.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__itemrep/img/sQgkl-_hydBVvQHAMLt2Zk_3dwI=/fit-in/246x300/filters:strip_icc()/pic4254509.jpg"
+  },
+  "rum and bones": {
+    "bggId": 168788,
+    "bggUrl": "https://boardgamegeek.com/boardgame/168788/rum-and-bones",
+    "imageUrl": "https://cf.geekdo-images.com/UhShS2hLt3bV8Eg4RO5-ZQ__itemrep/img/BptoqaJtM-qfJfBA1QkJYBZpfME=/fit-in/246x300/filters:strip_icc()/pic3954085.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/UhShS2hLt3bV8Eg4RO5-ZQ__itemrep/img/BptoqaJtM-qfJfBA1QkJYBZpfME=/fit-in/246x300/filters:strip_icc()/pic3954085.jpg"
+  },
+  "saboteur": {
+    "bggId": 9220,
+    "bggUrl": "https://boardgamegeek.com/boardgame/9220/saboteur",
+    "imageUrl": "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__itemrep@2x/img/ewPzGFDR0o5VSaB26bz4tstlFzc=/fit-in/492x600/filters:strip_icc()/pic8679622.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__itemrep/img/HR8TYZ1SYp5luArqPagg8_cTUJs=/fit-in/246x300/filters:strip_icc()/pic8679622.jpg"
+  },
+  "sagrada": {
+    "bggId": 199561,
+    "bggUrl": "https://boardgamegeek.com/boardgame/199561/sagrada",
+    "imageUrl": "https://cf.geekdo-images.com/77OxPP4ckbOgK9sPg-6KDw__itemrep@2x/img/otQ7UkZheNnEiG2S8vqKM7p66hE=/fit-in/492x600/filters:strip_icc()/pic9374520.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/77OxPP4ckbOgK9sPg-6KDw__itemrep/img/83w34rcD6VctDmBqAj6VmcTs6eg=/fit-in/246x300/filters:strip_icc()/pic9374520.png"
+  },
+  "schotten totten": {
+    "bggId": 372,
+    "bggUrl": "https://boardgamegeek.com/boardgame/372/schotten-totten",
+    "imageUrl": "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__itemrep@2x/img/HO0d0QqqL0uIalDbvOU2Hu5G6nE=/fit-in/492x600/filters:strip_icc()/pic2932872.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__itemrep/img/TVk3kfPLpSzQrQyHj6ByToSrLS0=/fit-in/246x300/filters:strip_icc()/pic2932872.jpg"
+  },
+  "scythe": {
+    "bggId": 169786,
+    "bggUrl": "https://boardgamegeek.com/boardgame/169786/scythe",
+    "imageUrl": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__itemrep@2x/img/yNHhBsanOA3BTW2uLRtN0LlGsoE=/fit-in/492x600/filters:strip_icc()/pic3163924.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__itemrep/img/RVh5N-_HcMziJ3M6Q1eLTlj8XIQ=/fit-in/246x300/filters:strip_icc()/pic3163924.jpg"
+  },
+  "sea salt and paper": {
+    "bggId": 367220,
+    "bggUrl": "https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper",
+    "imageUrl": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep@2x/img/WAwZZCM6DFwv4Os2CxEUzIP4Xyc=/fit-in/492x600/filters:strip_icc()/pic6973911.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep/img/GnrjU-bLmrdUTF_H31vBMTd-uxA=/fit-in/246x300/filters:strip_icc()/pic6973911.jpg"
+  },
+  "shards of infinity": {
+    "bggId": 244115,
+    "bggUrl": "https://boardgamegeek.com/boardgame/244115/shards-of-infinity",
+    "imageUrl": "https://cf.geekdo-images.com/GfQBoqOl21zQx-Vy-dSHZw__itemrep@2x/img/-NsY7jsr5MN7QBUllN9nqByrKqc=/fit-in/492x600/filters:strip_icc()/pic4064509.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/GfQBoqOl21zQx-Vy-dSHZw__itemrep/img/ogAc9Pl4RaJeMj7KNzQA7qyoYqU=/fit-in/246x300/filters:strip_icc()/pic4064509.png"
+  },
+  "skull": {
+    "bggId": 92415,
+    "bggUrl": "https://boardgamegeek.com/boardgame/92415/skull",
+    "imageUrl": "https://cf.geekdo-images.com/GVbKORueiHezUaLfVZKlfQ__itemrep@2x/img/uN8Fuy8hVCPa_3e3bYcwlx4if9Y=/fit-in/492x600/filters:strip_icc()/pic9315848.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/GVbKORueiHezUaLfVZKlfQ__itemrep/img/IIjNSyysVdQZVUN6FEICYee8bcA=/fit-in/246x300/filters:strip_icc()/pic9315848.jpg"
+  },
+  "skull king": {
+    "bggId": 150145,
+    "bggUrl": "https://boardgamegeek.com/boardgame/150145/skull-king",
+    "imageUrl": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep@2x/img/u282aOGplMokEqS8ID7MuYwjnNs=/fit-in/492x600/filters:strip_icc()/pic8689185.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep/img/duwIufYC4mHrAqmv9Wp2qCg_jVI=/fit-in/246x300/filters:strip_icc()/pic8689185.jpg"
+  },
+  "skyjo": {
+    "bggId": 204135,
+    "bggUrl": "https://boardgamegeek.com/boardgame/204135/skyjo",
+    "imageUrl": "https://cf.geekdo-images.com/NMNeoJY6aU6C2EJz67YEfA__itemrep@2x/img/20BOisNKi9A7FIAUrCO6NyIDJrc=/fit-in/492x600/filters:strip_icc()/pic4559127.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/NMNeoJY6aU6C2EJz67YEfA__itemrep/img/mlSkgK6PseYvOGpzJZ1fz0mHkPo=/fit-in/246x300/filters:strip_icc()/pic4559127.jpg"
+  },
+  "small world": {
+    "bggId": 40692,
+    "bggUrl": "https://boardgamegeek.com/boardgame/40692/small-world",
+    "imageUrl": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep@2x/img/BabTTgEL6Yl0SoDzh9yyx_3mtp8=/fit-in/492x600/filters:strip_icc()/pic428828.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc()/pic428828.jpg"
+  },
+  "splendor": {
+    "bggId": 148228,
+    "bggUrl": "https://boardgamegeek.com/boardgame/148228/splendor",
+    "imageUrl": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__itemrep@2x/img/qDjpnPQ6u7oROPU9dS3c_opVIFc=/fit-in/492x600/filters:strip_icc()/pic8234167.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__itemrep/img/OoBoVLPl4ZYiNioNIKlV_0HLEYQ=/fit-in/246x300/filters:strip_icc()/pic8234167.png"
+  },
+  "splendor duel": {
+    "bggId": 364073,
+    "bggUrl": "https://boardgamegeek.com/boardgame/364073/splendor-duel",
+    "imageUrl": "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__itemrep@2x/img/mOcAU4QBrEe_aa45DdzHcivR5P0=/fit-in/492x600/filters:strip_icc()/pic6929347.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__itemrep/img/X1a_aOpNwx26n4NuXIK3RDvP7hY=/fit-in/246x300/filters:strip_icc()/pic6929347.jpg"
+  },
+  "sur les traces de darwin": {
+    "bggId": 376683,
+    "bggUrl": "https://boardgamegeek.com/boardgame/376683/in-the-footsteps-of-darwin",
+    "imageUrl": "https://cf.geekdo-images.com/1KPQC8pVuTXL32RdbTxDjw__itemrep@2x/img/caf6BFcscXSzadMAalVmn52lEoE=/fit-in/492x600/filters:strip_icc()/pic7234392.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/1KPQC8pVuTXL32RdbTxDjw__itemrep/img/caf6BFcscXSzadMAalVmn52lEoE=/fit-in/246x300/filters:strip_icc()/pic7234392.jpg"
+  },
+  "sushi go": {
+    "bggId": 133473,
+    "bggUrl": "https://boardgamegeek.com/boardgame/133473/sushi-go",
+    "imageUrl": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__itemrep@2x/img/_-D1tAyUWTc7vRaezai6r2ddn4Q=/fit-in/492x600/filters:strip_icc()/pic1900075.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__itemrep/img/XEFhq_xryUgTUJpNGF4tQH_5WRs=/fit-in/246x300/filters:strip_icc()/pic1900075.jpg"
+  },
+  "takenoko": {
+    "bggId": 70919,
+    "bggUrl": "https://boardgamegeek.com/boardgame/70919/takenoko",
+    "imageUrl": "https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__itemrep@2x/img/ZH7oiW4lsZIYrawRmpQwkCTvSw8=/fit-in/492x600/filters:strip_icc()/pic1912529.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__itemrep/img/fT5tXhYc0kc5ur8NDdnJHj_GOSw=/fit-in/246x300/filters:strip_icc()/pic1912529.jpg"
+  },
+  "terraforming mars": {
+    "bggId": 167791,
+    "bggUrl": "https://boardgamegeek.com/boardgame/167791/terraforming-mars",
+    "imageUrl": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep@2x/img/4MA5xzO_pYlyq6hadbgf16utc28=/fit-in/492x600/filters:strip_icc()/pic3536616.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg"
+  },
+  "terraforming mars des": {
+    "bggId": 296108,
+    "bggUrl": "https://boardgamegeek.com/boardgame/296108/terraforming-mars-the-dice-game",
+    "imageUrl": "https://cf.geekdo-images.com/ZaBpuleG30S1-hAmJnL4RA__itemrep@2x/img/_-hFGUI5dwClnD4uExj2pgaUaYU=/fit-in/492x600/filters:strip_icc()/pic7077185.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ZaBpuleG30S1-hAmJnL4RA__itemrep/img/_-hFGUI5dwClnD4uExj2pgaUaYU=/fit-in/246x300/filters:strip_icc()/pic7077185.jpg"
+  },
+  "that s not a hat": {
+    "bggId": 375651,
+    "bggUrl": "https://boardgamegeek.com/boardgame/375651/thats-not-a-hat",
+    "imageUrl": "https://cf.geekdo-images.com/y_8E6IhpFg5z-_9KHdQYYQ__itemrep@2x/img/sDT10WsHwFZ3IGO18_1LJSAtqNE=/fit-in/492x600/filters:strip_icc()/pic7386321.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/y_8E6IhpFg5z-_9KHdQYYQ__itemrep/img/H_9U31EwDzq4ik9P3p-CjGPlMZk=/fit-in/246x300/filters:strip_icc()/pic7386321.jpg"
+  },
+  "the crew": {
+    "bggId": 284083,
+    "bggUrl": "https://boardgamegeek.com/boardgame/284083/the-crew-the-quest-for-planet-nine",
+    "imageUrl": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep@2x/img/1ZTS88m5qgAXS-EN3F_4e07zwEc=/fit-in/492x600/filters:strip_icc()/pic5687013.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc()/pic5687013.jpg"
+  },
+  "the loop": {
+    "bggId": 316412,
+    "bggUrl": "https://boardgamegeek.com/boardgame/316412/the-loop",
+    "imageUrl": "https://cf.geekdo-images.com/NPWdxDD5uLOBLBDdVgdLvA__itemrep@2x/img/zXqwdGVR-b_b1ApbAbnWSv_lWpE=/fit-in/492x600/filters:strip_icc()/pic6034093.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/NPWdxDD5uLOBLBDdVgdLvA__itemrep/img/XnHVz4AgmD831o8zb7rKpc63Xrs=/fit-in/246x300/filters:strip_icc()/pic6034093.png"
+  },
+  "the mind": {
+    "bggId": 244992,
+    "bggUrl": "https://boardgamegeek.com/boardgame/244992/the-mind",
+    "imageUrl": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__itemrep@2x/img/MDdwMpfjxTZ8qKniSeChQRtQLEA=/fit-in/492x600/filters:strip_icc()/pic3979766.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png"
+  },
+  "time bomb": {
+    "bggId": 236217,
+    "bggUrl": "https://boardgamegeek.com/boardgame/236217/time-bomb",
+    "imageUrl": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__itemrep/img/OkJ3r3XGDpVmZtjvoPOUZ3psH38=/fit-in/246x300/filters:strip_icc()/pic4314256.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__itemrep/img/OkJ3r3XGDpVmZtjvoPOUZ3psH38=/fit-in/246x300/filters:strip_icc()/pic4314256.jpg"
+  },
+  "timebomb": {
+    "bggId": 236217,
+    "bggUrl": "https://boardgamegeek.com/boardgame/236217/time-bomb",
+    "imageUrl": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__itemrep/img/OkJ3r3XGDpVmZtjvoPOUZ3psH38=/fit-in/246x300/filters:strip_icc()/pic4314256.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__itemrep/img/OkJ3r3XGDpVmZtjvoPOUZ3psH38=/fit-in/246x300/filters:strip_icc()/pic4314256.jpg"
+  },
+  "top ten": {
+    "bggId": 300905,
+    "bggUrl": "https://boardgamegeek.com/boardgame/300905/top-ten",
+    "imageUrl": "https://cf.geekdo-images.com/0LVOOyXtNNyFhyj7tFaKCQ__itemrep@2x/img/Sv9TAV7XQ_t-LHPT87ixUdLBuFA=/fit-in/492x600/filters:strip_icc()/pic5212719.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/0LVOOyXtNNyFhyj7tFaKCQ__itemrep/img/vfGYy9y2mobyuZvN_XCTMAHNsJo=/fit-in/246x300/filters:strip_icc()/pic5212719.jpg"
+  },
+  "tours ambulantes": {
+    "bggId": 355483,
+    "bggUrl": "https://boardgamegeek.com/boardgame/355483/wandering-towers",
+    "imageUrl": "https://cf.geekdo-images.com/602eY-xlgkaL3gtyZ7QVVQ__itemrep@2x/img/DFUR1nVmWyyIwtROmFOhl24NZ70=/fit-in/492x600/filters:strip_icc()/pic7347437.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/602eY-xlgkaL3gtyZ7QVVQ__itemrep/img/DFUR1nVmWyyIwtROmFOhl24NZ70=/fit-in/246x300/filters:strip_icc()/pic7347437.jpg"
+  },
+  "tracks": {
+    "bggId": 370984,
+    "bggUrl": "https://boardgamegeek.com/boardgame/370984/tracks-siren-bay",
+    "imageUrl": "https://cf.geekdo-images.com/ZyNBXiy4RX-8iNYAor4fBA__itemrep@2x/img/UFL83q4a_Vcmt4r-rIWQzihXkQM=/fit-in/492x600/filters:strip_icc()/pic7079332.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ZyNBXiy4RX-8iNYAor4fBA__itemrep/img/UFL83q4a_Vcmt4r-rIWQzihXkQM=/fit-in/246x300/filters:strip_icc()/pic7079332.png"
+  },
+  "trio": {
+    "bggId": 352515,
+    "bggUrl": "https://boardgamegeek.com/boardgame/352515/trio",
+    "imageUrl": "https://cf.geekdo-images.com/d9F0ZDqcN3J7J92WckyraQ__itemrep@2x/img/CtQURwrJhsJzATLyqTRSLc5n5mU=/fit-in/492x600/filters:strip_icc()/pic7605785.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/d9F0ZDqcN3J7J92WckyraQ__itemrep/img/PM9irc2PPSp1oV7lVKuXhmMUlsI=/fit-in/246x300/filters:strip_icc()/pic7605785.jpg"
+  },
+  "ttmc": {
+    "bggId": 262341,
+    "bggUrl": "https://boardgamegeek.com/boardgame/262341/ttmc-tu-te-mets-combien",
+    "imageUrl": "https://cf.geekdo-images.com/Rb_Iz2wCd64wSlB5Ju5GPQ__itemrep@2x/img/5GaW7HplXWhDZphxCSKRVbauYNw=/fit-in/492x600/filters:strip_icc()/pic8331743.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/Rb_Iz2wCd64wSlB5Ju5GPQ__itemrep/img/0mAXnVzHh0aiNaDt4870ZoDQmzg=/fit-in/246x300/filters:strip_icc()/pic8331743.jpg"
+  },
+  "turing machine": {
+    "bggId": 356123,
+    "bggUrl": "https://boardgamegeek.com/boardgame/356123/turing-machine",
+    "imageUrl": "https://cf.geekdo-images.com/un5yundwtC6q1U9gWTY8Yw__itemrep@2x/img/FC67O35roP85oaXUqtGYUyLXovg=/fit-in/492x600/filters:strip_icc()/pic6883492.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/un5yundwtC6q1U9gWTY8Yw__itemrep/img/dmF4UID5Nz-j_7Pfd1rnQTukUD8=/fit-in/246x300/filters:strip_icc()/pic6883492.png"
+  },
+  "unlock": {
+    "bggId": 213460,
+    "bggUrl": "https://boardgamegeek.com/boardgame/213460/unlock-escape-adventures",
+    "imageUrl": "https://cf.geekdo-images.com/h8K_nTemD6bmydT0akChZw__itemrep@2x/img/R2QHvgCc8D_4-PbeQHCqnD2foPU=/fit-in/492x600/filters:strip_icc()/pic3348790.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/h8K_nTemD6bmydT0akChZw__itemrep/img/iMAU0kXMRnB-NLvM-KC92zxDPcg=/fit-in/246x300/filters:strip_icc()/pic3348790.jpg"
+  },
+  "uno": {
+    "bggId": 2223,
+    "bggUrl": "https://boardgamegeek.com/boardgame/2223/uno",
+    "imageUrl": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__itemrep/img/m4GOPbjQ_C6lclrlQQqvLkVtyo8=/fit-in/246x300/filters:strip_icc()/pic8204165.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__itemrep/img/m4GOPbjQ_C6lclrlQQqvLkVtyo8=/fit-in/246x300/filters:strip_icc()/pic8204165.jpg"
+  },
+  "vale of eternity": {
+    "bggId": 385529,
+    "bggUrl": "https://boardgamegeek.com/boardgame/385529/the-vale-of-eternity",
+    "imageUrl": "https://cf.geekdo-images.com/yWwckUmFXuGXxp41-vFaVQ__itemrep@2x/img/7VR27OwgARFwW6ealgj1EDWf9fE=/fit-in/492x600/filters:strip_icc()/pic7461472.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/yWwckUmFXuGXxp41-vFaVQ__itemrep/img/v-AOjfxlYZ62Ie6u_miGggtA4EU=/fit-in/246x300/filters:strip_icc()/pic7461472.png"
+  },
+  "vindication": {
+    "bggId": 224783,
+    "bggUrl": "https://boardgamegeek.com/boardgame/224783/vindication",
+    "imageUrl": "https://cf.geekdo-images.com/8kEIlWY3rg27NgmVBZkFyg__itemrep@2x/img/vjNCHwIUGnlJdgnGl3Q6sYUeaH0=/fit-in/492x600/filters:strip_icc()/pic4101638.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/8kEIlWY3rg27NgmVBZkFyg__itemrep/img/odthrYbIFr709hQZfBju9zYUKuI=/fit-in/246x300/filters:strip_icc()/pic4101638.jpg"
+  },
+  "wasgij": {
+    "bggId": 129559,
+    "bggUrl": "https://boardgamegeek.com/boardgame/129559/wasgij-spin-and-shout",
+    "imageUrl": "https://cf.geekdo-images.com/5grqpnVLg93Bswh5oH5c5w__itemrep@2x/img/NRV3Rlbo_Fcyoj6E3n-QkXkPkSg=/fit-in/492x600/filters:strip_icc()/pic1524823.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/5grqpnVLg93Bswh5oH5c5w__itemrep/img/xJvtbbVkyUnaDyI3BcmEeqBAslU=/fit-in/246x300/filters:strip_icc()/pic1524823.png"
+  },
+  "wazabi": {
+    "bggId": 48979,
+    "bggUrl": "https://boardgamegeek.com/boardgame/48979/wazabi",
+    "imageUrl": "https://cf.geekdo-images.com/8_j1EvYRoq6C0DxFzKeNBA__itemrep@2x/img/gNWkBAx8JycqxPAo3RVgxHWDlok=/fit-in/492x600/filters:strip_icc()/pic3484942.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/8_j1EvYRoq6C0DxFzKeNBA__itemrep/img/Cbe0Rf31K1SFqLT1Gbcnr2Rsczs=/fit-in/246x300/filters:strip_icc()/pic3484942.jpg"
+  },
+  "welcome": {
+    "bggId": 233867,
+    "bggUrl": "https://boardgamegeek.com/boardgame/233867/welcome-to",
+    "imageUrl": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep@2x/img/wwYlX-ny6EMtGYFxY7Dv7OiSYxQ=/fit-in/492x600/filters:strip_icc()/pic3761012.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep/img/QKJwfdV3Qrv9w2TX_ML5T3z5G9E=/fit-in/246x300/filters:strip_icc()/pic3761012.jpg"
+  },
+  "welcome to the moon": {
+    "bggId": 339789,
+    "bggUrl": "https://boardgamegeek.com/boardgame/339789/welcome-to-the-moon",
+    "imageUrl": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep@2x/img/vAcMMGbSIA2A9ZnmyERQxLa04XQ=/fit-in/492x600/filters:strip_icc()/pic6204967.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep/img/S8KJaJ1UfomzoC4XGob6pIkresI=/fit-in/246x300/filters:strip_icc()/pic6204967.png"
+  },
+  "wingspan": {
+    "bggId": 266192,
+    "bggUrl": "https://boardgamegeek.com/boardgame/266192/wingspan",
+    "imageUrl": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__itemrep@2x/img/veohwKEtFpERbDq7xGMggHqLKX8=/fit-in/492x600/filters:strip_icc()/pic4458123.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__itemrep/img/DR7181wU4sHT6gn6Q1XccpPxNHg=/fit-in/246x300/filters:strip_icc()/pic4458123.jpg"
+  },
+  "wyrmspan": {
+    "bggId": 410201,
+    "bggUrl": "https://boardgamegeek.com/boardgame/410201/wyrmspan",
+    "imageUrl": "https://cf.geekdo-images.com/cNc-FMsYo-mcRTGaXV2qcQ__itemrep@2x/img/tUDQ5mOWT2gD4jYb5xSfeOsJ7zQ=/fit-in/492x600/filters:strip_icc()/pic8894992.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/cNc-FMsYo-mcRTGaXV2qcQ__itemrep/img/YPrpU3fNa0_L_R_frKKXdPpU-EA=/fit-in/246x300/filters:strip_icc()/pic8894992.jpg"
+  },
+  "yokai": {
+    "bggId": 269146,
+    "bggUrl": "https://boardgamegeek.com/boardgame/269146/yokai",
+    "imageUrl": "https://cf.geekdo-images.com/ZdPt9Og-9LAVTQljmTnb7A__itemrep@2x/img/YuEyAXSO_byCxYAzz0jlaqg6Wlg=/fit-in/492x600/filters:strip_icc()/pic6269497.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ZdPt9Og-9LAVTQljmTnb7A__itemrep/img/YuEyAXSO_byCxYAzz0jlaqg6Wlg=/fit-in/246x300/filters:strip_icc()/pic6269497.png"
+  },
+  "zombicide": {
+    "bggId": 113924,
+    "bggUrl": "https://boardgamegeek.com/boardgame/113924/zombicide",
+    "imageUrl": "https://cf.geekdo-images.com/ZqjfzvtaTIT5FYp1D2CfKw__itemrep/img/lXWYSxxNsi4RGF-SFjIm7iF89cw=/fit-in/246x300/filters:strip_icc()/pic1196191.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/ZqjfzvtaTIT5FYp1D2CfKw__itemrep/img/lXWYSxxNsi4RGF-SFjIm7iF89cw=/fit-in/246x300/filters:strip_icc()/pic1196191.jpg"
+  }
+}

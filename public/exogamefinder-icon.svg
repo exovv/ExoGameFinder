@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ExoGameFinder">
+  <rect width="512" height="512" rx="96" fill="#000000"/>
+  <path d="M96 128h320v256H96z" fill="#ffffff" opacity="0.96"/>
+  <path d="M112 144h288v42H112z" fill="#28afb9"/>
+  <circle cx="178" cy="262" r="34" fill="#0172ce"/>
+  <circle cx="256" cy="262" r="34" fill="#ff9e18"/>
+  <circle cx="334" cy="262" r="34" fill="#fe3b1e"/>
+  <path d="M146 346h220" stroke="#000000" stroke-width="28" stroke-linecap="round"/>
+  <path d="M146 346h116" stroke="#28afb9" stroke-width="28" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "name": "ExoGameFinder",
+  "short_name": "ExoGameFinder",
+  "description": "Trouve le bon jeu CSE en 10 secondes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/exogamefinder-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
