@@ -14,11 +14,11 @@ function pretty(value: Record<string, unknown> | undefined): string {
 
 export function ContributionQueue({ contributions, games, onReview }: ContributionQueueProps) {
   const gameById = new Map(games.map((game) => [game.id, game.title]));
-  const statusLabel = {
+  const statusLabel: Record<Contribution["status"], string> = {
     pending: "À valider",
     approved: "Validée",
     rejected: "Rejetée",
-  } as const;
+  };
 
   return (
     <div className="contribution-list">

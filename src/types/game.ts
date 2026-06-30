@@ -63,6 +63,39 @@ export type Game = {
   updatedAt: string;
 };
 
+export type ContributionStatus = "pending" | "approved" | "rejected";
+
+export type ContributionType =
+  | "add-image"
+  | "add-game"
+  | "edit-game"
+  | "suggest-correction"
+  | "add-rules"
+  | "create-game"
+  | "add-rules-link"
+  | "add-video-link"
+  | "update-location"
+  | "report-missing-game"
+  | "report-wrong-data"
+  | "merge-duplicate"
+  | "other";
+
+export type Contribution = {
+  id: string;
+  type: ContributionType;
+  gameId?: string;
+  authorName: string;
+  authorEmail?: string;
+  status: ContributionStatus;
+  payload: Record<string, unknown>;
+  previousValue?: Record<string, unknown>;
+  comment?: string;
+  sourceUrl?: string;
+  createdAt: string;
+  reviewedAt?: string;
+  reviewedBy?: string;
+};
+
 export type SortKey =
   | "relevance"
   | "title"
