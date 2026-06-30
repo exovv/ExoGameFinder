@@ -38,6 +38,8 @@ export function GameEditForm({ game, onSave }: GameEditFormProps) {
         <label>thumbnailUrl<input value={draft.thumbnailUrl ?? ""} onChange={(event) => update("thumbnailUrl", event.target.value || undefined)} /></label>
         <label>bggId<input type="number" value={draft.bggId ?? ""} onChange={(event) => update("bggId", event.target.value ? Number(event.target.value) : undefined)} /></label>
         <label>bggUrl<input value={draft.bggUrl ?? ""} onChange={(event) => update("bggUrl", event.target.value || undefined)} /></label>
+        <label>myludoUrl<input value={draft.myludoUrl ?? ""} onChange={(event) => update("myludoUrl", event.target.value || undefined)} /></label>
+        <label>Âge min<input type="number" value={draft.ageMin ?? ""} onChange={(event) => update("ageMin", event.target.value ? Number(event.target.value) : undefined)} /></label>
         <label>Joueurs min<input type="number" value={draft.playersMin ?? ""} onChange={(event) => update("playersMin", event.target.value ? Number(event.target.value) : null)} /></label>
         <label>Joueurs max<input type="number" value={draft.playersMax ?? ""} onChange={(event) => update("playersMax", event.target.value ? Number(event.target.value) : null)} /></label>
         <label>Durée min<input type="number" value={draft.durationMin ?? ""} onChange={(event) => update("durationMin", event.target.value ? Number(event.target.value) : null)} /></label>
@@ -46,8 +48,8 @@ export function GameEditForm({ game, onSave }: GameEditFormProps) {
         <label>Complexité<input type="range" min="1" max="5" value={draft.gameComplexity} onChange={(event) => update("gameComplexity", Number(event.target.value) as Game["gameComplexity"])} /></label>
         <label>Mécaniques<textarea value={draft.mechanics.join("\n")} onChange={(event) => update("mechanics", splitList(event.target.value))} /></label>
         <label>Ambiances<textarea value={draft.mood.join("\n")} onChange={(event) => update("mood", splitList(event.target.value))} /></label>
+        <label>Contenu<textarea value={(draft.contents ?? []).join("\n")} onChange={(event) => update("contents", splitList(event.target.value))} /></label>
         <label>Résumé<textarea value={draft.summary ?? ""} onChange={(event) => update("summary", event.target.value)} /></label>
-        <label>Pourquoi choisir ce jeu ?<textarea value={draft.whyPickIt ?? ""} onChange={(event) => update("whyPickIt", event.target.value)} /></label>
         <label>Dépendance langue<select value={draft.languageDependency} onChange={(event) => update("languageDependency", event.target.value as LanguageDependency)}><option value="none">none</option><option value="low">low</option><option value="medium">medium</option><option value="high">high</option></select></label>
         <label>Règles connues<select value={draft.rulesKnowledge} onChange={(event) => update("rulesKnowledge", event.target.value as RulesKnowledge)}><option value="known">oui</option><option value="partial">partiel</option><option value="unknown">à vérifier</option></select></label>
         <label>Liens règles<textarea value={(draft.rulesLinks ?? []).join("\n")} onChange={(event) => update("rulesLinks", splitList(event.target.value))} /></label>

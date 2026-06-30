@@ -29,11 +29,13 @@
     "Aventuriers du rail": "Les Aventuriers du Rail",
     "Tu Te Mets Combien (TTMC)": "TTMC",
     "The Crew": "The Crew",
+    "TimeBomb": "Time Bomb",
     "Splendor": "Splendor"
   },
-  "ambiguousTitles": ["Star Wars", "Dune", "E.T", "En bizarre compagnie", "Le Grand Jeu", "Sauve Mouton", "Robin Wood"],
+  "ambiguousTitles": ["Star Wars", "Dune", "E.T", "Le Grand Jeu", "Sauve Mouton", "Robin Wood"],
   "rawInventory": [
     { "location": "Lot initial", "category": "classique", "title": "2 Jeux de 54 cartes + 1 tarot", "players": null, "mechanics": ["cartes classiques"] },
+    { "location": "Lot initial", "category": "duel", "title": "Échecs", "players": "2", "mechanics": ["stratégie", "duel", "classique"] },
     { "location": "Lot initial", "category": "rapide", "title": "Mille Sabords", "players": "2-5", "mechanics": ["cartes", "stop ou encore"] },
     { "location": "Lot initial", "category": "rapide", "title": "Push", "players": "2-6", "mechanics": ["cartes"] },
     { "location": "Lot initial", "category": "rapide", "title": "Wasgij", "players": "1", "mechanics": ["puzzle"] },
@@ -70,7 +72,6 @@
     { "location": "Croix", "category": "rapide", "title": "TimeBomb", "players": "4-8", "mechanics": ["bluff"] },
     { "location": "Croix", "category": "rapide", "title": "Next Station London", "players": "1-4", "mechanics": ["draw and write"] },
     { "location": "Croix", "category": "rapide", "title": "Chiche pois chiche", "players": null, "mechanics": ["ambiance", "quiz"] },
-    { "location": "Croix", "category": "rapide", "title": "En bizarre compagnie", "players": null, "mechanics": [] },
     { "location": "Croix", "category": "rapide", "title": "Trio", "players": "2-6", "mechanics": ["cartes", "mémoire"] },
     { "location": "Croix", "category": "rapide", "title": "Code Names", "players": "2-8", "mechanics": ["mots", "déduction"] },
     { "location": "Croix", "category": "rapide", "title": "Skull King", "players": "2-8", "mechanics": ["enchères", "plis"] },
@@ -200,9 +201,7 @@
     { "location": "Hors catégorie", "category": "a-ranger", "title": "Mystic Vale", "players": null, "mechanics": ["deckbuilding", "card crafting"] }
   ],
   "adminModel": {
-    "roles": ["visitor", "contributor", "moderator", "admin"],
-    "contributionStatuses": ["pending", "approved", "rejected"],
-    "contributionTypes": ["create-game", "edit-game", "add-image", "add-rules-link", "add-video-link", "update-location", "report-missing-game", "report-wrong-data", "merge-duplicate"],
+    "mode": "local",
     "dataQualityStatuses": ["verified", "to-check", "ambiguous", "missing-image", "missing-rules"]
   },
   "recommendationWeights": {

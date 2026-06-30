@@ -3,7 +3,8 @@ import type { GameRepository, RepositoryImport, RepositorySnapshot } from "./gam
 
 const STORAGE_KEY = "exogamefinder.repository.v1";
 const MEDIA_VERSION_KEY = "exogamefinder.repository.mediaVersion";
-const MEDIA_VERSION = "2026-06-29-bgg-images-v2";
+const MEDIA_VERSION = "2026-06-30-retired-games-buttons-v4";
+const RETIRED_SEED_GAME_IDS = new Set(["en-bizarre-compagnie", "timebomb"]);
 
 function now(): string {
   return new Date().toISOString();
@@ -34,7 +35,6 @@ function safeParse(value: string | null, fallback: RepositorySnapshot): Reposito
     const parsed = JSON.parse(value) as RepositorySnapshot;
     return {
       games: Array.isArray(parsed.games) ? parsed.games : fallback.games,
-      contributions: Array.isArray(parsed.contributions) ? parsed.contributions : fallback.contributions,
       auditLog: Array.isArray(parsed.auditLog) ? parsed.auditLog : fallback.auditLog,
       locations: Array.isArray(parsed.locations) ? parsed.locations : fallback.locations,
     };
@@ -45,25 +45,54 @@ function safeParse(value: string | null, fallback: RepositorySnapshot): Reposito
 
 function refreshSeedMedia(snapshot: RepositorySnapshot, seed: RepositorySnapshot): RepositorySnapshot {
   const seedGamesById = new Map(seed.games.map((game) => [game.id, game]));
+  const activeSnapshotGames = snapshot.games.filter((game) => !RETIRED_SEED_GAME_IDS.has(game.id));
+  const existingGameIds = new Set(activeSnapshotGames.map((game) => game.id));
+  const refreshedGames = activeSnapshotGames.map((game) => {
+    const seedGame = seedGamesById.get(game.id);
+
+    if (!seedGame?.imageUrl) {
+      return game;
+    }
+
+    const hasOldGenericSummary = game.summary?.startsWith("Jeu ") && game.summary.includes("référencé dans l'inventaire CSE");
+    const hasGeneratedSummary = game.summary?.includes(" est un jeu ") || game.summary?.startsWith(`${game.title}, dans l'édition`);
+    const nextGame = {
+      ...game,
+      category: seedGame.category,
+      locations: [...new Set([...game.locations, ...seedGame.locations])].sort((left, right) => left.localeCompare(right, "fr")),
+      bggId: seedGame.bggId,
+      bggUrl: seedGame.bggUrl,
+      myludoId: game.myludoId ?? seedGame.myludoId,
+      myludoCode: game.myludoCode ?? seedGame.myludoCode,
+      myludoUrl: game.myludoUrl ?? seedGame.myludoUrl,
+      subtitle: game.subtitle ?? seedGame.subtitle,
+      editionYear: game.editionYear ?? seedGame.editionYear,
+      ageMin: game.ageMin ?? seedGame.ageMin,
+      contents: game.contents?.length ? game.contents : seedGame.contents,
+      publishers: game.publishers?.length ? game.publishers : seedGame.publishers,
+      authors: game.authors?.length ? game.authors : seedGame.authors,
+      illustrators: game.illustrators?.length ? game.illustrators : seedGame.illustrators,
+      playersMin: seedGame.myludoUrl ? seedGame.playersMin : game.playersMin,
+      playersMax: seedGame.myludoUrl ? seedGame.playersMax : game.playersMax,
+      durationMin: seedGame.myludoUrl ? seedGame.durationMin : game.durationMin,
+      durationMax: seedGame.myludoUrl ? seedGame.durationMax : game.durationMax,
+      mechanics: [...new Set([...game.mechanics, ...seedGame.mechanics])],
+      mood: seedGame.id === "echecs" ? seedGame.mood : [...new Set([...game.mood, ...seedGame.mood])],
+      imageUrl: seedGame.imageUrl,
+      thumbnailUrl: seedGame.thumbnailUrl,
+      summary: seedGame.summary ?? (hasOldGenericSummary || hasGeneratedSummary ? undefined : game.summary),
+      sourceNotes: [...new Set([game.sourceNotes, seedGame.sourceNotes].filter(Boolean))].join(" | "),
+      dataQuality: seedGame.imageUrl || seedGame.thumbnailUrl ? game.dataQuality.filter((quality) => quality !== "missing-image") : game.dataQuality,
+    };
+
+    return nextGame;
+  });
 
   return {
     ...snapshot,
-    games: snapshot.games.map((game) => {
-      const seedGame = seedGamesById.get(game.id);
-
-      if (!seedGame?.imageUrl) {
-        return game;
-      }
-
-      return {
-        ...game,
-        bggId: seedGame.bggId,
-        bggUrl: seedGame.bggUrl,
-        imageUrl: seedGame.imageUrl,
-        thumbnailUrl: seedGame.thumbnailUrl,
-        dataQuality: game.dataQuality.filter((quality) => quality !== "missing-image"),
-      };
-    }),
+    games: [...refreshedGames, ...seed.games.filter((game) => !existingGameIds.has(game.id))].sort((left, right) =>
+      left.title.localeCompare(right.title, "fr"),
+    ),
   };
 }
 
@@ -111,26 +140,6 @@ export function createLocalStorageRepository(seed: RepositorySnapshot): GameRepo
         ],
       });
     },
-    async submitContribution(contribution) {
-      const snapshot = read();
-      return write({
-        ...snapshot,
-        contributions: [{ ...contribution, status: "pending", createdAt: contribution.createdAt || now() }, ...snapshot.contributions],
-        auditLog: [makeAudit("Proposition utilisateur", contribution.authorName, undefined, undefined, contribution.payload), ...snapshot.auditLog],
-      });
-    },
-    async reviewContribution(id, status, actor) {
-      const snapshot = read();
-      const contribution = snapshot.contributions.find((item) => item.id === id);
-      const nextContributions = snapshot.contributions.map((item) =>
-        item.id === id ? { ...item, status, reviewedAt: now(), reviewedBy: actor } : item,
-      );
-      return write({
-        ...snapshot,
-        contributions: nextContributions,
-        auditLog: [makeAudit(`Contribution ${status}`, actor, undefined, contribution?.previousValue, contribution?.payload), ...snapshot.auditLog],
-      });
-    },
     async saveLocation(location: LocationRecord, actor: string) {
       const snapshot = read();
       const previous = snapshot.locations.find((item) => item.id === location.id);
@@ -147,7 +156,6 @@ export function createLocalStorageRepository(seed: RepositorySnapshot): GameRepo
       const snapshot = read();
       return write({
         games: imported.games ?? snapshot.games,
-        contributions: imported.contributions ?? snapshot.contributions,
         locations: imported.locations ?? snapshot.locations,
         auditLog: [makeAudit("Import JSON", actor, undefined, undefined, { importedAt: now() }), ...(imported.auditLog ?? snapshot.auditLog)],
       });

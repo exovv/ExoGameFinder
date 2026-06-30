@@ -1,11 +1,10 @@
-import { appLocations, games, initialContributions } from "../data/games";
-import type { AuditLogEntry, Contribution, Game, LocationRecord } from "../types/game";
+import { appLocations, games } from "../data/games";
+import type { AuditLogEntry, Game, LocationRecord } from "../types/game";
 import { createLocalStorageRepository } from "./localStorageRepository";
 import { createSupabaseRepository, isSupabaseConfigured } from "./supabaseRepository";
 
 export type RepositorySnapshot = {
   games: Game[];
-  contributions: Contribution[];
   auditLog: AuditLogEntry[];
   locations: LocationRecord[];
 };
@@ -16,8 +15,6 @@ export type GameRepository = {
   mode: "localStorage" | "supabase";
   getSnapshot(): Promise<RepositorySnapshot>;
   saveGame(game: Game, actor: string): Promise<RepositorySnapshot>;
-  submitContribution(contribution: Contribution): Promise<RepositorySnapshot>;
-  reviewContribution(id: string, status: "approved" | "rejected", actor: string): Promise<RepositorySnapshot>;
   saveLocation(location: LocationRecord, actor: string): Promise<RepositorySnapshot>;
   importSnapshot(snapshot: RepositoryImport, actor: string): Promise<RepositorySnapshot>;
   resetDemo(): Promise<RepositorySnapshot>;
@@ -25,7 +22,6 @@ export type GameRepository = {
 
 export const seedSnapshot: RepositorySnapshot = {
   games,
-  contributions: initialContributions,
   locations: appLocations,
   auditLog: [
     {

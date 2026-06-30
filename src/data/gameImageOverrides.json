@@ -149,6 +149,16 @@
     "imageUrl": "https://cf.geekdo-images.com/zxVVmggfpHJpmnJY9j-k1w__itemrep/img/Py7CTY0tSBSwKQ0sgVjRFfsVUZU=/fit-in/246x300/filters:strip_icc()/pic1657689.jpg",
     "thumbnailUrl": "https://cf.geekdo-images.com/zxVVmggfpHJpmnJY9j-k1w__itemrep/img/Py7CTY0tSBSwKQ0sgVjRFfsVUZU=/fit-in/246x300/filters:strip_icc()/pic1657689.jpg"
   },
+  "e t": {
+    "imageUrl": "https://www.myludo.fr/img/jeux/1677277509/300/ch/59324.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1677277509/160/ch/59324.png"
+  },
+  "echecs": {
+    "bggId": 171,
+    "bggUrl": "https://boardgamegeek.com/boardgame/171/chess",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/330px-ChessSet.jpg"
+  },
   "citadelles": {
     "bggId": 478,
     "bggUrl": "https://boardgamegeek.com/boardgame/478/citadels",
@@ -689,6 +699,12 @@
     "imageUrl": "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__itemrep@2x/img/mOcAU4QBrEe_aa45DdzHcivR5P0=/fit-in/492x600/filters:strip_icc()/pic6929347.jpg",
     "thumbnailUrl": "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__itemrep/img/X1a_aOpNwx26n4NuXIK3RDvP7hY=/fit-in/246x300/filters:strip_icc()/pic6929347.jpg"
   },
+  "star wars": {
+    "bggId": 187645,
+    "bggUrl": "https://boardgamegeek.com/boardgame/187645/star-wars-rebellion",
+    "imageUrl": "https://www.myludo.fr/img/jeux/1753997369/300/au/20054.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1753997369/160/au/20054.png"
+  },
   "sur les traces de darwin": {
     "bggId": 376683,
     "bggUrl": "https://boardgamegeek.com/boardgame/376683/in-the-footsteps-of-darwin",
@@ -744,12 +760,6 @@
     "thumbnailUrl": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png"
   },
   "time bomb": {
-    "bggId": 236217,
-    "bggUrl": "https://boardgamegeek.com/boardgame/236217/time-bomb",
-    "imageUrl": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__itemrep/img/OkJ3r3XGDpVmZtjvoPOUZ3psH38=/fit-in/246x300/filters:strip_icc()/pic4314256.jpg",
-    "thumbnailUrl": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__itemrep/img/OkJ3r3XGDpVmZtjvoPOUZ3psH38=/fit-in/246x300/filters:strip_icc()/pic4314256.jpg"
-  },
-  "timebomb": {
     "bggId": 236217,
     "bggUrl": "https://boardgamegeek.com/boardgame/236217/time-bomb",
     "imageUrl": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__itemrep/img/OkJ3r3XGDpVmZtjvoPOUZ3psH38=/fit-in/246x300/filters:strip_icc()/pic4314256.jpg",

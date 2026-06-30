@@ -1,8 +1,8 @@
 import seed from "./exogamefinder.seed.json";
 import imageOverrides from "./gameImageOverrides.json";
+import myludoOverrides from "./myludoGameOverrides.json";
 import { ambiguousTitles, titleAliases } from "./titleAliases";
 import type {
-  Contribution,
   DataQuality,
   Game,
   GameCategory,
@@ -27,6 +27,31 @@ const typedSeed = seed as SeedData;
 const typedImageOverrides = imageOverrides as Record<
   string,
   Pick<Game, "bggId" | "bggUrl" | "imageUrl" | "thumbnailUrl">
+>;
+const typedMyludoOverrides = myludoOverrides as Record<
+  string,
+  Partial<Pick<Game,
+    | "myludoId"
+    | "myludoCode"
+    | "myludoUrl"
+    | "subtitle"
+    | "editionYear"
+    | "ageMin"
+    | "contents"
+    | "publishers"
+    | "authors"
+    | "illustrators"
+    | "playersMin"
+    | "playersMax"
+    | "durationMin"
+    | "durationMax"
+    | "mechanics"
+    | "mood"
+    | "summary"
+    | "imageUrl"
+    | "thumbnailUrl"
+    | "sourceNotes"
+  >>
 >;
 const SEED_DATE = "2026-06-29T00:00:00.000Z";
 const aliasLookup = new Map(
@@ -170,8 +195,6 @@ function toGame(item: RawInventoryItem): Game {
     coop: mechanics.some((mechanic) => normalizeTitle(mechanic).includes("coop")),
     duelOnly: players.playersMin === 2 && players.playersMax === 2,
     languageDependency: mechanics.some((mechanic) => normalizeTitle(mechanic).includes("mots")) ? "high" : "low",
-    summary: `Jeu ${item.category.replace("-", " ")} référencé dans l'inventaire CSE.`,
-    whyPickIt: "Bon candidat lorsque le format, le lieu et l'ambiance correspondent à votre créneau.",
     dataQuality: quality,
     sourceNotes: `Import inventaire: ${item.location} / ${item.category}${item.players ? ` / ${item.players} joueurs` : " / joueurs à compléter"}`,
     createdAt: SEED_DATE,
@@ -183,6 +206,7 @@ export const games: Game[] = Array.from(
   typedSeed.rawInventory
     .map(toGame)
     .map(applyImageOverride)
+    .map(applyMyludoOverride)
     .reduce((map, game) => {
       const current = map.get(game.normalizedTitle);
       map.set(game.normalizedTitle, current ? mergeGame(current, game) : game);
@@ -201,32 +225,22 @@ function applyImageOverride(game: Game): Game {
     dataQuality: game.dataQuality.filter((quality) => quality !== "missing-image"),
   };
 }
+
+function applyMyludoOverride(game: Game): Game {
+  const override = typedMyludoOverrides[game.normalizedTitle] ?? typedMyludoOverrides[game.id];
+  if (!override) return game;
+
+  return {
+    ...game,
+    ...override,
+    alternativeTitles: unique([...(game.alternativeTitles ?? []), override.subtitle ?? ""]),
+    mechanics: unique([...(game.mechanics ?? []), ...(override.mechanics ?? [])]),
+    mood: unique([...(game.mood ?? []), ...(override.mood ?? [])]),
+    dataQuality: override.imageUrl || override.thumbnailUrl ? game.dataQuality.filter((quality) => quality !== "missing-image") : game.dataQuality,
+    sourceNotes: unique([game.sourceNotes ?? "", override.sourceNotes ?? ""]).join(" | "),
+  };
+}
 export const appLocations: LocationRecord[] = unique([
   ...typedSeed.locations,
   ...typedSeed.rawInventory.map((item) => item.location),
 ]).map((name) => ({ id: titleSlug(name), name, active: name !== "Hors catégorie" }));
-
-export const initialContributions: Contribution[] = [
-  {
-    id: "contrib-image-uno",
-    type: "add-image",
-    gameId: "uno",
-    authorName: "Mode démo",
-    status: "pending",
-    payload: { imageUrl: "https://boardgamegeek.com/boardgame/2223/uno" },
-    comment: "Source BGG à vérifier avant validation.",
-    sourceUrl: "https://boardgamegeek.com/boardgame/2223/uno",
-    createdAt: "2026-06-29T08:00:00.000Z",
-  },
-  {
-    id: "contrib-dune-ambiguous",
-    type: "report-wrong-data",
-    gameId: "dune",
-    authorName: "Mode démo",
-    status: "pending",
-    payload: { dataQuality: ["ambiguous", "missing-image", "missing-rules"] },
-    previousValue: { title: "Dune" },
-    comment: "Plusieurs jeux Dune existent, ne pas enrichir automatiquement.",
-    createdAt: "2026-06-29T09:00:00.000Z",
-  },
-];

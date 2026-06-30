@@ -1,8 +1,8 @@
 :root {
-  --turquoise: #16a6ad;
-  --blue: #235c9f;
-  --orange: #f6a13a;
-  --red: #dd3d2f;
+  --turquoise: #28afb9;
+  --blue: #0172ce;
+  --orange: #ff9e18;
+  --red: #fe3b1e;
   --black: #000000;
   --white: #ffffff;
   --background: #f5f7fa;
@@ -10,9 +10,12 @@
   --muted: #62707d;
   --line: #dce5ed;
   --panel: #ffffff;
-  --soft-blue: #e7f3fc;
-  --soft-turquoise: #e3f7f8;
-  --soft-orange: #fff3df;
+  --soft-blue: #dff0ff;
+  --soft-turquoise: #dcf7f8;
+  --soft-orange: #fff0d8;
+  --soft-red: #ffe5e0;
+  --button-gradient: linear-gradient(135deg, var(--blue), var(--turquoise));
+  --happy-gradient: linear-gradient(135deg, rgba(40, 175, 185, 0.18), rgba(1, 114, 206, 0.12) 42%, rgba(255, 158, 24, 0.18));
   --shadow: 0 18px 50px rgba(1, 24, 42, 0.08);
   --radius: 8px;
   --font: "Aptos", "Trebuchet MS", sans-serif;
@@ -24,10 +27,12 @@
 
 body {
   margin: 0;
-  min-width: 320px;
+  min-width: 0;
   background:
-    linear-gradient(135deg, rgba(22, 166, 173, 0.10), transparent 34%),
-    linear-gradient(315deg, rgba(35, 92, 159, 0.10), transparent 28%),
+    radial-gradient(circle at 16% 12%, rgba(255, 158, 24, 0.22), transparent 28%),
+    radial-gradient(circle at 88% 8%, rgba(40, 175, 185, 0.20), transparent 30%),
+    linear-gradient(135deg, rgba(40, 175, 185, 0.12), transparent 34%),
+    linear-gradient(315deg, rgba(1, 114, 206, 0.13), transparent 28%),
     var(--background);
   color: var(--ink);
   font-family: var(--font);
@@ -44,8 +49,9 @@ button,
 .secondary-link,
 .file-button {
   align-items: center;
-  border: 0;
+  border: 3px solid transparent;
   border-radius: var(--radius);
+  box-shadow: 0 10px 22px rgba(1, 24, 42, 0.12);
   cursor: pointer;
   display: inline-flex;
   font: inherit;
@@ -59,7 +65,8 @@ button,
 
 button,
 .primary-link {
-  background: var(--black);
+  background: var(--blue);
+  border-color: #005ea8;
   color: var(--white);
 }
 
@@ -67,6 +74,7 @@ button:hover,
 .primary-link:hover,
 .secondary-link:hover,
 .file-button:hover {
+  box-shadow: 0 14px 28px rgba(1, 24, 42, 0.18);
   transform: translateY(-1px);
 }
 
@@ -79,8 +87,8 @@ button:disabled {
 .secondary-button,
 .secondary-link,
 .file-button {
-  background: var(--white);
-  border: 1px solid var(--line);
+  background: var(--orange);
+  border-color: #d87800;
   color: var(--ink);
 }
 
@@ -128,8 +136,10 @@ h3 {
 .app-shell {
   margin: 0 auto;
   max-width: 1220px;
+  min-width: 0;
   min-height: 100svh;
   padding: 12px;
+  width: 100%;
 }
 
 .app-header {
@@ -199,7 +209,7 @@ h3 {
 }
 
 .main-nav a.active {
-  background: var(--black);
+  background: var(--button-gradient);
   color: var(--white);
 }
 
@@ -285,11 +295,15 @@ main {
 
 .hero-actions--primary {
   align-self: start;
+  justify-content: center;
+  justify-self: center;
   margin-bottom: clamp(52px, 16svh, 170px);
+  width: min(100%, 560px);
 }
 
 .hero-actions--primary .primary-link,
 .hero-actions--primary .secondary-link {
+  border-width: 4px;
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.24);
   min-height: 54px;
   padding: 14px 18px;
@@ -297,12 +311,14 @@ main {
 
 .hero-actions--primary .primary-link {
   background: var(--orange);
+  border-color: var(--red);
   color: var(--black);
 }
 
 .hero-actions--primary .secondary-link {
-  background: rgba(255, 255, 255, 0.94);
-  color: var(--ink);
+  background: var(--turquoise);
+  border-color: var(--blue);
+  color: var(--white);
 }
 
 .page-title p,
@@ -333,6 +349,14 @@ main {
   color: var(--muted);
   font-size: 0.9rem;
   font-weight: 800;
+}
+
+.admin-credit {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+  justify-self: center;
+  text-align: center;
 }
 
 .home-hero .eyebrow,
@@ -431,6 +455,10 @@ main {
   padding: 14px;
 }
 
+.wizard-shell {
+  background: var(--happy-gradient), rgba(255, 255, 255, 0.96);
+}
+
 .search-field {
   align-items: center;
   background: var(--white);
@@ -450,6 +478,7 @@ main {
 .segmented-list,
 .toggle-row,
 .player-selector,
+.player-presets,
 .tag-list,
 .tag-row,
 .badge-row,
@@ -462,6 +491,7 @@ main {
 
 .segmented-list button,
 .player-selector button,
+.player-presets button,
 .choice-card,
 .admin-tabs button {
   background: var(--white);
@@ -472,10 +502,74 @@ main {
 .segmented-list .is-selected,
 .choice-card.is-selected,
 .admin-tabs .is-selected,
-.player-selector button.is-selected {
-  background: var(--black);
-  border-color: var(--black);
+.player-selector button.is-selected,
+.player-presets .is-selected {
+  background: var(--button-gradient);
+  border-color: transparent;
   color: var(--white);
+}
+
+.player-picker {
+  display: grid;
+  gap: 14px;
+  justify-items: center;
+}
+
+.player-selector {
+  align-items: stretch;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  box-shadow: 0 18px 42px rgba(16, 24, 32, 0.10);
+  display: grid;
+  gap: 0;
+  grid-template-columns: 78px minmax(132px, 180px) 78px;
+  overflow: hidden;
+}
+
+.player-selector__button {
+  border-radius: 0;
+  min-height: 74px;
+  padding: 0;
+}
+
+.player-selector__value {
+  align-items: center;
+  border-left: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+  color: var(--ink);
+  display: grid;
+  gap: 2px;
+  justify-items: center;
+  min-height: 74px;
+  padding: 8px 14px;
+}
+
+.player-selector__value svg {
+  color: var(--turquoise);
+}
+
+.player-selector__value strong {
+  font-size: 2.3rem;
+  line-height: 0.9;
+}
+
+.player-selector__value span {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.player-presets {
+  justify-content: center;
+}
+
+.player-presets button {
+  border-radius: 999px;
+  min-height: 42px;
+  min-width: 48px;
+  padding: 8px 12px;
 }
 
 .filter-grid,
@@ -658,6 +752,11 @@ main {
   gap: 8px;
 }
 
+.wizard-topline span:first-child {
+  color: var(--blue);
+  font-weight: 900;
+}
+
 .progress-bar {
   background: #e8eef3;
   border-radius: 999px;
@@ -679,12 +778,46 @@ main {
 }
 
 .choice-card {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(223, 240, 255, 0.88));
+  border-color: rgba(1, 114, 206, 0.18);
   min-height: 86px;
   text-align: left;
 }
 
+.choice-card:nth-child(3n + 2) {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(220, 247, 248, 0.9));
+}
+
+.choice-card:nth-child(3n) {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(255, 240, 216, 0.92));
+}
+
+.choice-card.is-selected {
+  background: var(--button-gradient);
+}
+
 .choice-card.is-selected {
   box-shadow: 0 10px 26px rgba(16, 24, 32, 0.16);
+}
+
+.wizard-actions {
+  justify-content: center;
+}
+
+.wizard-actions button {
+  min-width: 150px;
+}
+
+.wizard-actions .secondary-button {
+  background: var(--turquoise);
+  border-color: var(--blue);
+  color: var(--white);
+}
+
+.wizard-actions button:not(.secondary-button) {
+  background: var(--orange);
+  border-color: var(--red);
+  color: var(--black);
 }
 
 .detail-hero,
@@ -879,14 +1012,32 @@ main {
 }
 
 .admin-login {
+  grid-template-columns: minmax(0, 1fr);
+  justify-items: stretch;
   margin: 0 auto;
   max-width: 560px;
   padding: clamp(18px, 6vw, 34px);
+  overflow: hidden;
+  width: 100%;
+}
+
+.admin-login > * {
+  max-width: 100%;
+  min-width: 0;
+}
+
+.admin-login h1 {
+  font-size: clamp(1.55rem, 10vw, 2.25rem);
+  line-height: 1;
+  overflow-wrap: anywhere;
 }
 
 .admin-login form {
   display: grid;
   gap: 12px;
+  max-width: 100%;
+  min-width: 0;
+  width: 100%;
 }
 
 .admin-login label {
@@ -895,6 +1046,15 @@ main {
   font-size: 0.86rem;
   font-weight: 900;
   gap: 7px;
+  max-width: 100%;
+  min-width: 0;
+}
+
+.admin-login input,
+.admin-login button[type="submit"] {
+  max-width: 100%;
+  min-width: 0;
+  width: 100%;
 }
 
 .alert-text {

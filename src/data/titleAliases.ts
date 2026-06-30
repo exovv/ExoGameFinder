@@ -12,6 +12,7 @@ export const titleAliases: Record<string, string> = {
   "Aventuriers du rail": "Les Aventuriers du Rail",
   "Tu Te Mets Combien (TTMC)": "TTMC",
   "The Crew": "The Crew",
+  TimeBomb: "Time Bomb",
   Splendor: "Splendor",
 };
 
@@ -19,7 +20,6 @@ export const ambiguousTitles = [
   "Star Wars",
   "Dune",
   "E.T",
-  "En bizarre compagnie",
   "Le Grand Jeu",
   "Sauve Mouton",
   "Robin Wood",

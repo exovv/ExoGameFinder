@@ -21,20 +21,18 @@ export function createSupabaseRepository(seed: RepositorySnapshot): GameReposito
     ...fallback,
     mode: "supabase",
     async getSnapshot() {
-      const [{ data: games }, { data: contributions }, { data: auditLog }, { data: locations }] = await Promise.all([
+      const [{ data: games }, { data: auditLog }, { data: locations }] = await Promise.all([
         client.from("games").select("*"),
-        client.from("contributions").select("*"),
         client.from("audit_log").select("*"),
         client.from("locations").select("*"),
       ]);
 
-      if (!games || !contributions || !auditLog || !locations) {
+      if (!games || !auditLog || !locations) {
         return fallback.getSnapshot();
       }
 
       return {
         games: games as RepositorySnapshot["games"],
-        contributions: contributions as RepositorySnapshot["contributions"],
         auditLog: auditLog as RepositorySnapshot["auditLog"],
         locations: locations as RepositorySnapshot["locations"],
       };

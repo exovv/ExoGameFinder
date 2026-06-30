@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "enrich:bgg": "tsx scripts/enrich-bgg-images.ts",
+    "enrich:myludo": "tsx scripts/enrich-myludo-games.ts",
     "lint": "oxlint",
     "preview": "vite preview"
   },

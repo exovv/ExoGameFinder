@@ -44,46 +44,24 @@ export type Game = {
   thumbnailUrl?: string;
   bggId?: number;
   bggUrl?: string;
+  myludoId?: number;
+  myludoCode?: string;
+  myludoUrl?: string;
+  subtitle?: string;
+  editionYear?: number;
+  ageMin?: number;
+  contents?: string[];
+  publishers?: string[];
+  authors?: string[];
+  illustrators?: string[];
   rulesLinks?: string[];
   videoLinks?: string[];
   summary?: string;
-  whyPickIt?: string;
   dataQuality: DataQuality[];
   sourceNotes?: string;
   createdAt: string;
   updatedAt: string;
 };
-
-export type ContributionStatus = "pending" | "approved" | "rejected";
-
-export type ContributionType =
-  | "create-game"
-  | "edit-game"
-  | "add-image"
-  | "add-rules-link"
-  | "add-video-link"
-  | "update-location"
-  | "report-missing-game"
-  | "report-wrong-data"
-  | "merge-duplicate";
-
-export type Contribution = {
-  id: string;
-  type: ContributionType;
-  gameId?: string;
-  authorName: string;
-  authorEmail?: string;
-  status: ContributionStatus;
-  payload: Record<string, unknown>;
-  previousValue?: Record<string, unknown>;
-  comment?: string;
-  sourceUrl?: string;
-  createdAt: string;
-  reviewedAt?: string;
-  reviewedBy?: string;
-};
-
-export type AppRole = "visitor" | "contributor" | "moderator" | "admin";
 
 export type SortKey =
   | "relevance"

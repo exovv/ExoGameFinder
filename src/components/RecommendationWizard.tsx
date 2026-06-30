@@ -44,7 +44,6 @@ export function RecommendationWizard({ games }: RecommendationWizardProps) {
     const maxDifficulty = next.length ? Math.max(...next) as 1 | 2 | 3 | 4 | 5 : undefined;
     update({ learningDifficultyMaxes: next, gameComplexityMaxes: next, learningDifficultyMax: maxDifficulty, gameComplexityMax: maxDifficulty });
   };
-  const resetFilters = () => setFilters({ players: 4, sort: "relevance" });
 
   return (
     <section className="wizard-shell">
@@ -75,7 +74,7 @@ export function RecommendationWizard({ games }: RecommendationWizardProps) {
 
       {step === 2 && (
         <div className="wizard-step">
-          <h1>Quelle ambiance ?</h1>
+          <h1>Quelle(s) ambiance(s) ?</h1>
           <div className="choice-grid">
             {moods.map((mood) => (
               <button className={filters.moods?.includes(mood) ? "choice-card is-selected" : "choice-card"} key={mood} type="button" onClick={() => toggleMood(mood)}>
@@ -88,7 +87,7 @@ export function RecommendationWizard({ games }: RecommendationWizardProps) {
 
       {step === 3 && (
         <div className="wizard-step">
-          <h1>Difficulté acceptable ?</h1>
+          <h1>Règles du jeu</h1>
           <div className="choice-grid">
             {difficulties.map((difficulty) => (
               <button className={filters.learningDifficultyMaxes?.includes(difficulty.value) ? "choice-card is-selected" : "choice-card"} key={difficulty.value} type="button" onClick={() => toggleDifficulty(difficulty.value)}>
@@ -118,10 +117,12 @@ export function RecommendationWizard({ games }: RecommendationWizardProps) {
       )}
 
       <div className="wizard-actions">
-        <button className="secondary-button" type="button" onClick={() => (step > 0 ? setStep(step - 1) : resetFilters())}>
-          {step > 0 ? <ArrowLeft aria-hidden="true" size={18} /> : <RotateCcw aria-hidden="true" size={18} />}
-          {step > 0 ? "Retour" : "Réinitialiser"}
-        </button>
+        {step > 0 ? (
+          <button className="secondary-button" type="button" onClick={() => setStep(step - 1)}>
+            <ArrowLeft aria-hidden="true" size={18} />
+            Retour
+          </button>
+        ) : null}
         {step < 4 ? (
           <button type="button" onClick={() => setStep(step + 1)}>
             Continuer

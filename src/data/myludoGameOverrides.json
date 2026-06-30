@@ -1,0 +1,6167 @@
+{
+  "2 jeux de 54 cartes 1 tarot": {
+    "durationMin": 5,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes classiques"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "echecs": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 10,
+    "durationMax": 60,
+    "ageMin": 6,
+    "contents": [
+      "2 jeux d'échecs"
+    ],
+    "mechanics": [
+      "classique",
+      "duel",
+      "stratégie"
+    ],
+    "mood": [
+      "duel",
+      "stratégie"
+    ],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/330px-ChessSet.jpg",
+    "sourceNotes": "Ajout local: deux jeux d'échecs disponibles. Image Wikimedia Commons: Alan Light, CC BY-SA 3.0.",
+    "summary": "Deux jeux d'échecs sont disponibles. Pour trouver des partenaires de partie ou organiser un créneau, utilisez le Slack \"Chess Cool Club\"."
+  },
+  "6 qui prend": {
+    "playersMin": 2,
+    "playersMax": 10,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "Bluff",
+      "cartes",
+      "Choix simultanés",
+      "Jeu de Cartes",
+      "Réflexion"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 3809,
+    "myludoCode": "6-qui-prend",
+    "myludoUrl": "https://www.myludo.fr/#!/game/6-qui-prend-3809",
+    "editionYear": 2012,
+    "ageMin": 10,
+    "contents": [
+      "104 cartes",
+      "règle du jeu."
+    ],
+    "publishers": [
+      "Amigo Spiele",
+      "Gigamic"
+    ],
+    "authors": [
+      "Wolfgang Kramer"
+    ],
+    "illustrators": [
+      "Franz Vohwinkel"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1756246739/300/ad/3809.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1756246739/160/ad/3809.png",
+    "sourceNotes": "Enrichissement Myludo: 6 qui prend ! (2012)",
+    "summary": "6 qui prend est un jeu rapide pour 2 à 10 joueurs, jouable en environ 30 à 60 minutes autour de Bluff, cartes, Choix simultanés."
+  },
+  "7 wonders extensions leaders cities armada": {
+    "playersMin": 3,
+    "playersMax": 7,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Choix simultanés",
+      "Combinaison",
+      "draft",
+      "Draft",
+      "Jeu de Cartes",
+      "Majorité",
+      "Prise de risque"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 41062,
+    "myludoCode": "7-wonders",
+    "myludoUrl": "https://www.myludo.fr/#!/game/7-wonders-41062",
+    "editionYear": 2020,
+    "ageMin": 10,
+    "contents": [
+      "1 Carnet de score",
+      "1 Livret de règles",
+      "24 Pièces de valeur 3",
+      "46 Jetons Conflit",
+      "49 Cartes Age I",
+      "49 Cartes Age II",
+      "50 Cartes Age III",
+      "54 Pièces de valeur 1",
+      "7 Plateaux Merveille"
+    ],
+    "publishers": [
+      "Repos Production"
+    ],
+    "authors": [
+      "Antoine Bauza"
+    ],
+    "illustrators": [
+      "Miguel Coimbra"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1776331209/300/bp/41062.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1776331209/160/bp/41062.png",
+    "sourceNotes": "Enrichissement Myludo: 7 Wonders (2020)",
+    "summary": "7 Wonders + Extensions Leaders + Cities + Armada est un jeu court pour 3 à 7 joueurs, jouable en environ 30 minutes autour de Choix simultanés, Combinaison, draft."
+  },
+  "7 wonders architects": {
+    "playersMin": 2,
+    "playersMax": 7,
+    "durationMin": 25,
+    "durationMax": 25,
+    "mechanics": [
+      "Collection",
+      "draft",
+      "Draft",
+      "Jeu de Cartes",
+      "Pouvoir"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 51868,
+    "myludoCode": "7-wonders-architects",
+    "myludoUrl": "https://www.myludo.fr/#!/game/7-wonders-architects-51868",
+    "editionYear": 2021,
+    "ageMin": 8,
+    "contents": [
+      "1 livret de règles",
+      "1 pion Chat avec son socle",
+      "15 jetons Progrès",
+      "235 cartes (8 dos de cartes différents)",
+      "28 jetons Victoire Militaire",
+      "6 jetons Conflit",
+      "7 Merveilles en 5 éléments",
+      "7 sabots de cartes",
+      "8 coffrets de rangement"
+    ],
+    "publishers": [
+      "Repos Production"
+    ],
+    "authors": [
+      "Antoine Bauza"
+    ],
+    "illustrators": [
+      "Etienne Hebinger"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1776755569/300/bz/51868.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1776755569/160/bz/51868.png",
+    "sourceNotes": "Enrichissement Myludo: 7 Wonders Architects (2021)",
+    "summary": "7 Wonders Architects est un jeu court pour 2 à 7 joueurs, jouable en environ 25 minutes autour de Collection, draft, Draft."
+  },
+  "7 wonders duel": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "draft",
+      "Draft",
+      "duel",
+      "Gestion de ressources",
+      "Jeu de Cartes",
+      "Majorité",
+      "Tir à la corde"
+    ],
+    "mood": [
+      "duel",
+      "familial"
+    ],
+    "myludoId": 1005,
+    "myludoCode": "7-wonders-duel",
+    "myludoUrl": "https://www.myludo.fr/#!/game/7-wonders-duel-1005",
+    "editionYear": 2015,
+    "ageMin": 10,
+    "contents": [
+      "1 aide de jeu",
+      "1 carnet de scores",
+      "1 pion Conflit",
+      "1 plateau de jeu",
+      "1 règle du jeu",
+      "10 de valeur 3,",
+      "10 jetons Progrès",
+      "12 cartes Merveille",
+      "14 de valeur 1,",
+      "20 cartes Age III",
+      "23 cartes Age I",
+      "23 cartes Age II",
+      "31 pièces de monnaie :",
+      "4 jetons Militaire",
+      "7 cartes Guilde",
+      "7 de valeur 6",
+      "73 cartes Age :"
+    ],
+    "publishers": [
+      "Repos Production"
+    ],
+    "authors": [
+      "Antoine Bauza",
+      "Bruno Cathala"
+    ],
+    "illustrators": [
+      "Miguel Coimbra"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1777629538/300/ab/1005.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1777629538/160/ab/1005.png",
+    "sourceNotes": "Enrichissement Myludo: 7 Wonders Duel (2015)",
+    "summary": "7 Wonders Duel est un jeu duel pour 2 joueurs, jouable en environ 30 minutes autour de draft, Draft, duel."
+  },
+  "abyss": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "collection",
+      "Collection",
+      "Combinaison",
+      "Enchères",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Pioche",
+      "plateau",
+      "Pouvoir",
+      "Stop ou encore"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 1614,
+    "myludoCode": "abyss",
+    "myludoUrl": "https://www.myludo.fr/#!/game/abyss-1614",
+    "editionYear": 2014,
+    "ageMin": 14,
+    "contents": [
+      "1 livret de règles.",
+      "1 marqueur menace",
+      "1 plateau de jeu,",
+      "10 pions Clef,",
+      "20 lieux,",
+      "20 pions Monstres,",
+      "35 cartes Seigneurs,",
+      "5 coupelles,",
+      "50 Perles,",
+      "71 petites cartes Exploration,"
+    ],
+    "publishers": [
+      "Bombyx"
+    ],
+    "authors": [
+      "Bruno Cathala",
+      "Charles Chevallier"
+    ],
+    "illustrators": [
+      "Xavier Collette"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1726999869/300/ab/1614.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1726999869/160/ab/1614.png",
+    "sourceNotes": "Enrichissement Myludo: Abyss (2014)",
+    "summary": "Abyss est un jeu moyen pour 2 à 4 joueurs, jouable en environ 45 minutes autour de collection, Collection, Combinaison."
+  },
+  "akropolis": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 25,
+    "durationMax": 25,
+    "mechanics": [
+      "Empilement",
+      "Jeu de tuiles",
+      "placement",
+      "Placement de tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 55664,
+    "myludoCode": "akropolis",
+    "myludoUrl": "https://www.myludo.fr/#!/game/akropolis-55664",
+    "editionYear": 2022,
+    "ageMin": 8,
+    "contents": [
+      "1 bloc de score",
+      "1 pion Architecte en chef",
+      "1 règle du jeu",
+      "4 aides de jeu",
+      "4 tuiles de départ",
+      "40 cubes Pierre",
+      "61 tuiles Cité"
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [
+      "Jules Messaud"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1753048416/300/cd/55664.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1753048416/160/cd/55664.png",
+    "sourceNotes": "Enrichissement Myludo: Akropolis (2022)",
+    "summary": "Akropolis est un jeu court pour 1 à 4 joueurs, jouable en environ 25 minutes autour de Empilement, Jeu de tuiles, placement."
+  },
+  "ark nova": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 90,
+    "durationMax": 150,
+    "mechanics": [
+      "draft",
+      "Draft",
+      "gestion",
+      "Gestion de main",
+      "hexagones",
+      "Jeu de Cartes",
+      "Pouvoir"
+    ],
+    "mood": [
+      "expert",
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 52777,
+    "myludoCode": "ark-nova",
+    "myludoUrl": "https://www.myludo.fr/#!/game/ark-nova-52777",
+    "editionYear": 2022,
+    "ageMin": 14,
+    "contents": [
+      "1 aide de jeu",
+      "1 glossaire",
+      "1 livret de règles",
+      "1 pion Pause",
+      "1 plateau Association",
+      "1 plateau de jeu",
+      "11 cartes Décompte final",
+      "12 cartes Projet de conservation de base",
+      "12 enclos spéciaux (à R/V identiques : 4 parcs animaliers, 4 vivariums à reptiles, 4 grandes volières)",
+      "12 universités",
+      "15 bâtiments uniques",
+      "2 casiers à couvercle",
+      "2 tuiles Solo",
+      "20 cartes Action recto-verso (5 par jeu)",
+      "20 jetons X",
+      "20 zoos partenaires",
+      "212 cartes Zoo (128 Animal, 64 Mécène, 20 Projet de conservation)",
+      "25 cubes Joueur noirs, 25 bleus, 25 rouges, 25 jaunes",
+      "3 pions marqueurs noirs, 3 bleus, 3 rouges, 3 jaunes",
+      "34 tuiles Kiosque/Pavillon",
+      "4 pions bénévoles noirs, 4 bleus, 4 rouges, 4 jaunes",
+      "70 crédits (40x1, 11x5, 10x10, 9x20)",
+      "8 jetons Constriction",
+      "8 jetons Multiplicateur",
+      "8 jetons Venin",
+      "8 plateaux Zoo recto-verso",
+      "9 tuiles Bonus",
+      "90 enclos standard de différentes tailles (28 taille 1, 24 taille 2, 15 taille 3, 13 taille 4, 10 taille 5)"
+    ],
+    "publishers": [
+      "Feuerland Spiele",
+      "Super Meeple"
+    ],
+    "authors": [
+      "Mathias Wigge"
+    ],
+    "illustrators": [
+      "Christof Tisch",
+      "Dennis Lohausen",
+      "Loïc Billiau",
+      "Steffen Bieker"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1772792651/300/ca/52777.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1772792651/160/ca/52777.png",
+    "sourceNotes": "Enrichissement Myludo: Ark Nova (2022)",
+    "summary": "Ark Nova est un jeu expert pour 1 à 4 joueurs, jouable en environ 90 à 150 minutes autour de draft, Draft, gestion."
+  },
+  "avalon": {
+    "playersMin": 5,
+    "playersMax": 10,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Déduction",
+      "Équipes",
+      "Jeu d'Ambiance",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Rôle secret",
+      "rôles cachés",
+      "Simultanéité"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 48077,
+    "myludoCode": "avalon",
+    "myludoUrl": "https://www.myludo.fr/#!/game/avalon-48077",
+    "editionYear": 2021,
+    "ageMin": 12,
+    "contents": [
+      "1 jeton Roi",
+      "1 livret de règles",
+      "1 marqueur Scrutin",
+      "1 marqueur Tour",
+      "1 pion Équipe",
+      "1 pion Excalibur",
+      "10 aides de jeu",
+      "10 cartes Personnages (qui comprend 5 rôles : 5 Fidèles Vassaux d'Arthur + 3 Sbires de Mordred +1 Assassin + 1 Merlin + 2 Lancelot)",
+      "10 cartes Quête",
+      "20 pions Vote",
+      "3 tableaux de Score (double face)",
+      "5 marqueurs Score",
+      "5 pions Équipe",
+      "7 cartes Allégeance"
+    ],
+    "publishers": [
+      "Matagot"
+    ],
+    "authors": [
+      "Don Eskridge"
+    ],
+    "illustrators": [
+      "Weberson Santiago"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1762873938/300/bw/48077.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1762873938/160/bw/48077.png",
+    "sourceNotes": "Enrichissement Myludo: Avalon (2021)",
+    "summary": "Avalon est un jeu court pour 5 à 10 joueurs, jouable en environ 30 à 60 minutes autour de bluff, Bluff, Déduction."
+  },
+  "avignon": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "cartes",
+      "Conquête",
+      "duel",
+      "Gestion de main",
+      "Influence",
+      "Jeu de Cartes",
+      "Tir à la corde"
+    ],
+    "mood": [
+      "duel"
+    ],
+    "myludoId": 59127,
+    "myludoCode": "avignon",
+    "myludoUrl": "https://www.myludo.fr/#!/game/avignon-59127",
+    "subtitle": "La bataille des Papes",
+    "editionYear": 2022,
+    "ageMin": 12,
+    "contents": [
+      "12 cartes Personnage",
+      "4 cartes Aide de Jeu",
+      "5 cartes Lieu",
+      "livret de règles"
+    ],
+    "publishers": [
+      "Matagot"
+    ],
+    "authors": [
+      "John du Bois"
+    ],
+    "illustrators": [
+      "Fabrice Weiss"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1772121824/300/ch/59127.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1772121824/160/ch/59127.png",
+    "sourceNotes": "Enrichissement Myludo: Avignon (2022)",
+    "summary": "Avignon, dans l'édition La bataille des Papes est un jeu duel pour 2 joueurs, jouable en environ 15 minutes autour de cartes, Conquête, duel."
+  },
+  "azul": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 45,
+    "mechanics": [
+      "Combinaison",
+      "Jeu de tuiles",
+      "placement",
+      "Placement de tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 19467,
+    "myludoCode": "azul",
+    "myludoUrl": "https://www.myludo.fr/#!/game/azul-19467",
+    "editionYear": 2017,
+    "ageMin": 8,
+    "contents": [
+      "1 Marqueur de premier joueur",
+      "1 Règle de jeu",
+      "1 Sac en lin",
+      "100 Tuiles en résine",
+      "4 Marqueurs de score",
+      "4 Plateaux de joueurs",
+      "9 Cercles Fabrique"
+    ],
+    "publishers": [
+      "Plan B Games"
+    ],
+    "authors": [
+      "Michael Kiesling"
+    ],
+    "illustrators": [
+      "Chris Quilliams",
+      "Philippe Guérin"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1767520669/300/at/19467.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1767520669/160/at/19467.png",
+    "sourceNotes": "Enrichissement Myludo: Azul (2017)",
+    "summary": "Azul est un jeu court pour 2 à 4 joueurs, jouable en environ 30 à 45 minutes autour de Combinaison, Jeu de tuiles, placement."
+  },
+  "bang": {
+    "playersMin": 4,
+    "playersMax": 7,
+    "durationMin": 20,
+    "durationMax": 40,
+    "mechanics": [
+      "Affrontement Direct",
+      "Combinaison",
+      "Équipes",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Rôle secret",
+      "rôles cachés"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 4947,
+    "myludoCode": "bang",
+    "myludoUrl": "https://www.myludo.fr/#!/game/bang-4947",
+    "editionYear": 2011,
+    "ageMin": 8,
+    "contents": [
+      "16 cartes personnages",
+      "30 pions balles",
+      "7 cartes rôles",
+      "80 cartes actions et accessoires",
+      "la règle du jeu"
+    ],
+    "publishers": [
+      "Dv Giochi"
+    ],
+    "authors": [
+      "Emiliano Sciarra"
+    ],
+    "illustrators": [
+      "Alex Pierangelini"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741868958/300/ae/4947.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741868958/160/ae/4947.png",
+    "sourceNotes": "Enrichissement Myludo: Bang! (2011)",
+    "summary": "Bang est un jeu rapide pour 4 à 7 joueurs, jouable en environ 20 à 40 minutes autour de Affrontement Direct, Combinaison, Équipes."
+  },
+  "barrage": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 90,
+    "durationMax": 150,
+    "mechanics": [
+      "gestion",
+      "ouvriers"
+    ],
+    "mood": [
+      "expert",
+      "stratégie"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "captain sonar": {
+    "playersMin": 2,
+    "playersMax": 8,
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [
+      "coop",
+      "temps réel"
+    ],
+    "mood": [
+      "coopération",
+      "énergie",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "carcassonne": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 35,
+    "durationMax": 35,
+    "mechanics": [
+      "Blocage",
+      "Connexion",
+      "Jeu de tuiles",
+      "Majorité",
+      "placement",
+      "Placement de tuiles",
+      "tuiles"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 35740,
+    "myludoCode": "carcassonne",
+    "myludoUrl": "https://www.myludo.fr/#!/game/carcassonne-35740",
+    "editionYear": 2016,
+    "ageMin": 7,
+    "contents": [
+      "+ 12 tuiles Rivière",
+      "+ 5 pions Abbé en bois",
+      "1 plateau de score",
+      "2 feuillets de règles",
+      "40 pions en bois",
+      "72 tuiles Terrain"
+    ],
+    "publishers": [
+      "Hans Im Glück",
+      "Z-Man Games"
+    ],
+    "authors": [
+      "Klaus-Jürgen Wrede"
+    ],
+    "illustrators": [
+      "Chris Quilliams"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1767520621/300/bj/35740.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1767520621/160/bj/35740.png",
+    "sourceNotes": "Enrichissement Myludo: Carcassonne (2016)",
+    "summary": "Carcassonne est un jeu moyen pour 2 à 5 joueurs, jouable en environ 35 minutes autour de Blocage, Connexion, Jeu de tuiles."
+  },
+  "cascadia": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 45,
+    "mechanics": [
+      "collection",
+      "Combinaison",
+      "Jeu de tuiles",
+      "Placement de tuiles",
+      "Stratégie",
+      "tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 51951,
+    "myludoCode": "cascadia",
+    "myludoUrl": "https://www.myludo.fr/#!/game/cascadia-51951",
+    "editionYear": 2022,
+    "ageMin": 10,
+    "contents": [
+      "1 Bloc de score",
+      "1 Sac en tissu (Pour les jetons Faune)",
+      "100 Jetons Faune :",
+      "20 buses",
+      "20 ours",
+      "20 renards",
+      "20 saumons",
+      "20 wapitis",
+      "21 cartes Décompte de la Faune (4 ours, 4 wapitis, 4 saumons, 4 buses, 4 renards, 1famille/intermédiaire)",
+      "25 Jetons Nature",
+      "5 Tuiles Habitat de départ",
+      "85 Tuiles Habitat dont 25 Tuiles Habitat Idéal"
+    ],
+    "publishers": [
+      "Alderac Entertainment Group",
+      "Flatout Games",
+      "Lucky Duck Games"
+    ],
+    "authors": [
+      "Randy Flynn"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1776255418/300/bz/51951.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1776255418/160/bz/51951.png",
+    "sourceNotes": "Enrichissement Myludo: Cascadia (2022)",
+    "summary": "Cascadia est un jeu court pour 1 à 4 joueurs, jouable en environ 30 à 45 minutes autour de collection, Combinaison, Jeu de tuiles."
+  },
+  "catane extensions 5 6 joueurs marine marine 5 6 joueurs": {
+    "playersMin": 3,
+    "playersMax": 4,
+    "durationMin": 75,
+    "durationMax": 75,
+    "mechanics": [
+      "Blocage",
+      "Chance & Hasard",
+      "commerce",
+      "Échange & Troc",
+      "Gestion de main",
+      "Jeu de plateau",
+      "placement",
+      "Placement d'ouvriers",
+      "Plateau modulaire"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 19279,
+    "myludoCode": "catan",
+    "myludoUrl": "https://www.myludo.fr/#!/game/catan-19279",
+    "editionYear": 2017,
+    "ageMin": 10,
+    "contents": [
+      "1 feuillet de règles",
+      "1 glossaire",
+      "1 pion Voleurs",
+      "18 jetons numérotés",
+      "19 tuiles Terrain",
+      "2 dés",
+      "2 sabots à cartes",
+      "25 carte Développement",
+      "6 fiches",
+      "6 pièces de cadre",
+      "95 cartes Ressource",
+      "96 figurines (Route, Colonie, Ville)"
+    ],
+    "publishers": [
+      "Filosofia"
+    ],
+    "authors": [
+      "Klaus Teuber"
+    ],
+    "illustrators": [
+      "Michael Menzel"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1733906574/300/at/19279.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1733906574/160/at/19279.png",
+    "sourceNotes": "Enrichissement Myludo: Catan (2017)",
+    "summary": "Catane + Extensions 5-6 joueurs + Marine + Marine 5-6 joueurs est un jeu long pour 3 à 4 joueurs, jouable en environ 75 minutes autour de Blocage, Chance & Hasard, commerce."
+  },
+  "celestia": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Bluff",
+      "Chance & Hasard",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Pari",
+      "Prise de risque",
+      "stop ou encore",
+      "Stop ou encore"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 817,
+    "myludoCode": "celestia",
+    "myludoUrl": "https://www.myludo.fr/#!/game/celestia-817",
+    "editionYear": 2015,
+    "ageMin": 8,
+    "contents": [
+      "1 aéronef",
+      "4 dés événements",
+      "4 x 2 cartes Pouvoir.",
+      "6 pions Aventurier",
+      "6 tuiles Aventurier",
+      "68 cartes Equipement",
+      "78 cartes Trésor",
+      "8 cartes Turbo",
+      "9 tuiles Cité"
+    ],
+    "publishers": [
+      "Blam !"
+    ],
+    "authors": [
+      "Aaron Weissblum"
+    ],
+    "illustrators": [
+      "Gaëtan Noir"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1766745242/300/aa/817.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1766745242/160/aa/817.png",
+    "sourceNotes": "Enrichissement Myludo: Celestia (2015)",
+    "summary": "Celestia est un jeu court pour 2 à 6 joueurs, jouable en environ 30 minutes autour de Bluff, Chance & Hasard, Jeu de Cartes."
+  },
+  "century": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 45,
+    "mechanics": [
+      "Combinaison",
+      "Deck building",
+      "deckbuilding",
+      "Jeu de plateau",
+      "Placement d'ouvriers",
+      "Stratégie"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 69990,
+    "myludoCode": "century",
+    "myludoUrl": "https://www.myludo.fr/#!/game/century-69990",
+    "subtitle": "Big Box",
+    "editionYear": 2019,
+    "ageMin": 8,
+    "contents": [],
+    "publishers": [
+      "Plan B Games"
+    ],
+    "authors": [
+      "Emerson Matsuuchi"
+    ],
+    "illustrators": [
+      "Atha Kanaani",
+      "Chris Quilliams"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1759078454/300/cr/69990.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1759078454/160/cr/69990.png",
+    "sourceNotes": "Enrichissement Myludo: Century (2019)",
+    "summary": "Century, dans l'édition Big Box est un jeu moyen pour 2 à 4 joueurs, jouable en environ 30 à 45 minutes autour de Combinaison, Deck building, deckbuilding."
+  },
+  "century big box": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 45,
+    "mechanics": [
+      "Combinaison",
+      "Deck building",
+      "deckbuilding",
+      "Jeu de plateau",
+      "Placement d'ouvriers",
+      "Stratégie"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 69990,
+    "myludoCode": "century",
+    "myludoUrl": "https://www.myludo.fr/#!/game/century-69990",
+    "subtitle": "Big Box",
+    "editionYear": 2019,
+    "ageMin": 8,
+    "contents": [],
+    "publishers": [
+      "Plan B Games"
+    ],
+    "authors": [
+      "Emerson Matsuuchi"
+    ],
+    "illustrators": [
+      "Atha Kanaani",
+      "Chris Quilliams"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1759078454/300/cr/69990.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1759078454/160/cr/69990.png",
+    "sourceNotes": "Enrichissement Myludo: Century (2019)",
+    "summary": "Century Big Box, dans l'édition Big Box est un jeu court pour 2 à 4 joueurs, jouable en environ 30 à 45 minutes autour de Combinaison, Deck building, deckbuilding."
+  },
+  "cerbere": {
+    "playersMin": 3,
+    "playersMax": 7,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Argumentation",
+      "coop",
+      "Coopération",
+      "Déplacement",
+      "Gestion de main",
+      "Jeu de plateau",
+      "Négociation",
+      "semi-coop",
+      "Semi-coopération"
+    ],
+    "mood": [
+      "coopération",
+      "stratégie"
+    ],
+    "myludoId": 42881,
+    "myludoCode": "cerbere",
+    "myludoUrl": "https://www.myludo.fr/#!/game/cerbere-42881",
+    "editionYear": 2019,
+    "ageMin": 10,
+    "contents": [
+      "1 dé de vitesse",
+      "1 livret de règles",
+      "1 pion Cerbère",
+      "1 planches d'autocollants",
+      "1 plateau de départ",
+      "1 plateau de fin",
+      "1 tuile Pont de cordes",
+      "18 cartes trahison",
+      "28 carte survie",
+      "28 cartes action (4 cartes par joueur)",
+      "3 barques",
+      "3 plateaux intermédiaires",
+      "5 plateaux double face :",
+      "7 cartes aides de jeu",
+      "7 pions aventuriers"
+    ],
+    "publishers": [
+      "La Boite De Jeu",
+      "Origames"
+    ],
+    "authors": [
+      "Pierre Buty"
+    ],
+    "illustrators": [
+      "Jules Dubost",
+      "Pierre Ples"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1739703187/300/bq/42881.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1739703187/160/bq/42881.png",
+    "sourceNotes": "Enrichissement Myludo: Cerbère (2019)",
+    "summary": "Cerbère est un jeu moyen pour 3 à 7 joueurs, jouable en environ 45 minutes autour de Argumentation, coop, Coopération."
+  },
+  "chakra": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Combinaison",
+      "Déplacement",
+      "Jeu de plateau",
+      "optimisation",
+      "Placement Stratégique",
+      "tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 28191,
+    "myludoCode": "chakra",
+    "myludoUrl": "https://www.myludo.fr/#!/game/chakra-28191",
+    "editionYear": 2019,
+    "ageMin": 8,
+    "contents": [
+      "1 Jeton Premier Joueur",
+      "1 Plateau commun Lotus",
+      "1 Sac Univers",
+      "20 Jetons Inspiration",
+      "28 Jetons Méditation",
+      "4 Plateaux individuels à assembler",
+      "8 Jetons Plénitude",
+      "96 Énergies",
+      "Règles"
+    ],
+    "publishers": [
+      "Blam !"
+    ],
+    "authors": [
+      "Luka Krleža"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1766156264/300/bc/28191.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1766156264/160/bc/28191.png",
+    "sourceNotes": "Enrichissement Myludo: Chakra (2019)",
+    "summary": "Chakra est un jeu court pour 2 à 4 joueurs, jouable en environ 30 minutes autour de Combinaison, Déplacement, Jeu de plateau."
+  },
+  "challengers": {
+    "playersMin": 1,
+    "playersMax": 8,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Affrontement Direct",
+      "Asymétrie",
+      "auto-battler",
+      "Combinaison",
+      "deck",
+      "Deck building",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 59564,
+    "myludoCode": "challengers",
+    "myludoUrl": "https://www.myludo.fr/#!/game/challengers-59564",
+    "editionYear": 2022,
+    "ageMin": 8,
+    "contents": [
+      "19 cartes : 1 paquet robot",
+      "2 livrets de règles",
+      "20 cartes : 1 paquet ville de base",
+      "240 cartes : 6 paquets additionnels / 40 cartes cartes par paquet.",
+      "28 jetons de trophées",
+      "3 plateaux de cartes",
+      "336 cartes 48 cartes : 8 paquets de départ / 6 cartes par paquet",
+      "4 disques",
+      "4 tapis de jeu",
+      "40 jetons de fans",
+      "9 cartes plan de tournoi"
+    ],
+    "publishers": [
+      "1 More Time Games",
+      "Z-Man Games"
+    ],
+    "authors": [
+      "Johannes Krenner",
+      "Markus Slawitscheck"
+    ],
+    "illustrators": [
+      "Jeff Harvey"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1779365613/300/ch/59564.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1779365613/160/ch/59564.png",
+    "sourceNotes": "Enrichissement Myludo: Challengers! (2022)",
+    "summary": "Challengers est un jeu court pour 1 à 8 joueurs, jouable en environ 45 minutes autour de Affrontement Direct, Asymétrie, auto-battler."
+  },
+  "champ d honneur": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "Affrontement Direct",
+      "Bag Building",
+      "bagarre",
+      "Capture",
+      "Contrôle de zone",
+      "Déplacement",
+      "Élimination",
+      "Équipes",
+      "Jeu de plateau",
+      "Placement Stratégique",
+      "Stratégie"
+    ],
+    "mood": [
+      "duel",
+      "stratégie"
+    ],
+    "myludoId": 34427,
+    "myludoCode": "champ-d-honneur",
+    "myludoUrl": "https://www.myludo.fr/#!/game/champ-d-honneur-34427",
+    "editionYear": 2019,
+    "ageMin": 14,
+    "contents": [
+      "1 plateau",
+      "16 cartes",
+      "17 marqueurs",
+      "4 sacs en tissu,",
+      "78 jetons (poker)",
+      "Règle du jeu."
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [
+      "David Thompson",
+      "Trevor Benjamin"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1766473239/300/bi/34427.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1766473239/160/bi/34427.png",
+    "sourceNotes": "Enrichissement Myludo: Champ D'Honneur (2019)",
+    "summary": "Champ d'Honneur est un jeu moyen pour 2 à 4 joueurs, jouable en environ 30 à 60 minutes autour de Affrontement Direct, Bag Building, bagarre."
+  },
+  "chiche pois chiche": {
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "ambiance",
+      "quiz"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "citadelles": {
+    "playersMin": 2,
+    "playersMax": 7,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Choix multiples",
+      "Choix simultanés",
+      "Collection",
+      "Construction",
+      "Draft",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Pouvoir"
+    ],
+    "mood": [
+      "ambiance",
+      "stratégie"
+    ],
+    "myludoId": 19544,
+    "myludoCode": "citadelles",
+    "myludoUrl": "https://www.myludo.fr/#!/game/citadelles-19544",
+    "subtitle": "Quatrième édition",
+    "editionYear": 2018,
+    "ageMin": 10,
+    "contents": [
+      "1 Couronne en Plastique",
+      "1 livret de Règles",
+      "27 cartes Personnage",
+      "27 jetons Personnage",
+      "30 Pièces d'Or en plastique",
+      "5 jetons",
+      "6 cartes d'aide de jeu",
+      "84 cartes Quartier"
+    ],
+    "publishers": [
+      "Edge Entertainment"
+    ],
+    "authors": [
+      "Bruno Faidutti"
+    ],
+    "illustrators": [
+      "Andrew Bosley",
+      "Simon Eckert"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1721479627/300/at/19544.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1721479627/160/at/19544.png",
+    "sourceNotes": "Enrichissement Myludo: Citadelles (2018)",
+    "summary": "Citadelles, dans l'édition Quatrième édition est un jeu moyen pour 2 à 7 joueurs, jouable en environ 30 à 60 minutes autour de bluff, Bluff, Choix multiples."
+  },
+  "clank": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "Card-driven",
+      "Course",
+      "Deck building",
+      "deckbuilding",
+      "Élimination",
+      "Exploration",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Mouvement de point à point",
+      "Parcours",
+      "Prise de risque"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 19410,
+    "myludoCode": "clank",
+    "myludoUrl": "https://www.myludo.fr/#!/game/clank-19410",
+    "subtitle": "Les aventuriers du deck-building",
+    "editionYear": 2017,
+    "ageMin": 12,
+    "contents": [
+      "1 Marqueur de Dragon",
+      "1 Plateau Recto-Verso",
+      "1 Sac du Dragon",
+      "100 Cartes Donjon",
+      "120 Cubes Clank !",
+      "24 Cubes Dragon",
+      "29 Pions Secrets",
+      "3 Pions Idole du Singe",
+      "4 decks de départ de 10 cartes",
+      "4 Pions Compétences",
+      "4 Pions Joueurs",
+      "43 Cartes Réserve (Mercenaire, Exploration, Gobelin, Livre des Secrets)",
+      "7 Pions Artefacts",
+      "7 Pions Equipements (Clefs, Sac à dos, Couronnes)",
+      "Pions Or"
+    ],
+    "publishers": [
+      "Dire Wolf",
+      "Renegade Game Studios"
+    ],
+    "authors": [
+      "Paul Dennen"
+    ],
+    "illustrators": [
+      "Nate Storm",
+      "Raul Ramos",
+      "Rayph Beisner"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1747310002/300/at/19410.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1747310002/160/at/19410.png",
+    "sourceNotes": "Enrichissement Myludo: Clank! (2017)",
+    "summary": "Clank, dans l'édition Les aventuriers du deck-building est un jeu moyen pour 2 à 4 joueurs, jouable en environ 60 minutes autour de Card-driven, Course, Deck building."
+  },
+  "codenames": {
+    "playersMin": 2,
+    "playersMax": 99,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "Association d'idées",
+      "déduction",
+      "Équipes",
+      "Jeu d'Ambiance",
+      "mots",
+      "Prise de risque"
+    ],
+    "mood": [
+      "enquête",
+      "rapide"
+    ],
+    "myludoId": 629,
+    "myludoCode": "codenames",
+    "myludoUrl": "https://www.myludo.fr/#!/game/codenames-629",
+    "editionYear": 2016,
+    "ageMin": 12,
+    "contents": [
+      "1 livret de règles",
+      "1 support de carte Clé",
+      "1 tuile Agent Double",
+      "1 tuile Assassin",
+      "200 cartes Nom de Code",
+      "40 cartes Clé",
+      "7 tuiles Témoin",
+      "8 tuiles Informateur bleu",
+      "8 tuiles Informateur rouge"
+    ],
+    "publishers": [
+      "Czech Games Edition",
+      "Iello"
+    ],
+    "authors": [
+      "Vlaada Chvátil"
+    ],
+    "illustrators": [
+      "Stéphane Gantiez",
+      "Tomas Kucerovsky"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1768208418/300/aa/629.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1768208418/160/aa/629.png",
+    "sourceNotes": "Enrichissement Myludo: Codenames (2016)",
+    "summary": "Codenames est un jeu rapide pour 2 à 99 joueurs, jouable en environ 15 minutes autour de Association d'idées, déduction, Équipes."
+  },
+  "codex naturalis": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "placement"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "colt express": {
+    "playersMin": 2,
+    "playersMax": 99,
+    "durationMin": 40,
+    "durationMax": 40,
+    "mechanics": [
+      "Affrontement Direct",
+      "bagarre",
+      "Déplacement",
+      "Gestion de main",
+      "Jeu de plateau",
+      "programmation",
+      "Programmation"
+    ],
+    "mood": [
+      "duel",
+      "stratégie"
+    ],
+    "myludoId": 1467,
+    "myludoCode": "colt-express",
+    "myludoUrl": "https://www.myludo.fr/#!/game/colt-express-1467",
+    "editionYear": 2014,
+    "ageMin": 10,
+    "contents": [
+      "1 Locomotive en carton",
+      "132 cartes (63,5x89mm)",
+      "32 pions Butin",
+      "6 fiches Personnage",
+      "6 Wagons en carton",
+      "7 figurines en bois (Bandits et Marshall)"
+    ],
+    "publishers": [
+      "Ludonaute"
+    ],
+    "authors": [
+      "Christophe Raimbault"
+    ],
+    "illustrators": [
+      "Jordi Valbuena"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1775325421/300/ab/1467.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1775325421/160/ab/1467.png",
+    "sourceNotes": "Enrichissement Myludo: Colt Express (2014)",
+    "summary": "Colt Express est un jeu moyen pour 2 à 99 joueurs, jouable en environ 40 minutes autour de Affrontement Direct, bagarre, Déplacement."
+  },
+  "complots": {
+    "playersMin": 2,
+    "playersMax": 8,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Chance & Hasard",
+      "Élimination",
+      "Jeu de Cartes",
+      "Négociation",
+      "Rôle secret"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 2412,
+    "myludoCode": "complots",
+    "myludoUrl": "https://www.myludo.fr/#!/game/complots-2412",
+    "editionYear": 2013,
+    "ageMin": 8,
+    "contents": [
+      "24 Cartes Personnage",
+      "30 Pièces",
+      "6 Aides de jeu",
+      "Règles"
+    ],
+    "publishers": [
+      "Ferti"
+    ],
+    "authors": [
+      "Rikki Tahta"
+    ],
+    "illustrators": [
+      "Naïade"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1670523815/300/ac/2412.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1670523815/160/ac/2412.png",
+    "sourceNotes": "Enrichissement Myludo: Complots (2013)",
+    "summary": "Complots est un jeu rapide pour 2 à 8 joueurs, jouable en environ 15 minutes autour de bluff, Bluff, Chance & Hasard."
+  },
+  "cryptide": {
+    "playersMin": 3,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "déduction",
+      "Déduction",
+      "Énigme",
+      "Jeu de plateau",
+      "logique",
+      "Plateau modulaire"
+    ],
+    "mood": [
+      "enquête",
+      "stratégie"
+    ],
+    "myludoId": 34004,
+    "myludoCode": "cryptide",
+    "myludoUrl": "https://www.myludo.fr/#!/game/cryptide-34004",
+    "editionYear": 2019,
+    "ageMin": 10,
+    "contents": [
+      "1 pion Recherche",
+      "1 Règle du jeu",
+      "4 cabanes abandonnées (triangles)",
+      "4 pierres dressées (octogones)",
+      "5 jeux de jetons, un par joueur (cubes et disques de même couleur)",
+      "5 livrets d'indices",
+      "54 cartes Énigme",
+      "6 sections de carte géographique numérotées"
+    ],
+    "publishers": [
+      "Origames",
+      "Osprey Games"
+    ],
+    "authors": [
+      "Hal Duncan"
+    ],
+    "illustrators": [
+      "Kwanchai Moriya"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1771178251/300/bi/34004.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1771178251/160/bi/34004.png",
+    "sourceNotes": "Enrichissement Myludo: Cryptide (2019)",
+    "summary": "Cryptide est un jeu moyen pour 3 à 5 joueurs, jouable en environ 30 à 60 minutes autour de déduction, Déduction, Énigme."
+  },
+  "cuba": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 120,
+    "durationMax": 120,
+    "mechanics": [
+      "Construction",
+      "Échange & Troc",
+      "gestion",
+      "Jeu de plateau",
+      "placement",
+      "Roleplay"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 9451,
+    "myludoCode": "cuba",
+    "myludoUrl": "https://www.myludo.fr/#!/game/cuba-9451",
+    "editionYear": 2008,
+    "ageMin": 10,
+    "contents": [],
+    "publishers": [
+      "Filosofia"
+    ],
+    "authors": [
+      "Michael Rieneck",
+      "Stefan Stadler"
+    ],
+    "illustrators": [
+      "Michael Menzel"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1733391097/300/aj/9451.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1733391097/160/aj/9451.png",
+    "sourceNotes": "Enrichissement Myludo: Cuba (2008)",
+    "summary": "Cuba est un jeu long pour 2 à 5 joueurs, jouable en environ 120 minutes autour de Construction, Échange & Troc, gestion."
+  },
+  "dice forge extension": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Chance & Hasard",
+      "Construction",
+      "dés",
+      "Développement",
+      "Gestion de ressources",
+      "Jet De Dés",
+      "Jeu de dés",
+      "Jeu de plateau",
+      "Pouvoir",
+      "Simultanéité"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 43,
+    "myludoCode": "dice-forge",
+    "myludoUrl": "https://www.myludo.fr/#!/game/dice-forge-43",
+    "editionYear": 2017,
+    "ageMin": 10,
+    "contents": [
+      "1 aide",
+      "1 jeton compte-tours",
+      "1 jeton Premier joueur",
+      "1 plateau Îles",
+      "1 plateau Temple avec étui",
+      "108 faces de dé",
+      "20 cubes de couleur",
+      "20 jetons",
+      "4 extensions de réserve",
+      "4 inventaires de Héros",
+      "4 pions héros",
+      "8 dés aux faces amovibles",
+      "96 cartes"
+    ],
+    "publishers": [
+      "Libellud"
+    ],
+    "authors": [
+      "Régis Bonnessée"
+    ],
+    "illustrators": [
+      "Biboun"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741723701/300/aa/43.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741723701/160/aa/43.png",
+    "sourceNotes": "Enrichissement Myludo: Dice Forge (2017)",
+    "summary": "Dice Forge + Extension est un jeu moyen pour 2 à 4 joueurs, jouable en environ 45 minutes autour de Chance & Hasard, Construction, dés."
+  },
+  "district noir": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Collection",
+      "Dans Ta Face",
+      "duel",
+      "Jeu de Cartes",
+      "Majorité",
+      "Prise de risque"
+    ],
+    "mood": [
+      "ambiance",
+      "duel"
+    ],
+    "myludoId": 59045,
+    "myludoCode": "district-noir",
+    "myludoUrl": "https://www.myludo.fr/#!/game/district-noir-59045",
+    "editionYear": 2022,
+    "ageMin": 10,
+    "contents": [
+      "1 jeton Camp (recto-verso)",
+      "2 cartes Aide de Jeu (recto-verso)",
+      "26 cartes Soutiens",
+      "3 cartes Ville",
+      "7 cartes Alliance",
+      "9 cartes Trahison"
+    ],
+    "publishers": [
+      "Spiral Editions"
+    ],
+    "authors": [
+      "Nao Shimamura",
+      "Nobutake Dogen"
+    ],
+    "illustrators": [
+      "Vincent Roché"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1771244332/300/ch/59045.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1771244332/160/ch/59045.png",
+    "sourceNotes": "Enrichissement Myludo: District Noir (2022)",
+    "summary": "District Noir est un jeu duel pour 2 joueurs, jouable en environ 15 minutes autour de bluff, Bluff, Collection."
+  },
+  "dixit": {
+    "playersMin": 3,
+    "playersMax": 8,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Créativité & Imagination",
+      "déduction",
+      "Déduction",
+      "Énigme",
+      "imagination",
+      "Jeu de Cartes",
+      "Narration",
+      "Pari",
+      "Pioche",
+      "Vote"
+    ],
+    "mood": [
+      "enquête",
+      "stratégie"
+    ],
+    "myludoId": 50473,
+    "myludoCode": "dixit",
+    "myludoUrl": "https://www.myludo.fr/#!/game/dixit-50473",
+    "editionYear": 2021,
+    "ageMin": 8,
+    "contents": [
+      "8 pions \"score\" en bois en forme de lapin",
+      "84 cartes",
+      "9 mollettes de vote",
+      "la règle du jeu",
+      "un plateau de jeu \"piste de score\" de 30 cases"
+    ],
+    "publishers": [
+      "Libellud"
+    ],
+    "authors": [
+      "Jean-Louis Roubira"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1701204540/300/by/50473.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1701204540/160/by/50473.png",
+    "sourceNotes": "Enrichissement Myludo: Dixit (2021)",
+    "summary": "Dixit est un jeu moyen pour 3 à 8 joueurs, jouable en environ 30 minutes autour de Créativité & Imagination, déduction, Déduction."
+  },
+  "dominion extension prosperite": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Combinaison",
+      "Dans Ta Face",
+      "Deck building",
+      "deckbuilding",
+      "Gestion de main",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 1939,
+    "myludoCode": "dominion",
+    "myludoUrl": "https://www.myludo.fr/#!/game/dominion-1939",
+    "editionYear": 2013,
+    "ageMin": 8,
+    "contents": [
+      "1 règle",
+      "1 séparateur",
+      "500 cartes"
+    ],
+    "publishers": [
+      "Ystari Games"
+    ],
+    "authors": [
+      "Donald X. Vaccarino"
+    ],
+    "illustrators": [
+      "Christof Tisch",
+      "Claus Stephan",
+      "Harald Lieske",
+      "Marcel-André Casasola Merkle",
+      "Matthias Catrein",
+      "Michael Menzel",
+      "Ryan Laukat",
+      "Tomasz Jedruszek"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1778788325/300/ab/1939.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1778788325/160/ab/1939.png",
+    "sourceNotes": "Enrichissement Myludo: Dominion (2013)",
+    "summary": "Dominion + Extension Prospérité est un jeu moyen pour 2 à 4 joueurs, jouable en environ 45 minutes autour de Combinaison, Dans Ta Face, Deck building."
+  },
+  "draftosaurus": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "Choix simultanés",
+      "Collection",
+      "draft",
+      "Draft",
+      "Jet De Dés",
+      "Jeu de plateau",
+      "placement",
+      "Placement Stratégique"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 28590,
+    "myludoCode": "draftosaurus",
+    "myludoUrl": "https://www.myludo.fr/#!/game/draftosaurus-28590",
+    "editionYear": 2019,
+    "ageMin": 8,
+    "contents": [
+      "1 Dé de contrainte",
+      "1 Sac Opaque",
+      "5 Plateaux Zoo",
+      "60 Dinosaures (10x 6 espèces)",
+      "Règles"
+    ],
+    "publishers": [
+      "Ankama"
+    ],
+    "authors": [
+      "Antoine Bauza",
+      "Corentin Lebrat",
+      "Ludovic Maublanc",
+      "Théo Rivière"
+    ],
+    "illustrators": [
+      "Vipin Alex Jacob"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1730370265/300/bc/28590.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1730370265/160/bc/28590.png",
+    "sourceNotes": "Enrichissement Myludo: Draftosaurus (2019)",
+    "summary": "Draftosaurus est un jeu rapide pour 2 à 5 joueurs, jouable en environ 15 minutes autour de Choix simultanés, Collection, draft."
+  },
+  "dune": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 60,
+    "durationMax": 120,
+    "mechanics": [
+      "Affrontement Direct",
+      "Deck building",
+      "deckbuilding",
+      "Enchères",
+      "Gestion de main",
+      "Influence",
+      "Jeu de plateau",
+      "Placement d'ouvriers"
+    ],
+    "mood": [
+      "expert",
+      "stratégie"
+    ],
+    "myludoId": 43977,
+    "myludoCode": "dune-imperium",
+    "myludoUrl": "https://www.myludo.fr/#!/game/dune-imperium-43977",
+    "editionYear": 2021,
+    "ageMin": 14,
+    "contents": [
+      "+ de 200 cartes",
+      "+ de 60 jetons Ressource en bois",
+      "+ de 70 éléments individuels en bois",
+      "1 livret de règles",
+      "1 plateau de jeu",
+      "13 pions Agent et Mentat en bois",
+      "25 jetons et marqueurs en carton",
+      "8 Dirigeants"
+    ],
+    "publishers": [
+      "Dire Wolf",
+      "Lucky Duck Games"
+    ],
+    "authors": [
+      "Paul Dennen"
+    ],
+    "illustrators": [
+      "Clay Brooks",
+      "Nate Storm"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1752209066/300/br/43977.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1752209066/160/br/43977.png",
+    "sourceNotes": "Enrichissement Myludo: Dune Imperium (2021)",
+    "summary": "Dune est un jeu expert pour 1 à 4 joueurs, jouable en environ 60 à 120 minutes autour de Affrontement Direct, Deck building, deckbuilding."
+  },
+  "e t": {
+    "myludoId": 59324,
+    "myludoCode": "e-t-the-extra-terrestrial-light-years-from-home-game",
+    "myludoUrl": "https://www.myludo.fr/#!/game/e-t-the-extra-terrestrial-light-years-from-home-game-59324",
+    "imageUrl": "https://www.myludo.fr/img/jeux/1677277509/300/ch/59324.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1677277509/160/ch/59324.png",
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [],
+    "mood": [
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "eila et l eclat de la montagne": {
+    "durationMin": 30,
+    "durationMax": 90,
+    "mechanics": [
+      "aventure",
+      "narratif"
+    ],
+    "mood": [
+      "enquête"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "ettin": {
+    "playersMin": 2,
+    "playersMax": 8,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "draft",
+      "Draft",
+      "équipes",
+      "Équipes",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 60203,
+    "myludoCode": "ettin",
+    "myludoUrl": "https://www.myludo.fr/#!/game/ettin-60203",
+    "subtitle": "L'Union fait la force",
+    "editionYear": 2022,
+    "ageMin": 14,
+    "contents": [],
+    "publishers": [
+      "Origames",
+      "Wizkids"
+    ],
+    "authors": [
+      "Kenneth C. Shannon"
+    ],
+    "illustrators": [
+      "Maciej Janik"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1714992040/300/ci/60203.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1714992040/160/ci/60203.png",
+    "sourceNotes": "Enrichissement Myludo: Ettin (2022)",
+    "summary": "Ettin, dans l'édition L'Union fait la force est un jeu long pour 2 à 8 joueurs, jouable en environ 60 minutes autour de draft, Draft, équipes."
+  },
+  "everdell": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 40,
+    "durationMax": 80,
+    "mechanics": [
+      "Construction De Tableau",
+      "draft",
+      "Gestion de main",
+      "Gestion de ressources",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "ouvriers",
+      "Placement d'ouvriers"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 47771,
+    "myludoCode": "everdell",
+    "myludoUrl": "https://www.myludo.fr/#!/game/everdell-47771",
+    "editionYear": 2021,
+    "ageMin": 10,
+    "contents": [
+      "1 Arbre de tous les temps",
+      "1 plateau",
+      "128 cartes",
+      "20 Galets",
+      "20 jetons Occupé",
+      "24 Bestioles en bois",
+      "25 Résine",
+      "27 mini cartes",
+      "30 Baies",
+      "30 Brindilles",
+      "30 jetons Point",
+      "4 tuiles Événement"
+    ],
+    "publishers": [
+      "Matagot",
+      "Starling Games"
+    ],
+    "authors": [
+      "James A. Wilson"
+    ],
+    "illustrators": [
+      "Andrew Bosley"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1781444512/300/bv/47771.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1781444512/160/bv/47771.png",
+    "sourceNotes": "Enrichissement Myludo: Everdell (2021)",
+    "summary": "Everdell est un jeu long pour 1 à 4 joueurs, jouable en environ 40 à 80 minutes autour de Construction De Tableau, draft, Gestion de main."
+  },
+  "exploding kittens": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "cartes",
+      "hasard"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "faraway": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [
+      "cartes",
+      "collection"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "fiesta de los muertos": {
+    "playersMin": 4,
+    "playersMax": 8,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "ambiance",
+      "Communication Restreinte",
+      "Coopération",
+      "Déduction",
+      "Jeu d'Ambiance",
+      "Vote"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 33071,
+    "myludoCode": "fiesta-de-los-muertos",
+    "myludoUrl": "https://www.myludo.fr/#!/game/fiesta-de-los-muertos-33071",
+    "editionYear": 2019,
+    "ageMin": 12,
+    "contents": [
+      "1 livret de règles",
+      "10 cartes Personnage personnalisables",
+      "12 cartes Contrainte",
+      "120 cartes Personnage",
+      "16 jetons Os du souvenir",
+      "8 ardoises Crâne",
+      "8 ardoises Déduction",
+      "8 cartes Numéro",
+      "8 feutres avec effaceur"
+    ],
+    "publishers": [
+      "OldChap"
+    ],
+    "authors": [
+      "Antonin Boccara"
+    ],
+    "illustrators": [
+      "Michel Verdu"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1762111638/300/bh/33071.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1762111638/160/bh/33071.png",
+    "sourceNotes": "Enrichissement Myludo: Fiesta De Los Muertos (2019)",
+    "summary": "Fiesta de los Muertos est un jeu court pour 4 à 8 joueurs, jouable en environ 15 minutes autour de ambiance, Communication Restreinte, Coopération."
+  },
+  "five tribes": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 40,
+    "durationMax": 80,
+    "mechanics": [
+      "Collection",
+      "Combinaison",
+      "Jeu de plateau",
+      "Majorité",
+      "ouvriers",
+      "Plateau modulaire",
+      "Semaille",
+      "stratégie"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 1581,
+    "myludoCode": "five-tribes",
+    "myludoUrl": "https://www.myludo.fr/#!/game/five-tribes-1581",
+    "subtitle": "Les Djinns de Naqala",
+    "editionYear": 2014,
+    "ageMin": 13,
+    "contents": [
+      "1 bloc pour noter les scores des joueurs",
+      "1 livret de règles",
+      "1 piste d'ordre des enchères & 1 piste d'ordre de jeu",
+      "10 palais et 12 palmiers",
+      "16 Vizirs (jaunes)",
+      "18 Assassins (rouges)",
+      "18 Bâtisseurs (bleus)",
+      "18 Marchands (verts)",
+      "2 sets de joueur de 11 chameaux et 2 pions d'enchère",
+      "2 sets de joueur de 8 chameaux et 1 pion d'enchère",
+      "20 Sages (blancs)",
+      "22 cartes Djinn",
+      "30 tuiles formant le sultanat",
+      "5 aides de jeu (tour de jeu / Djinns)",
+      "54 cartes Ressource",
+      "96 pièces d'or",
+      "un sac de 90 meeples en bois représentant les tribus de Naqala :"
+    ],
+    "publishers": [
+      "Days Of Wonder"
+    ],
+    "authors": [
+      "Bruno Cathala"
+    ],
+    "illustrators": [
+      "Clément Masson"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1776757793/300/ab/1581.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1776757793/160/ab/1581.png",
+    "sourceNotes": "Enrichissement Myludo: Five Tribes (2014)",
+    "summary": "Five Tribes, dans l'édition Les Djinns de Naqala est un jeu moyen pour 2 à 4 joueurs, jouable en environ 40 à 80 minutes autour de Collection, Combinaison, Jeu de plateau."
+  },
+  "flamme rouge": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Card-driven",
+      "Choix simultanés",
+      "course",
+      "Course",
+      "Gestion de main",
+      "Jeu de plateau",
+      "Parcours",
+      "Plateau modulaire"
+    ],
+    "mood": [
+      "énergie",
+      "stratégie"
+    ],
+    "myludoId": 400,
+    "myludoCode": "flamme-rouge",
+    "myludoUrl": "https://www.myludo.fr/#!/game/flamme-rouge-400",
+    "subtitle": "Partagez le frisson de la course",
+    "editionYear": 2016,
+    "ageMin": 8,
+    "contents": [
+      "120 cartes d'énergie",
+      "21 tuiles de circuit double face",
+      "4 cartes de référence",
+      "4 plateaux de joueur",
+      "6 cartes d'étape",
+      "60 cartes de fatigue",
+      "8 figurines de cyclistes : 4 coureurs et 4 sprinter (1 pour chaque couleur)"
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [
+      "Asger Harding Granerud"
+    ],
+    "illustrators": [
+      "Jere Kasanen",
+      "Ossi Hiekkala"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1758363698/300/aa/400.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1758363698/160/aa/400.png",
+    "sourceNotes": "Enrichissement Myludo: Flamme Rouge (2016)",
+    "summary": "Flamme Rouge, dans l'édition Partagez le frisson de la course est un jeu moyen pour 2 à 4 joueurs, jouable en environ 30 minutes autour de Card-driven, Choix simultanés, course."
+  },
+  "for sale": {
+    "playersMin": 3,
+    "playersMax": 6,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "Bluff",
+      "Déduction",
+      "enchères",
+      "Enchères",
+      "Enchères cachées",
+      "Gestion de main",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 39114,
+    "myludoCode": "for-sale",
+    "myludoUrl": "https://www.myludo.fr/#!/game/for-sale-39114",
+    "editionYear": 2020,
+    "ageMin": 10,
+    "contents": [
+      "1 livret de règles.",
+      "30 cartes Chèque (61x112mm),",
+      "30 cartes Maison (63.5x88mm),",
+      "84 Billets"
+    ],
+    "publishers": [
+      "Iello"
+    ],
+    "authors": [
+      "Stefan Dorra"
+    ],
+    "illustrators": [
+      "Catell-Ruz",
+      "Emilien Rotival"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741864942/300/bn/39114.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741864942/160/bn/39114.png",
+    "sourceNotes": "Enrichissement Myludo: For Sale (2020)",
+    "summary": "For Sale est un jeu rapide pour 3 à 6 joueurs, jouable en environ 30 à 60 minutes autour de Bluff, Déduction, enchères."
+  },
+  "formula d": {
+    "playersMin": 2,
+    "playersMax": 10,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "Chance & Hasard",
+      "course",
+      "Course",
+      "Gestion",
+      "Jet De Dés",
+      "Jeu de dés",
+      "Jeu de plateau",
+      "Parcours",
+      "Prise de risque",
+      "Simulation"
+    ],
+    "mood": [
+      "énergie",
+      "stratégie"
+    ],
+    "myludoId": 8858,
+    "myludoCode": "formula-d",
+    "myludoUrl": "https://www.myludo.fr/#!/game/formula-d-8858",
+    "editionYear": 2008,
+    "ageMin": 10,
+    "contents": [
+      "10 tableaux de bord pour les joueurs",
+      "2 livrets de règles de 8 et 16 pages",
+      "2 plateaux avec le circuit F1 de Monaco réactualisé et un circuit urbain pour les runs",
+      "20 figurines de voitures peintes",
+      "7 dés spéciaux",
+      "70 pions plastiques (marqueurs et leviers de vitesse)",
+      "planches de pions (marqueurs de dégâts,tableaux de bord réversibles,fiches de pilote)"
+    ],
+    "publishers": [
+      "Asmodee"
+    ],
+    "authors": [
+      "Eric Randall",
+      "Laurent Lavaur"
+    ],
+    "illustrators": [
+      "Stéphane Poinsot"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1777039767/300/ai/8858.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1777039767/160/ai/8858.png",
+    "sourceNotes": "Enrichissement Myludo: Formula D (2008)",
+    "summary": "Formula D est un jeu moyen pour 2 à 10 joueurs, jouable en environ 60 minutes autour de Chance & Hasard, course, Course."
+  },
+  "galerapagos": {
+    "playersMin": 3,
+    "playersMax": 12,
+    "durationMin": 20,
+    "durationMax": 20,
+    "mechanics": [
+      "Bluff",
+      "coop",
+      "Jeu d'Ambiance",
+      "Jeu de plateau",
+      "Négociation",
+      "Pioche",
+      "semi-coop",
+      "Semi-coopération"
+    ],
+    "mood": [
+      "coopération",
+      "rapide"
+    ],
+    "myludoId": 19255,
+    "myludoCode": "galerapagos",
+    "myludoUrl": "https://www.myludo.fr/#!/game/galerapagos-19255",
+    "editionYear": 2017,
+    "ageMin": 10,
+    "contents": [
+      "1 carte premier joueur·se",
+      "1 plateau de jeu",
+      "1 sac",
+      "12 cartes état du naufragé",
+      "12 cartes radeau",
+      "3 marqueurs en bois",
+      "6 boules en bois",
+      "92 cartes : 37 petites cartes : 12 cartes météo",
+      "Règle du jeu"
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [
+      "Philippe Gamelin"
+    ],
+    "illustrators": [
+      "Jonathan Aucomte"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1767792886/300/at/19255.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1767792886/160/at/19255.png",
+    "sourceNotes": "Enrichissement Myludo: Galèrapagos (2017)",
+    "summary": "Galerapagos est un jeu rapide pour 3 à 12 joueurs, jouable en environ 20 minutes autour de Bluff, coop, Jeu d'Ambiance."
+  },
+  "ganymede": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [
+      "collection"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "hanabi": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes",
+      "Communication Restreinte",
+      "coop",
+      "Coopération",
+      "Déduction",
+      "Jeu caché",
+      "Jeu de Cartes",
+      "Logique",
+      "Prise de risque"
+    ],
+    "mood": [
+      "coopération",
+      "rapide"
+    ],
+    "myludoId": 50823,
+    "myludoCode": "hanabi",
+    "myludoUrl": "https://www.myludo.fr/#!/game/hanabi-50823",
+    "editionYear": 2019,
+    "ageMin": 8,
+    "contents": [
+      "1 règle",
+      "3 jetons rouges",
+      "50 cartes feux d'artifice",
+      "8 jetons bleus"
+    ],
+    "publishers": [
+      "Cocktail Games",
+      "Les XII Singes"
+    ],
+    "authors": [
+      "Antoine Bauza"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1781267785/300/by/50823.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1781267785/160/by/50823.png",
+    "sourceNotes": "Enrichissement Myludo: Hanabi (2019)",
+    "summary": "Hanabi est un jeu rapide pour 2 à 5 joueurs, jouable en environ 30 minutes autour de cartes, Communication Restreinte, coop."
+  },
+  "harmonies": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [
+      "construction",
+      "placement"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "heat": {
+    "playersMin": 1,
+    "playersMax": 6,
+    "durationMin": 35,
+    "durationMax": 60,
+    "mechanics": [
+      "course"
+    ],
+    "mood": [
+      "énergie",
+      "stratégie"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "humanity": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 90,
+    "durationMax": 90,
+    "mechanics": [
+      "Gestion de ressources",
+      "Jeu de plateau",
+      "ouvriers",
+      "Placement d'ouvriers",
+      "tuiles"
+    ],
+    "mood": [
+      "expert",
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 64191,
+    "myludoCode": "humanity",
+    "myludoUrl": "https://www.myludo.fr/#!/game/humanity-64191",
+    "editionYear": 2023,
+    "ageMin": 14,
+    "contents": [],
+    "publishers": [
+      "Bombyx"
+    ],
+    "authors": [
+      "Yoann Levet"
+    ],
+    "illustrators": [
+      "Paul Chadeisson",
+      "Pierre Lazarevic",
+      "Remy Paul"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1737656373/300/cm/64191.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1737656373/160/cm/64191.png",
+    "sourceNotes": "Enrichissement Myludo: Humanity (2023)",
+    "summary": "Humanity est un jeu expert pour 2 à 4 joueurs, jouable en environ 90 minutes autour de Gestion de ressources, Jeu de plateau, ouvriers."
+  },
+  "i m banana": {
+    "playersMin": 4,
+    "playersMax": 8,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "ambiance",
+      "Déduction",
+      "Jeu d'Ambiance",
+      "Mime",
+      "Observation",
+      "Temps réel"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 42254,
+    "myludoCode": "i-am-a-banana",
+    "myludoUrl": "https://www.myludo.fr/#!/game/i-am-a-banana-42254",
+    "editionYear": 2020,
+    "ageMin": 8,
+    "contents": [
+      "1 paire de lunettes",
+      "1 plateau rond",
+      "1 règle illustrée",
+      "1 sablier jaune",
+      "120 cartes avec 114 dessins originaux"
+    ],
+    "publishers": [
+      "Le Droit De Perdre"
+    ],
+    "authors": [
+      "Antonin Boccara",
+      "Yves Hirschfeld"
+    ],
+    "illustrators": [
+      "Mathieu Clauss",
+      "Yves Hirschfeld"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1735208777/300/bq/42254.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1735208777/160/bq/42254.png",
+    "sourceNotes": "Enrichissement Myludo: I Am A Banana (2020)",
+    "summary": "I'm Banana est un jeu rapide pour 4 à 8 joueurs, jouable en environ 30 minutes autour de ambiance, Déduction, Jeu d'Ambiance."
+  },
+  "it s a wonderful world extension loisirs et corruption": {
+    "playersMin": 1,
+    "playersMax": 5,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Choix simultanés",
+      "draft",
+      "Draft",
+      "Exploration",
+      "Gestion de ressources",
+      "Jeu de Cartes",
+      "moteur"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 29009,
+    "myludoCode": "it-s-a-wonderful-world",
+    "myludoUrl": "https://www.myludo.fr/#!/game/it-s-a-wonderful-world-29009",
+    "editionYear": 2019,
+    "ageMin": 14,
+    "contents": [
+      "1 carnet de score",
+      "1 Marqueur compte tour",
+      "1 plateau de jeu (à assembler)",
+      "150 cartes Développement",
+      "170 cubes de ressources",
+      "5 Cartes Empire (recto/verso)",
+      "80 jetons personnages (Financiers et Généraux)"
+    ],
+    "publishers": [
+      "La Boite De Jeu",
+      "Origames"
+    ],
+    "authors": [
+      "Frédéric Guérard"
+    ],
+    "illustrators": [
+      "Anthony Wolff"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1768170420/300/bd/29009.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1768170420/160/bd/29009.png",
+    "sourceNotes": "Enrichissement Myludo: It's a Wonderful World (2019)",
+    "summary": "It's a Wonderful World + Extension Loisirs et Corruption est un jeu moyen pour 1 à 5 joueurs, jouable en environ 45 minutes autour de Choix simultanés, draft, Draft."
+  },
+  "jamaica": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Affrontement Direct",
+      "Choix simultanés",
+      "collection",
+      "course",
+      "Course",
+      "Déduction",
+      "Jeu de plateau",
+      "Parcours"
+    ],
+    "mood": [
+      "énergie",
+      "expert",
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 50661,
+    "myludoCode": "jamaica",
+    "myludoUrl": "https://www.myludo.fr/#!/game/jamaica-50661",
+    "editionYear": 2021,
+    "ageMin": 8,
+    "contents": [
+      "1 boussole",
+      "1 plateau de jeu",
+      "12 cartes trésor",
+      "3 dés",
+      "45 jetons nourriture",
+      "45 jetons poudre",
+      "6 bateaux en plastique",
+      "6 plaques cales",
+      "66 cartes action",
+      "80 jetons or",
+      "9 jetons trésor"
+    ],
+    "publishers": [
+      "Space Cowboys"
+    ],
+    "authors": [
+      "Bruno Cathala",
+      "Malcolm Braff",
+      "Sébastien Pauchon"
+    ],
+    "illustrators": [
+      "Mathieu Leyssenne"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1732864640/300/by/50661.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1732864640/160/by/50661.png",
+    "sourceNotes": "Enrichissement Myludo: Jamaïca (2021)",
+    "summary": "Jamaica est un jeu expert pour 2 à 6 joueurs, jouable en environ 45 minutes autour de Affrontement Direct, Choix simultanés, collection."
+  },
+  "jenga": {
+    "playersMin": 1,
+    "playersMax": 10,
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "adresse"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "king of tokyo": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Affrontement Direct",
+      "bagarre",
+      "Chance & Hasard",
+      "Combinaison",
+      "dés",
+      "Élimination",
+      "Gestion de main",
+      "Jet De Dés",
+      "Jeu de Cartes",
+      "Jeu de dés",
+      "Jeu de plateau",
+      "Pouvoir"
+    ],
+    "mood": [
+      "duel",
+      "rapide"
+    ],
+    "myludoId": 575,
+    "myludoCode": "king-of-tokyo",
+    "myludoUrl": "https://www.myludo.fr/#!/game/king-of-tokyo-575",
+    "editionYear": 2016,
+    "ageMin": 8,
+    "contents": [
+      "1 livret de règles",
+      "1 plateau de jeu",
+      "28 marqueurs",
+      "50 cubes d'energie",
+      "6 fiches de Monstres",
+      "6 figurines cartonnées et leur socle en plastique",
+      "66 cartes illustrées",
+      "8 dés (6 noirs et 2 verts)"
+    ],
+    "publishers": [
+      "Iello"
+    ],
+    "authors": [
+      "Richard Garfield"
+    ],
+    "illustrators": [
+      "Anthony Wolff",
+      "Igor Polouchine",
+      "Jean-Baptiste Reynaud",
+      "Régis Torres",
+      "Romain Gaschet"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1749303146/300/aa/575.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1749303146/160/aa/575.png",
+    "sourceNotes": "Enrichissement Myludo: King of Tokyo (2016)",
+    "summary": "King of Tokyo est un jeu court pour 2 à 6 joueurs, jouable en environ 30 minutes autour de Affrontement Direct, bagarre, Chance & Hasard."
+  },
+  "kingdomino": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "Combinaison",
+      "Construction",
+      "Jeu de tuiles",
+      "Placement de tuiles",
+      "tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 397,
+    "myludoCode": "kingdomino",
+    "myludoUrl": "https://www.myludo.fr/#!/game/kingdomino-397",
+    "editionYear": 2016,
+    "ageMin": 8,
+    "contents": [
+      "1 règle du jeu",
+      "4 châteaux en 3D (rose, jaune, vert, bleu)",
+      "4 tuiles de départ",
+      "48 dominos (face paysage/face numérotée)",
+      "8 rois en bois (2 de chaque couleurs)"
+    ],
+    "publishers": [
+      "Blue Orange"
+    ],
+    "authors": [
+      "Bruno Cathala"
+    ],
+    "illustrators": [
+      "Cyril Bouquet"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1727001870/300/aa/397.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1727001870/160/aa/397.png",
+    "sourceNotes": "Enrichissement Myludo: Kingdomino (2016)",
+    "summary": "Kingdomino est un jeu rapide pour 2 à 4 joueurs, jouable en environ 15 minutes autour de Combinaison, Construction, Jeu de tuiles."
+  },
+  "kyudo": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Jeu à Griffonner",
+      "Roll & Write",
+      "roll and write"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 56896,
+    "myludoCode": "kyudo",
+    "myludoUrl": "https://www.myludo.fr/#!/game/kyudo-56896",
+    "subtitle": "La voie de l'arc",
+    "editionYear": 2022,
+    "ageMin": 7,
+    "contents": [
+      "1 carnet de 50 feuillets recto/verso",
+      "1 Flèche noire",
+      "1 piste de dés",
+      "1 Règles du jeu",
+      "1 sac de rangement",
+      "4 cartes personnages",
+      "4 dés",
+      "9 jetons"
+    ],
+    "publishers": [
+      "Offline Editions"
+    ],
+    "authors": [
+      "Bruno Cathala",
+      "Ludovic Maublanc"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1701873732/300/ce/56896.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1701873732/160/ce/56896.png",
+    "sourceNotes": "Enrichissement Myludo: Kyudo (2022)",
+    "summary": "Kyudo, dans l'édition La voie de l'arc est un jeu rapide pour 2 à 4 joueurs, jouable en environ 30 minutes autour de Jeu à Griffonner, Roll & Write, roll and write."
+  },
+  "le grand jeu": {
+    "playersMin": 3,
+    "playersMax": 5,
+    "durationMin": 20,
+    "durationMax": 20,
+    "mechanics": [
+      "enchères",
+      "Enchères",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 32231,
+    "myludoCode": "le-grand-jeu",
+    "myludoUrl": "https://www.myludo.fr/#!/game/le-grand-jeu-32231",
+    "editionYear": 2019,
+    "ageMin": 10,
+    "contents": [],
+    "publishers": [
+      "Origames"
+    ],
+    "authors": [
+      "Reiner Knizia"
+    ],
+    "illustrators": [
+      "Medusa Dollmaker"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1746852760/300/bg/32231.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1746852760/160/bg/32231.png",
+    "sourceNotes": "Enrichissement Myludo: Le Grand Jeu (2019)",
+    "summary": "Le Grand Jeu est un jeu rapide pour 3 à 5 joueurs, jouable en environ 20 minutes autour de enchères, Enchères, Jeu de Cartes."
+  },
+  "les aventuriers du rail": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "collection",
+      "Collection",
+      "Connexion",
+      "Jeu de plateau",
+      "Objectif secret",
+      "réseau"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 46498,
+    "myludoCode": "les-aventuriers-du-rail-europe",
+    "myludoUrl": "https://www.myludo.fr/#!/game/les-aventuriers-du-rail-europe-46498",
+    "subtitle": "15e Anniversaire",
+    "editionYear": 2021,
+    "ageMin": 8,
+    "contents": [
+      "1 carte bonus European Express",
+      "1 carte de référence Big Cities.",
+      "1 livret de règles",
+      "1 plateau surdimensionné du réseau ferroviaire européen avec de nouvelles illustrations",
+      "110 cartes Wagon",
+      "15 Gares en 5 couleurs",
+      "5 boîtes en métal contenant chacune 45 wagons finement sculptés",
+      "5 marqueurs de score",
+      "les 108 cartes Destination publiées à ce jour"
+    ],
+    "publishers": [
+      "Days Of Wonder"
+    ],
+    "authors": [
+      "Alan R. Moon"
+    ],
+    "illustrators": [
+      "Julien Delval"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1725461189/300/bu/46498.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1725461189/160/bu/46498.png",
+    "sourceNotes": "Enrichissement Myludo: Les Aventuriers du Rail - Europe (2021)",
+    "summary": "Les Aventuriers du Rail, dans l'édition 15e Anniversaire est un jeu long pour 2 à 5 joueurs, jouable en environ 30 à 60 minutes autour de collection, Collection, Connexion."
+  },
+  "les charlatans de belcastel": {
+    "durationMin": 35,
+    "durationMax": 60,
+    "mechanics": [
+      "bag-building",
+      "stop ou encore"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "les chevaliers de la table ronde": {
+    "playersMin": 3,
+    "playersMax": 7,
+    "durationMin": 90,
+    "durationMax": 90,
+    "mechanics": [
+      "Collection",
+      "coop",
+      "Coopération",
+      "Gestion de main",
+      "Jet De Dés",
+      "Jeu de plateau",
+      "Pioche",
+      "Semi-coopération"
+    ],
+    "mood": [
+      "coopération",
+      "stratégie"
+    ],
+    "myludoId": 13912,
+    "myludoCode": "les-chevaliers-de-la-table-ronde",
+    "myludoUrl": "https://www.myludo.fr/#!/game/les-chevaliers-de-la-table-ronde-13912",
+    "editionYear": 2005,
+    "ageMin": 10,
+    "contents": [
+      "1 livret \"quêtes\"",
+      "1 règle du jeu",
+      "16 épées",
+      "168 cartes",
+      "30 figurines",
+      "4 plateaux",
+      "7 fiches",
+      "8 dés"
+    ],
+    "publishers": [
+      "Days Of Wonder"
+    ],
+    "authors": [
+      "Bruno Cathala",
+      "Serge Laget"
+    ],
+    "illustrators": [
+      "Julien Delval"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1734073795/300/an/13912.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1734073795/160/an/13912.png",
+    "sourceNotes": "Enrichissement Myludo: Les Chevaliers de la Table Ronde (2005)",
+    "summary": "Les Chevaliers de la Table Ronde est un jeu long pour 3 à 7 joueurs, jouable en environ 90 minutes autour de Collection, coop, Coopération."
+  },
+  "les tavernes de la vallee profonde": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "Deck building",
+      "deckbuilding",
+      "Jet De Dés",
+      "Jeu de dés",
+      "plateau"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 33281,
+    "myludoCode": "les-tavernes-de-la-vallee-profonde",
+    "myludoUrl": "https://www.myludo.fr/#!/game/les-tavernes-de-la-vallee-profonde-33281",
+    "editionYear": 2019,
+    "ageMin": 12,
+    "contents": [
+      "1 choppe à bière (marqueur premier joueur)",
+      "1 marqueur de tour en forme de lune",
+      "1 plan du Monastère (petit plateau central)",
+      "12 dés de couleurs (3/couleur)",
+      "12 tuiles clients du comptoir",
+      "16 dés blancs",
+      "207 cartes (cartes employés de la taverne, cartes clients, cartes de nobles, cartes des habitués – 4 couleurs, 7 cartes / joueurs).",
+      "4 marqueurs de monastère (4 couleurs 1/joueur)",
+      "4 marqueurs de stock bière",
+      "4 marqueurs de stock or",
+      "4 plateaux tavernes constitué de divers éléments",
+      "4 sous-bock"
+    ],
+    "publishers": [
+      "Schmidt"
+    ],
+    "authors": [
+      "Wolfgang Warsch"
+    ],
+    "illustrators": [
+      "Dennis Lohausen"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1766412402/300/bh/33281.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1766412402/160/bh/33281.png",
+    "sourceNotes": "Enrichissement Myludo: Les Tavernes de la Vallée Profonde (2019)",
+    "summary": "Les Tavernes de la Vallée Profonde est un jeu long pour 2 à 4 joueurs, jouable en environ 60 minutes autour de Deck building, deckbuilding, Jet De Dés."
+  },
+  "ligretto": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Calcul",
+      "cartes",
+      "Défausse",
+      "Jeu de Cartes",
+      "rapidité",
+      "Rapidité"
+    ],
+    "mood": [
+      "énergie",
+      "rapide"
+    ],
+    "myludoId": 29483,
+    "myludoCode": "ligretto-vert",
+    "myludoUrl": "https://www.myludo.fr/#!/game/ligretto-vert-29483",
+    "editionYear": 2017,
+    "ageMin": 8,
+    "contents": [
+      "160 Cartes",
+      "Règles du jeu"
+    ],
+    "publishers": [
+      "Schmidt"
+    ],
+    "authors": [
+      "Reiner Stockhausen"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1725536239/300/bd/29483.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1725536239/160/bd/29483.png",
+    "sourceNotes": "Enrichissement Myludo: Ligretto Vert (2017)",
+    "summary": "Ligretto est un jeu rapide pour 2 à 4 joueurs, jouable en environ 30 minutes autour de Calcul, cartes, Défausse."
+  },
+  "living forest": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 40,
+    "durationMax": 40,
+    "mechanics": [
+      "Deck building",
+      "deckbuilding",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Placement de tuiles",
+      "stop ou encore",
+      "Stop ou encore"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 50768,
+    "myludoCode": "living-forest",
+    "myludoUrl": "https://www.myludo.fr/#!/game/living-forest-50768",
+    "editionYear": 2021,
+    "ageMin": 10,
+    "contents": [
+      "1 pion arbre sacré + 4 pions esprits de la nature",
+      "1 plateau Animal gardien+ 1 plateau Varan de feu",
+      "1 plateau central Cercle des Esprits",
+      "1 règle du jeu",
+      "12 cartes Animal gardien de niveau 3",
+      "12 tuiles Victoire (3 par esprit de la nature)",
+      "14 cartes Animal gardien de départ pour chacun des quatre Esprits de la nature",
+      "16 cartes Animal gardien de niveau 2",
+      "2 présentoirs pour ranger les Arbres protecteurs",
+      "20 jetons Fragment",
+      "23 cartes Animal gardien de niveau 1",
+      "23 cartes Varan de feu",
+      "4 plateaux individuels Forêt",
+      "4 tuiles Arbre protecteur de départ",
+      "58 jetons \"feu\" 12 de 4 pts, 18 de 3 pts et 28 de 2 pts"
+    ],
+    "publishers": [
+      "Ludonaute"
+    ],
+    "authors": [
+      "Aske Christiansen"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1779352980/300/by/50768.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1779352980/160/by/50768.png",
+    "sourceNotes": "Enrichissement Myludo: Living Forest (2021)",
+    "summary": "Living Forest est un jeu long pour 2 à 4 joueurs, jouable en environ 40 minutes autour de Deck building, deckbuilding, Gestion de main."
+  },
+  "loups garous de thiercelieux": {
+    "playersMin": 8,
+    "playersMax": 10,
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "rôles cachés"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "love letter": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "déduction",
+      "Déduction",
+      "Élimination",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Pouvoir",
+      "Rôle secret"
+    ],
+    "mood": [
+      "ambiance",
+      "enquête",
+      "rapide"
+    ],
+    "myludoId": 29240,
+    "myludoCode": "love-letter",
+    "myludoUrl": "https://www.myludo.fr/#!/game/love-letter-29240",
+    "editionYear": 2019,
+    "ageMin": 10,
+    "contents": [
+      "1 livret de règles",
+      "13 jetons de faveur",
+      "21 cartes Personnages",
+      "6 cartes Référence"
+    ],
+    "publishers": [
+      "Z-Man Games"
+    ],
+    "authors": [
+      "Seiji Kanai"
+    ],
+    "illustrators": [
+      "Andrew Bosley",
+      "Samuel Shimota"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1777535681/300/bd/29240.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1777535681/160/bd/29240.png",
+    "sourceNotes": "Enrichissement Myludo: Love Letter (2019)",
+    "summary": "Love Letter est un jeu rapide pour 2 à 6 joueurs, jouable en environ 15 minutes autour de bluff, Bluff, déduction."
+  },
+  "lucky numbers": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 20,
+    "durationMax": 20,
+    "mechanics": [
+      "Chance & Hasard",
+      "Défis",
+      "Gestion de main",
+      "Jeu de plateau",
+      "loto",
+      "placement",
+      "Placement de tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 41147,
+    "myludoCode": "lucky-numbers",
+    "myludoUrl": "https://www.myludo.fr/#!/game/lucky-numbers-41147",
+    "editionYear": 2020,
+    "ageMin": 8,
+    "contents": [
+      "1 guide de 40 puzzles (mode solo)",
+      "1 règles de jeu",
+      "4 couleurs, numérotés de 1 à 20",
+      "4 plateaux individuel",
+      "80 jetons Trèfle :"
+    ],
+    "publishers": [
+      "Tiki Editions"
+    ],
+    "authors": [
+      "Michael Schacht"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1777390424/300/bp/41147.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1777390424/160/bp/41147.png",
+    "sourceNotes": "Enrichissement Myludo: Lucky Numbers (2020)",
+    "summary": "Lucky Numbers est un jeu rapide pour 1 à 4 joueurs, jouable en environ 20 minutes autour de Chance & Hasard, Défis, Gestion de main."
+  },
+  "lueur": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Choix multiples",
+      "Collection",
+      "Combinaison",
+      "draft",
+      "Jet De Dés",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Parcours",
+      "Pouvoir",
+      "Stop ou encore"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 44381,
+    "myludoCode": "lueur",
+    "myludoUrl": "https://www.myludo.fr/#!/game/lueur-44381",
+    "editionYear": 2021,
+    "ageMin": 10,
+    "contents": [
+      "1 Grand plateau de jeu",
+      "1 Petit plateau de jeu",
+      "30 Dés",
+      "41 Pions en bois",
+      "53 Cartes",
+      "98 Pions en carton"
+    ],
+    "publishers": [
+      "Bombyx"
+    ],
+    "authors": [
+      "Cédrick Chaboussit"
+    ],
+    "illustrators": [
+      "Ben Basso",
+      "Vincent Dutrait"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741789654/300/bs/44381.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741789654/160/bs/44381.png",
+    "sourceNotes": "Enrichissement Myludo: Lueur (2021)",
+    "summary": "Lueur est un jeu moyen pour 2 à 4 joueurs, jouable en environ 45 minutes autour de Choix multiples, Collection, Combinaison."
+  },
+  "mafia de cuba": {
+    "playersMin": 6,
+    "playersMax": 12,
+    "durationMin": 20,
+    "durationMax": 20,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Déduction",
+      "Élimination",
+      "Jeu d'Ambiance",
+      "Rôle secret"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 1108,
+    "myludoCode": "mafia-de-cuba",
+    "myludoUrl": "https://www.myludo.fr/#!/game/mafia-de-cuba-1108",
+    "editionYear": 2015,
+    "ageMin": 10,
+    "contents": [
+      "1 Nettoyeur",
+      "1 sachet en feutrine.",
+      "10 jetons Personnage :",
+      "15 diamants",
+      "2 Agents du FBI et de la CIA,",
+      "2 chauffeurs,",
+      "2 pions Joker",
+      "5 fidèles,"
+    ],
+    "publishers": [
+      "Lui-Même"
+    ],
+    "authors": [
+      "Loïc Lamy",
+      "Philippe Des Pallières"
+    ],
+    "illustrators": [
+      "Thomas Vuarchex"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1662711950/300/ab/1108.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1662711950/160/ab/1108.png",
+    "sourceNotes": "Enrichissement Myludo: Mafia de Cuba (2015)",
+    "summary": "Mafia de Cuba est un jeu rapide pour 6 à 12 joueurs, jouable en environ 20 minutes autour de bluff, Bluff, Déduction."
+  },
+  "magic maze": {
+    "playersMin": 1,
+    "playersMax": 8,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "Argumentation",
+      "coop",
+      "Coopération",
+      "Exploration",
+      "Jeu de plateau",
+      "Rapidité",
+      "Simultanéité",
+      "temps réel",
+      "Temps réel"
+    ],
+    "mood": [
+      "coopération",
+      "énergie",
+      "rapide"
+    ],
+    "myludoId": 19913,
+    "myludoCode": "magic-maze",
+    "myludoUrl": "https://www.myludo.fr/#!/game/magic-maze-19913",
+    "editionYear": 2017,
+    "ageMin": 8,
+    "contents": [
+      "1 feuille d'autocollants",
+      "1 feuille de scores",
+      "1 pion \"Fais quelque chose!\"",
+      "1 sablier de 3 minutes",
+      "1 tuile Vol",
+      "12 jetons Hors service",
+      "16 tuiles Action",
+      "24 tuiles Centre commercial",
+      "4 pions Héros"
+    ],
+    "publishers": [
+      "Sit Down! Games"
+    ],
+    "authors": [
+      "Kasper Lapp"
+    ],
+    "illustrators": [
+      "Gyom Seijnhaeve"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1711723632/300/at/19913.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1711723632/160/at/19913.png",
+    "sourceNotes": "Enrichissement Myludo: Magic Maze (2017)",
+    "summary": "Magic Maze est un jeu rapide pour 1 à 8 joueurs, jouable en environ 15 minutes autour de Argumentation, coop, Coopération."
+  },
+  "marrakech": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "Chance & Hasard",
+      "Jeu de plateau",
+      "placement"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 6816,
+    "myludoCode": "marrakech",
+    "myludoUrl": "https://www.myludo.fr/#!/game/marrakech-6816",
+    "editionYear": 2010,
+    "ageMin": 8,
+    "contents": [
+      "1 dé en bois",
+      "1 pion marchand",
+      "1 plateau de jeu",
+      "1 règle",
+      "20 pièces en bois de 1",
+      "20 pièces en bois de 5",
+      "60 tapis en tissu"
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [
+      "Dominique Ehrhard"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741868303/300/ag/6816.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741868303/160/ag/6816.png",
+    "sourceNotes": "Enrichissement Myludo: Marrakech (2010)",
+    "summary": "Marrakech est un jeu rapide pour 2 à 4 joueurs, jouable en environ 15 minutes autour de Chance & Hasard, Jeu de plateau, placement."
+  },
+  "mascarade": {
+    "playersMin": 4,
+    "playersMax": 12,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Déduction",
+      "Jeu d'Ambiance",
+      "Jeu de Cartes",
+      "Mémorisation",
+      "Rôle secret"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 51343,
+    "myludoCode": "mascarade",
+    "myludoUrl": "https://www.myludo.fr/#!/game/mascarade-51343",
+    "editionYear": 2021,
+    "ageMin": 10,
+    "contents": [
+      "1 insert Banque",
+      "1 livret de règles",
+      "1 plateau Justice",
+      "17 cartes Masque",
+      "24 Pièces de 5",
+      "6 aides de jeu",
+      "80 Pièces de 1",
+      "9 fiches Scénario"
+    ],
+    "publishers": [
+      "Repos Production"
+    ],
+    "authors": [
+      "Bruno Faidutti"
+    ],
+    "illustrators": [
+      "Jeremy Masson"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741868553/300/bz/51343.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741868553/160/bz/51343.png",
+    "sourceNotes": "Enrichissement Myludo: Mascarade (2021)",
+    "summary": "Mascarade est un jeu rapide pour 4 à 12 joueurs, jouable en environ 30 minutes autour de bluff, Bluff, Déduction."
+  },
+  "micromacro": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 15,
+    "durationMax": 45,
+    "mechanics": [
+      "coop",
+      "Coopération",
+      "Déduction",
+      "enquête",
+      "Jeu d'Observation",
+      "Observation",
+      "Scénarios"
+    ],
+    "mood": [
+      "coopération",
+      "enquête",
+      "stratégie"
+    ],
+    "myludoId": 42016,
+    "myludoCode": "micromacro-crime-city",
+    "myludoUrl": "https://www.myludo.fr/#!/game/micromacro-crime-city-42016",
+    "editionYear": 2020,
+    "ageMin": 10,
+    "contents": [
+      "1 Loupe",
+      "1 Plan de la ville 75x110cm",
+      "1 Règle du jeu",
+      "120 Cartes Enquête",
+      "16 Enveloppes"
+    ],
+    "publishers": [
+      "Blackrock Games",
+      "Spielwiese"
+    ],
+    "authors": [
+      "Johannes Sich"
+    ],
+    "illustrators": [
+      "Daniel Goll",
+      "Johannes Sich"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1735239726/300/bq/42016.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1735239726/160/bq/42016.png",
+    "sourceNotes": "Enrichissement Myludo: MicroMacro Crime City (2020)",
+    "summary": "MicroMacro est un jeu moyen pour 1 à 4 joueurs, jouable en environ 15 à 45 minutes autour de coop, Coopération, Déduction."
+  },
+  "mille fiori": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 60,
+    "durationMax": 90,
+    "mechanics": [
+      "Contrôle de zone",
+      "draft",
+      "Draft",
+      "Jeu de plateau"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 55038,
+    "myludoCode": "mille-fiori",
+    "myludoUrl": "https://www.myludo.fr/#!/game/mille-fiori-55038",
+    "subtitle": "Les splendeurs de la lagune",
+    "editionYear": 2022,
+    "ageMin": 10,
+    "contents": [
+      "1 plateau de jeu",
+      "110 cartes",
+      "120 losanges transparents",
+      "4 bateaux transparents",
+      "4 marqueur de score transparents"
+    ],
+    "publishers": [
+      "Pixie Games",
+      "Schmidt"
+    ],
+    "authors": [
+      "Reiner Knizia"
+    ],
+    "illustrators": [
+      "Stephan Lorenz"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1714117646/300/cd/55038.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1714117646/160/cd/55038.png",
+    "sourceNotes": "Enrichissement Myludo: Mille Fiori (2022)",
+    "summary": "Mille Fiori, dans l'édition Les splendeurs de la lagune est un jeu long pour 2 à 4 joueurs, jouable en environ 60 à 90 minutes autour de Contrôle de zone, draft, Draft."
+  },
+  "mille sabords": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes",
+      "Combinaison",
+      "Gestion de main",
+      "Jet De Dés",
+      "Jeu de dés",
+      "Pouvoir",
+      "Prise de risque",
+      "stop ou encore",
+      "Stop ou encore"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 2734,
+    "myludoCode": "mille-sabords",
+    "myludoUrl": "https://www.myludo.fr/#!/game/mille-sabords-2734",
+    "editionYear": 2013,
+    "ageMin": 8,
+    "contents": [
+      "1 règle du jeu",
+      "35 cartes",
+      "5 cartes \"résumé\"",
+      "8 dés"
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [
+      "Haim Shafir"
+    ],
+    "illustrators": [
+      "Jose Pedro"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1732882597/300/ac/2734.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1732882597/160/ac/2734.png",
+    "sourceNotes": "Enrichissement Myludo: Mille Sabords ! (2013)",
+    "summary": "Mille Sabords est un jeu rapide pour 2 à 5 joueurs, jouable en environ 30 minutes autour de cartes, Combinaison, Gestion de main."
+  },
+  "miniville deluxe": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes",
+      "Construction",
+      "dés",
+      "Gestion de main",
+      "Jet De Dés",
+      "Jeu de dés"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 41779,
+    "myludoCode": "minivilles-deluxe",
+    "myludoUrl": "https://www.myludo.fr/#!/game/minivilles-deluxe-41779",
+    "editionYear": 2020,
+    "ageMin": 7,
+    "contents": [
+      "1 Livret de règles",
+      "165 cartes",
+      "2 Dés",
+      "2 Sachets en plastique (pour ranger et protéger le matériel de votre jeu)",
+      "56 Pièces"
+    ],
+    "publishers": [
+      "Moonster Games",
+      "Sorry We Are French"
+    ],
+    "authors": [
+      "Masao Suganuma"
+    ],
+    "illustrators": [
+      "Noboru Hotta"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1770739550/300/bp/41779.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1770739550/160/bp/41779.png",
+    "sourceNotes": "Enrichissement Myludo: Minivilles Deluxe (2020)",
+    "summary": "Miniville Deluxe est un jeu moyen pour 2 à 5 joueurs, jouable en environ 30 minutes autour de cartes, Construction, dés."
+  },
+  "mr jack": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Asymétrie",
+      "Bluff",
+      "Capture",
+      "déduction",
+      "Déduction",
+      "duel",
+      "Jeu caché",
+      "Jeu de plateau",
+      "Mouvement de point à point",
+      "Objectif secret",
+      "Prise de risque"
+    ],
+    "mood": [
+      "duel",
+      "enquête"
+    ],
+    "myludoId": 52674,
+    "myludoCode": "mr-jack-london",
+    "myludoUrl": "https://www.myludo.fr/#!/game/mr-jack-london-52674",
+    "editionYear": 2021,
+    "ageMin": 8,
+    "contents": [],
+    "publishers": [
+      "Hurrican"
+    ],
+    "authors": [
+      "Bruno Cathala",
+      "Ludovic Maublanc"
+    ],
+    "illustrators": [
+      "Piérô"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1776866303/300/ca/52674.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1776866303/160/ca/52674.png",
+    "sourceNotes": "Enrichissement Myludo: Mr. Jack - London (2021)",
+    "summary": "Mr Jack est un jeu duel pour 2 joueurs, jouable en environ 30 minutes autour de Asymétrie, Bluff, Capture."
+  },
+  "mystic vale": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "card crafting",
+      "Card-Crafting",
+      "Deck building",
+      "deckbuilding",
+      "Gestion de main",
+      "Jeu de Cartes"
+    ],
+    "mood": [],
+    "myludoId": 37370,
+    "myludoCode": "mystic-vale",
+    "myludoUrl": "https://www.myludo.fr/#!/game/mystic-vale-37370",
+    "editionYear": 2020,
+    "ageMin": 14,
+    "contents": [
+      "1 Livret de règle.",
+      "100 Protèges-cartes",
+      "18 Cartes Champs Fertiles",
+      "36 Cartes Vallée (18 Niv 1 / 18 Niv 2)",
+      "4 Aides de Jeu",
+      "4 Token de Mana (1/joueur)",
+      "54 Jetons PV (44x 1 et 10 x5)",
+      "80 Cartes de départ (4 couleurs)",
+      "96 Cartes Evolution (33 Niv 1 / 30 Niv 2 / 33 Niv 3)"
+    ],
+    "publishers": [
+      "Alderac Entertainment Group",
+      "Sylex"
+    ],
+    "authors": [
+      "John D. Clair"
+    ],
+    "illustrators": [
+      "Andrew Gaia",
+      "Heather Kreiter",
+      "Katherine Guevara",
+      "Kiki Moch Rizky",
+      "Kiri Østergaard Leonard",
+      "Martin de Diego Sádaba",
+      "Matt Paquette",
+      "Ralf Berszuck",
+      "Storn A. Cook"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1651742255/300/bl/37370.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1651742255/160/bl/37370.png",
+    "sourceNotes": "Enrichissement Myludo: Mystic Vale (2020)",
+    "summary": "Mystic Vale est un jeu à ranger pour 2 à 4 joueurs, jouable en environ 45 minutes autour de card crafting, Card-Crafting, Deck building."
+  },
+  "next station london": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 25,
+    "durationMax": 25,
+    "mechanics": [
+      "Connexion",
+      "Dessin",
+      "draw and write",
+      "Jeu à Griffonner",
+      "Jeu de plateau",
+      "Papier & Crayon"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 55261,
+    "myludoCode": "next-station-london",
+    "myludoUrl": "https://www.myludo.fr/#!/game/next-station-london-55261",
+    "editionYear": 2022,
+    "ageMin": 8,
+    "contents": [
+      "1 bloc de 100 feuilles",
+      "1 livret de règle par langue (français, anglais, allemand, italien, espagnol, néerlandais et russe)",
+      "20 cartes",
+      "4 crayons de couleur"
+    ],
+    "publishers": [
+      "Blue Orange"
+    ],
+    "authors": [
+      "Matthew Dunstan"
+    ],
+    "illustrators": [
+      "Maxime Morin"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1780144603/300/cd/55261.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1780144603/160/cd/55261.png",
+    "sourceNotes": "Enrichissement Myludo: Next Station London (2022)",
+    "summary": "Next Station London est un jeu rapide pour 1 à 4 joueurs, jouable en environ 25 minutes autour de Connexion, Dessin, draw and write."
+  },
+  "nidavellir": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 35,
+    "durationMax": 60,
+    "mechanics": [
+      "enchères"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "odin": {
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "cartes"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "one night werewolf": {
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [
+      "rôles cachés"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "oriflamme": {
+    "playersMin": 3,
+    "playersMax": 5,
+    "durationMin": 15,
+    "durationMax": 30,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "cartes",
+      "Combinaison",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Pouvoir"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 35222,
+    "myludoCode": "oriflamme",
+    "myludoUrl": "https://www.myludo.fr/#!/game/oriflamme-35222",
+    "editionYear": 2019,
+    "ageMin": 10,
+    "contents": [
+      "1 pion bouclier \" premier joueur \"",
+      "1 pion épée \"sens de résolution\"",
+      "50 cartes influence (10 de 5 couleurs différentes)",
+      "70 jetons Point d'influence de valeurs 1 et 5"
+    ],
+    "publishers": [
+      "Studio H"
+    ],
+    "authors": [
+      "Adrien Hesling",
+      "Axel Hesling"
+    ],
+    "illustrators": [
+      "Tomasz Jedruszek"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741724216/300/bj/35222.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741724216/160/bj/35222.png",
+    "sourceNotes": "Enrichissement Myludo: Oriflamme (2019)",
+    "summary": "Oriflamme est un jeu court pour 3 à 5 joueurs, jouable en environ 15 à 30 minutes autour de bluff, Bluff, cartes."
+  },
+  "paleo": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "Choix simultanés",
+      "coop",
+      "Coopération",
+      "Exploration",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Mémorisation",
+      "Scénarios"
+    ],
+    "mood": [
+      "coopération",
+      "expert",
+      "stratégie"
+    ],
+    "myludoId": 41999,
+    "myludoCode": "paleo",
+    "myludoUrl": "https://www.myludo.fr/#!/game/paleo-41999",
+    "editionYear": 2020,
+    "ageMin": 10,
+    "contents": [
+      "1 cimetière",
+      "1 livret de règles",
+      "1 râtelier",
+      "1 supplément aux règles",
+      "2 dés",
+      "222 cartes",
+      "3 plateaux",
+      "40 pièces de jeu en bois",
+      "5 tuiles Fresque",
+      "93 jetons"
+    ],
+    "publishers": [
+      "Hans Im Glück",
+      "Z-Man Games"
+    ],
+    "authors": [
+      "Peter Rustemeyer"
+    ],
+    "illustrators": [
+      "Dominik Mayer"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1763236251/300/bp/41999.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1763236251/160/bp/41999.png",
+    "sourceNotes": "Enrichissement Myludo: Paleo (2020)",
+    "summary": "Paleo est un jeu expert pour 1 à 4 joueurs, jouable en environ 30 à 60 minutes autour de Choix simultanés, coop, Coopération."
+  },
+  "pandemic": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "coop",
+      "Coopération",
+      "Déplacement",
+      "Jeu de plateau",
+      "Points d'action",
+      "Réflexion",
+      "Stratégie"
+    ],
+    "mood": [
+      "coopération",
+      "stratégie"
+    ],
+    "myludoId": 26543,
+    "myludoCode": "pandemic",
+    "myludoUrl": "https://www.myludo.fr/#!/game/pandemic-26543",
+    "editionYear": 2013,
+    "ageMin": 10,
+    "contents": [
+      "1 livre de règles",
+      "1 plateau de jeux",
+      "4 cartes de référence",
+      "48 cartes infection",
+      "59 cartes joueurs",
+      "6 marqueurs en plastique",
+      "6 stations de recherche en plastique",
+      "7 cartes rôles",
+      "7 pions en plastique",
+      "96 cubes de maladie en plastique (24 de chaque couleur)"
+    ],
+    "publishers": [
+      "Filosofia",
+      "Z-Man Games"
+    ],
+    "authors": [
+      "Matt Leacock"
+    ],
+    "illustrators": [
+      "Chris Quilliams"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1779833351/300/ba/26543.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1779833351/160/ba/26543.png",
+    "sourceNotes": "Enrichissement Myludo: Pandemic (2013)",
+    "summary": "Pandemic est un jeu moyen pour 2 à 4 joueurs, jouable en environ 45 minutes autour de coop, Coopération, Déplacement."
+  },
+  "papayoo": {
+    "playersMin": 3,
+    "playersMax": 8,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "cartes",
+      "Jeu de Cartes",
+      "Plis"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 35247,
+    "myludoCode": "papayoo",
+    "myludoUrl": "https://www.myludo.fr/#!/game/papayoo-35247",
+    "editionYear": 2018,
+    "ageMin": 7,
+    "contents": [
+      "1 dé à 8 faces",
+      "1 règle du jeu",
+      "60 cartes"
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1726139714/300/bj/35247.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1726139714/160/bj/35247.png",
+    "sourceNotes": "Enrichissement Myludo: Papayoo (2018)",
+    "summary": "Papayoo est un jeu rapide pour 3 à 8 joueurs, jouable en environ 30 à 60 minutes autour de cartes, Jeu de Cartes, Plis."
+  },
+  "paquet de chips": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "ambiance",
+      "cartes"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "parks": {
+    "playersMin": 1,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "collection",
+      "Collection",
+      "Déplacement",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Mouvement de point à point",
+      "Placement d'ouvriers"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 37043,
+    "myludoCode": "parks",
+    "myludoUrl": "https://www.myludo.fr/#!/game/parks-37043",
+    "editionYear": 2020,
+    "ageMin": 10,
+    "contents": [
+      "1 jeton Appareil photo",
+      "1 jeton Premier Joueur en métal",
+      "1 plateau de jeu",
+      "1 tuile Début de parcours",
+      "1 tuile Fin de parcours",
+      "10 cartes Saison",
+      "10 Randonneurs (2/joueur)",
+      "10 tuiles Lieux de parcours",
+      "12 cartes Année",
+      "12 jetons Animaux sauvages",
+      "15 cartes Gourde",
+      "16 jetons Forêt",
+      "16 jetons Montagne",
+      "28 jetons Photo",
+      "30 jetons Pluie",
+      "30 jetons Soleil",
+      "36 cartes équipements",
+      "48 cartes Parks",
+      "5 Feux de camp (1/joueur)",
+      "9 cartes pour le solo"
+    ],
+    "publishers": [
+      "Matagot"
+    ],
+    "authors": [
+      "Henry Audubon"
+    ],
+    "illustrators": [
+      "Fifty-Nine Parks Print Series"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1765889887/300/bl/37043.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1765889887/160/bl/37043.png",
+    "sourceNotes": "Enrichissement Myludo: Parks (2020)",
+    "summary": "Parks est un jeu moyen pour 1 à 5 joueurs, jouable en environ 30 à 60 minutes autour de collection, Collection, Déplacement."
+  },
+  "perspectives": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 60,
+    "durationMax": 120,
+    "mechanics": [
+      "Communication Restreinte",
+      "Coopération",
+      "enquête",
+      "Jeu d'Observation",
+      "Observation"
+    ],
+    "mood": [
+      "enquête"
+    ],
+    "myludoId": 69922,
+    "myludoCode": "perspectives",
+    "myludoUrl": "https://www.myludo.fr/#!/game/perspectives-69922",
+    "editionYear": 2023,
+    "ageMin": 12,
+    "contents": [
+      "1 tutoriel",
+      "108 cartes",
+      "12 dossiers",
+      "3 enveloppes",
+      "les règles du jeu sont inscrites au dos des 3 enveloppes"
+    ],
+    "publishers": [
+      "Space Cowboys"
+    ],
+    "authors": [
+      "Dave Neale",
+      "Matthew Dunstan"
+    ],
+    "illustrators": [
+      "Julien Ruco",
+      "Looky",
+      "Vincent Dutrait"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1719122091/300/cr/69922.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1719122091/160/cr/69922.png",
+    "sourceNotes": "Enrichissement Myludo: Perspectives (2023)",
+    "summary": "Perspectives est un jeu solo ou enquête pour 2 à 6 joueurs, jouable en environ 60 à 120 minutes autour de Communication Restreinte, Coopération, enquête."
+  },
+  "perudo": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "bluff",
+      "dés"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "potion explosion": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 45,
+    "mechanics": [
+      "Alignement",
+      "collection",
+      "Collection",
+      "Combinaison",
+      "combos",
+      "Connexion",
+      "Jeu de plateau",
+      "Observation"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 47040,
+    "myludoCode": "potion-explosion",
+    "myludoUrl": "https://www.myludo.fr/#!/game/potion-explosion-47040",
+    "subtitle": "2e édition",
+    "editionYear": 2021,
+    "ageMin": 8,
+    "contents": [
+      "1 Distributeur en plastique",
+      "1 Livret de Règles",
+      "1 pion Premier joueur",
+      "15 pions Compétence",
+      "21 pions Coup de Pouce",
+      "4 plateaux Paillasse",
+      "64 tuiles Potion",
+      "80 billes Ingrédient (4 couleurs)"
+    ],
+    "publishers": [
+      "Horrible Guild",
+      "Iello"
+    ],
+    "authors": [
+      "Andrea Crespi",
+      "Lorenzo Silva",
+      "Stefano Castelli"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741864922/300/bv/47040.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741864922/160/bv/47040.png",
+    "sourceNotes": "Enrichissement Myludo: Potion Explosion (2021)",
+    "summary": "Potion Explosion, dans l'édition 2e édition est un jeu moyen pour 2 à 4 joueurs, jouable en environ 30 à 45 minutes autour de Alignement, collection, Collection."
+  },
+  "puerto rico": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 90,
+    "durationMax": 150,
+    "mechanics": [
+      "gestion",
+      "ouvriers"
+    ],
+    "mood": [
+      "expert",
+      "stratégie"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "push": {
+    "playersMin": 2,
+    "playersMax": 6,
+    "durationMin": 20,
+    "durationMax": 20,
+    "mechanics": [
+      "cartes",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Stop ou encore"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 40703,
+    "myludoCode": "push",
+    "myludoUrl": "https://www.myludo.fr/#!/game/push-40703",
+    "editionYear": 2020,
+    "ageMin": 8,
+    "contents": [],
+    "publishers": [
+      "Ravensburger"
+    ],
+    "authors": [
+      "Prospero Hall"
+    ],
+    "illustrators": [
+      "Prospero Hall"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1720032529/300/bo/40703.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1720032529/160/bo/40703.png",
+    "sourceNotes": "Enrichissement Myludo: Push (2020)",
+    "summary": "Push est un jeu rapide pour 2 à 6 joueurs, jouable en environ 20 minutes autour de cartes, Gestion de main, Jeu de Cartes."
+  },
+  "queendomino": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Construction",
+      "Draft",
+      "Jeu de tuiles",
+      "Placement de tuiles",
+      "tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 25858,
+    "myludoCode": "queendomino-xl",
+    "myludoUrl": "https://www.myludo.fr/#!/game/queendomino-xl-25858",
+    "editionYear": 2018,
+    "ageMin": 8,
+    "contents": [
+      "1 Carnet de Score",
+      "1 Figurine Dragon",
+      "1 Figurine Reine",
+      "1 Plateau Bâtisseurs",
+      "1 Règle du Jeu",
+      "15 Tours",
+      "22 Chevaliers",
+      "32 Tuiles Bâtiments",
+      "4 Châteaux en 3D",
+      "4 Tuiles de départ",
+      "42 Pièces",
+      "48 Dominos",
+      "8 Figurines de rois en bois"
+    ],
+    "publishers": [
+      "Blue Orange"
+    ],
+    "authors": [
+      "Bruno Cathala"
+    ],
+    "illustrators": [
+      "Cyril Bouquet"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1757927559/300/az/25858.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1757927559/160/az/25858.png",
+    "sourceNotes": "Enrichissement Myludo: Queendomino XL (2018)",
+    "summary": "Queendomino est un jeu rapide pour 2 à 4 joueurs, jouable en environ 30 minutes autour de Construction, Draft, Jeu de tuiles."
+  },
+  "qwirkle": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Connexion",
+      "Jeu de tuiles",
+      "Observation",
+      "Pioche",
+      "Placement de tuiles",
+      "tuiles"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 56073,
+    "myludoCode": "qwirkle",
+    "myludoUrl": "https://www.myludo.fr/#!/game/qwirkle-56073",
+    "editionYear": 2022,
+    "ageMin": 6,
+    "contents": [
+      "1 livret de règles",
+      "1 sac en tissu",
+      "108 tuiles en bois"
+    ],
+    "publishers": [
+      "Iello"
+    ],
+    "authors": [],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1768548495/300/ce/56073.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1768548495/160/ce/56073.png",
+    "sourceNotes": "Enrichissement Myludo: Qwirkle (2022)",
+    "summary": "Qwirkle est un jeu long pour 2 à 4 joueurs, jouable en environ 45 minutes autour de Connexion, Jeu de tuiles, Observation."
+  },
+  "race for the galaxy": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [
+      "collection",
+      "moteur"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "res arcana": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 20,
+    "durationMax": 35,
+    "mechanics": [
+      "draft",
+      "moteur"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "robin wood": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 15,
+    "durationMax": 30,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Jeu de Cartes",
+      "Mémorisation"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 25064,
+    "myludoCode": "robin-wood",
+    "myludoUrl": "https://www.myludo.fr/#!/game/robin-wood-25064",
+    "editionYear": 2018,
+    "ageMin": 10,
+    "contents": [
+      "1 Règle du jeu",
+      "13 Cartes Personnage",
+      "4 Aides de jeu"
+    ],
+    "publishers": [
+      "Bad Taste Games"
+    ],
+    "authors": [
+      "Alexis Campart"
+    ],
+    "illustrators": [
+      "Goupil"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1652293744/300/az/25064.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1652293744/160/az/25064.png",
+    "sourceNotes": "Enrichissement Myludo: Robin Wood (2018)",
+    "summary": "Robin Wood est un jeu rapide pour 2 à 4 joueurs, jouable en environ 15 à 30 minutes autour de bluff, Bluff, Jeu de Cartes."
+  },
+  "romeo et juliette": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Choix multiples",
+      "Communication Restreinte",
+      "coop",
+      "Coopération",
+      "Déduction",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Narration",
+      "Planification"
+    ],
+    "mood": [
+      "coopération",
+      "stratégie"
+    ],
+    "myludoId": 37371,
+    "myludoCode": "romeo-juliette",
+    "myludoUrl": "https://www.myludo.fr/#!/game/romeo-juliette-37371",
+    "editionYear": 2020,
+    "ageMin": 14,
+    "contents": [
+      "1 jeton Cœur",
+      "1 livret de règles",
+      "1 plateau scène",
+      "14 Juliette",
+      "14 Roméo",
+      "2 Aide de jeu",
+      "2 pions Roméo et Juliette",
+      "27 cartes Événement",
+      "3 marqueurs : Haine, Amour et Acte",
+      "39 cartes :",
+      "5 jetons Missive",
+      "9 cartes Chapitre",
+      "9 Pions Chaperon"
+    ],
+    "publishers": [
+      "Sylex"
+    ],
+    "authors": [
+      "Jean-Philippe Sahut",
+      "Julien Prothière"
+    ],
+    "illustrators": [
+      "David Cochard"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1689669898/300/bl/37371.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1689669898/160/bl/37371.png",
+    "sourceNotes": "Enrichissement Myludo: Roméo & Juliette (2020)",
+    "summary": "Roméo et Juliette est un jeu moyen pour 2 joueurs, jouable en environ 30 minutes autour de Choix multiples, Communication Restreinte, coop."
+  },
+  "root": {
+    "playersMin": 1,
+    "playersMax": 6,
+    "durationMin": 60,
+    "durationMax": 90,
+    "mechanics": [
+      "Affrontement Direct",
+      "Asymétrie",
+      "asymétrique",
+      "bagarre",
+      "Combinaison",
+      "Conquête",
+      "Contrôle de zone",
+      "Gestion de main",
+      "Influence",
+      "Jet De Dés",
+      "Jeu de Cartes",
+      "Jeu de plateau",
+      "Majorité",
+      "Mouvement de point à point",
+      "Pouvoir",
+      "Programmation",
+      "Wargame"
+    ],
+    "mood": [
+      "duel",
+      "expert",
+      "stratégie"
+    ],
+    "myludoId": 28965,
+    "myludoCode": "root",
+    "myludoUrl": "https://www.myludo.fr/#!/game/root-28965",
+    "subtitle": "Conflit dans les Sous-Bois",
+    "editionYear": 2019,
+    "ageMin": 10,
+    "contents": [
+      "1 Livret d'apprentissage",
+      "1 Livret de règles",
+      "1 Plateau Recto Verso",
+      "107 Meeple en bois",
+      "2 Dés",
+      "5 Porte-cartes en bois",
+      "7 Plateaux de Faction",
+      "Plus de 100 Cartes",
+      "Plus de 120 Pions en carton"
+    ],
+    "publishers": [
+      "Matagot"
+    ],
+    "authors": [
+      "Cole Wehrle"
+    ],
+    "illustrators": [
+      "Kyle Ferrin"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1747309606/300/bc/28965.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1747309606/160/bc/28965.png",
+    "sourceNotes": "Enrichissement Myludo: Root (2019)",
+    "summary": "Root, dans l'édition Conflit dans les Sous-Bois est un jeu expert pour 1 à 6 joueurs, jouable en environ 60 à 90 minutes autour de Affrontement Direct, Asymétrie, asymétrique."
+  },
+  "rum and bones": {
+    "durationMin": 60,
+    "durationMax": 90,
+    "mechanics": [
+      "affrontement",
+      "figurines"
+    ],
+    "mood": [
+      "duel",
+      "stratégie"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "saboteur": {
+    "playersMin": 3,
+    "playersMax": 10,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Connexion",
+      "Équipes",
+      "Exploration",
+      "Jeu de Cartes",
+      "Placement de cartes",
+      "Plateau modulaire",
+      "Rôle secret",
+      "rôles cachés",
+      "Semi-coopération"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 11082,
+    "myludoCode": "saboteur",
+    "myludoUrl": "https://www.myludo.fr/#!/game/saboteur-11082",
+    "editionYear": 2013,
+    "ageMin": 8,
+    "contents": [
+      "110 cartes",
+      "règles du jeu"
+    ],
+    "publishers": [
+      "Gigamic"
+    ],
+    "authors": [
+      "Frédéric Moyersoen"
+    ],
+    "illustrators": [
+      "Andrea Boeckhoff"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1739602143/300/al/11082.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1739602143/160/al/11082.png",
+    "sourceNotes": "Enrichissement Myludo: Saboteur (2013)",
+    "summary": "Saboteur est un jeu rapide pour 3 à 10 joueurs, jouable en environ 30 minutes autour de bluff, Bluff, Connexion."
+  },
+  "sagrada": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 40,
+    "durationMax": 40,
+    "mechanics": [
+      "collection",
+      "Collection",
+      "Combinaison",
+      "dés",
+      "Draft",
+      "Jet De Dés",
+      "Jeu de Cartes",
+      "Jeu de dés",
+      "Objectif secret",
+      "Placement de dés"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 23810,
+    "myludoCode": "sagrada",
+    "myludoUrl": "https://www.myludo.fr/#!/game/sagrada-23810",
+    "editionYear": 2017,
+    "ageMin": 10,
+    "contents": [
+      "1 piste de manche/piste de score",
+      "1 sac de dés",
+      "10 cartes objectif public",
+      "12 cartes \"motif de vitrail\"",
+      "12 cartes objectif",
+      "24 jetons faveur",
+      "4 marqueurs de score",
+      "4 plateaux joueur \"Cadre de vitrail\"",
+      "5 cartes objectif privé",
+      "90 dés (18x5 colors - rouge, jaune, vert, bleu, violet)"
+    ],
+    "publishers": [
+      "Matagot"
+    ],
+    "authors": [
+      "Adrian Adamescu",
+      "Daryl Andrews"
+    ],
+    "illustrators": [
+      "Peter Wocken"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1769810242/300/ax/23810.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1769810242/160/ax/23810.png",
+    "sourceNotes": "Enrichissement Myludo: Sagrada (2017)",
+    "summary": "Sagrada est un jeu moyen pour 1 à 4 joueurs, jouable en environ 40 minutes autour de collection, Collection, Combinaison."
+  },
+  "sauve mouton": {
+    "playersMin": 3,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes",
+      "Choix simultanés",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Plis"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 37452,
+    "myludoCode": "sauve-moutons",
+    "myludoUrl": "https://www.myludo.fr/#!/game/sauve-moutons-37452",
+    "editionYear": 2015,
+    "ageMin": 10,
+    "contents": [
+      "1 règle du jeu",
+      "24 cartes Bouée",
+      "24 cartes Inondation (numérotées 2 fois de 1 à 12)",
+      "60 cartes Météo (numérotées de 1 à 60)"
+    ],
+    "publishers": [
+      "Gamewright",
+      "Oya"
+    ],
+    "authors": [
+      "Stefan Dorra"
+    ],
+    "illustrators": [
+      "Oliver Freudenreich"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1755777120/300/bl/37452.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1755777120/160/bl/37452.png",
+    "sourceNotes": "Enrichissement Myludo: Sauve Moutons (2015)",
+    "summary": "Sauve Mouton est un jeu rapide pour 3 à 5 joueurs, jouable en environ 30 minutes autour de cartes, Choix simultanés, Gestion de main."
+  },
+  "schotten totten": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 15,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes",
+      "Chance & Hasard",
+      "Collection",
+      "Combinaison",
+      "duel",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Placement de cartes"
+    ],
+    "mood": [
+      "duel",
+      "rapide"
+    ],
+    "myludoId": 553,
+    "myludoCode": "schotten-totten",
+    "myludoUrl": "https://www.myludo.fr/#!/game/schotten-totten-553",
+    "editionYear": 2016,
+    "ageMin": 8,
+    "contents": [
+      "1 livret de règles",
+      "10 cartes Tactique",
+      "2 aides de jeu",
+      "54 cartes Clan numérotées de 1 à 9 (en 6 couleurs)",
+      "9 tuiles Borne"
+    ],
+    "publishers": [
+      "Iello"
+    ],
+    "authors": [
+      "Reiner Knizia"
+    ],
+    "illustrators": [
+      "Jean-Baptiste Reynaud"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1776764549/300/aa/553.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1776764549/160/aa/553.png",
+    "sourceNotes": "Enrichissement Myludo: Schotten Totten (2016)",
+    "summary": "Schotten Totten est un jeu rapide pour 2 joueurs, jouable en environ 15 à 30 minutes autour de cartes, Chance & Hasard, Collection."
+  },
+  "scythe": {
+    "playersMin": 1,
+    "playersMax": 5,
+    "durationMin": 115,
+    "durationMax": 115,
+    "mechanics": [
+      "4X",
+      "Affrontement Direct",
+      "bagarre",
+      "Déplacement",
+      "Exploration",
+      "Jeu de plateau",
+      "Placement d'ouvriers",
+      "Plateau modulaire",
+      "Programmation",
+      "stratégie",
+      "Stratégie"
+    ],
+    "mood": [
+      "duel",
+      "expert",
+      "stratégie"
+    ],
+    "myludoId": 147,
+    "myludoCode": "scythe",
+    "myludoUrl": "https://www.myludo.fr/#!/game/scythe-147",
+    "editionYear": 2017,
+    "ageMin": 14,
+    "contents": [
+      "1 fiche de réussite",
+      "1 guide Démarrage rapide",
+      "1 plateau de jeu",
+      "12 cartes Usine",
+      "2 livres de règles",
+      "2 roues de Puissance",
+      "20 figurines de Mecha",
+      "23 cartes Objectif",
+      "24 jetons",
+      "28 cartes Rencontre",
+      "30 cubes Technologies",
+      "31 cartes Automate",
+      "40 ouvriers",
+      "42 cartes Combat",
+      "5 cartes Démarrage rapide",
+      "5 cartes Traversée",
+      "5 figurines de personnages",
+      "5 plateaux Faction",
+      "5 plateaux joueurs",
+      "6 tuiles bonus Bâtiment",
+      "80 pièces de monnaie",
+      "80 pions ressources",
+      "85 pions de Factions"
+    ],
+    "publishers": [
+      "Matagot",
+      "Stonemaier Games"
+    ],
+    "authors": [
+      "Jamey Stegmaier"
+    ],
+    "illustrators": [
+      "Jakub Rozalski"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1780087588/300/aa/147.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1780087588/160/aa/147.png",
+    "sourceNotes": "Enrichissement Myludo: Scythe (2017)",
+    "summary": "Scythe est un jeu expert pour 1 à 5 joueurs, jouable en environ 115 minutes autour de 4X, Affrontement Direct, bagarre."
+  },
+  "sea salt and paper": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes",
+      "Chance & Hasard",
+      "collection",
+      "Collection",
+      "Combinaison",
+      "Jeu de Cartes",
+      "Pioche",
+      "Prise de risque"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 59020,
+    "myludoCode": "sea-salt-paper",
+    "myludoUrl": "https://www.myludo.fr/#!/game/sea-salt-paper-59020",
+    "editionYear": 2022,
+    "ageMin": 8,
+    "contents": [
+      "1 dépliant de règles",
+      "58 cartes",
+      "6 aides de jeu"
+    ],
+    "publishers": [
+      "Bombyx"
+    ],
+    "authors": [
+      "Bruno Cathala",
+      "Théo Rivière"
+    ],
+    "illustrators": [
+      "Lucien Derainne",
+      "Pierre-Yves Gallard"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1772980479/300/ch/59020.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1772980479/160/ch/59020.png",
+    "sourceNotes": "Enrichissement Myludo: Sea Salt & Paper (2022)",
+    "summary": "Sea Salt & Paper est un jeu rapide pour 2 à 4 joueurs, jouable en environ 30 minutes autour de cartes, Chance & Hasard, collection."
+  },
+  "shards of infinity": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Affrontement Direct",
+      "Deck building",
+      "deckbuilding",
+      "Gestion de main",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 44654,
+    "myludoCode": "shards-of-infinity",
+    "myludoUrl": "https://www.myludo.fr/#!/game/shards-of-infinity-44654",
+    "editionYear": 2021,
+    "ageMin": 10,
+    "contents": [
+      "1 livret de règles",
+      "128 cartes",
+      "4 fiches Héros"
+    ],
+    "publishers": [
+      "Iello",
+      "Stone Blade Entertainment",
+      "Ultra PRO"
+    ],
+    "authors": [
+      "Gary Arant",
+      "Justin Gary"
+    ],
+    "illustrators": [
+      "Aaron Nakahara"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1742382388/300/bs/44654.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1742382388/160/bs/44654.png",
+    "sourceNotes": "Enrichissement Myludo: Shards Of Infinity (2021)",
+    "summary": "Shards of Infinity est un jeu moyen pour 2 à 4 joueurs, jouable en environ 30 minutes autour de Affrontement Direct, Deck building, deckbuilding."
+  },
+  "skull": {
+    "playersMin": 3,
+    "playersMax": 6,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Déduction",
+      "Élimination",
+      "Jeu de Cartes",
+      "Négociation",
+      "Pari"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 2181,
+    "myludoCode": "skull",
+    "myludoUrl": "https://www.myludo.fr/#!/game/skull-2181",
+    "editionYear": 2013,
+    "ageMin": 10,
+    "contents": [
+      "6 paquets de 4 cartes rondes aux dos identiques",
+      "6 tapis de jeu recto/verso",
+      "une règle de jeu"
+    ],
+    "publishers": [
+      "Lui-Même"
+    ],
+    "authors": [
+      "Hervé Marly"
+    ],
+    "illustrators": [
+      "Thomas Vuarchex"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1773968597/300/ac/2181.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1773968597/160/ac/2181.png",
+    "sourceNotes": "Enrichissement Myludo: Skull (2013)",
+    "summary": "Skull est un jeu rapide pour 3 à 6 joueurs, jouable en environ 30 minutes autour de bluff, Bluff, Déduction."
+  },
+  "skull king": {
+    "playersMin": 2,
+    "playersMax": 8,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "enchères",
+      "Jeu de Cartes",
+      "Pari",
+      "plis",
+      "Plis",
+      "Prise de risque"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 58121,
+    "myludoCode": "skull-king",
+    "myludoUrl": "https://www.myludo.fr/#!/game/skull-king-58121",
+    "editionYear": 2022,
+    "ageMin": 8,
+    "contents": [
+      "14 cartes spéciales",
+      "16 aides de jeu",
+      "16 rappel des mises",
+      "4 cartes Extension",
+      "4 cartes vierges",
+      "56 cartes Couleur",
+      "Carnet de score"
+    ],
+    "publishers": [
+      "Grandpa Beck's Games"
+    ],
+    "authors": [
+      "Brent Beck",
+      "Jeffrey Beck"
+    ],
+    "illustrators": [
+      "David Bock"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1775209134/300/cg/58121.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1775209134/160/cg/58121.png",
+    "sourceNotes": "Enrichissement Myludo: Skull King (2022)",
+    "summary": "Skull King est un jeu rapide pour 2 à 8 joueurs, jouable en environ 30 minutes autour de enchères, Jeu de Cartes, Pari."
+  },
+  "skyjo": {
+    "playersMin": 2,
+    "playersMax": 8,
+    "durationMin": 15,
+    "durationMax": 45,
+    "mechanics": [
+      "cartes",
+      "Collection",
+      "Échange & Troc",
+      "Jeu caché",
+      "Jeu de Cartes",
+      "Pioche",
+      "Placement de cartes"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 31249,
+    "myludoCode": "skyjo",
+    "myludoUrl": "https://www.myludo.fr/#!/game/skyjo-31249",
+    "editionYear": 2015,
+    "ageMin": 8,
+    "contents": [
+      "1 règle de jeu",
+      "150 cartes (5x -2 , 15x 0, 10x les autres nombres (jusque 12))"
+    ],
+    "publishers": [
+      "Magilano"
+    ],
+    "authors": [
+      "Alexander Bernhardt"
+    ],
+    "illustrators": [
+      "Alexander Bernhardt"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1777749055/300/bf/31249.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1777749055/160/bf/31249.png",
+    "sourceNotes": "Enrichissement Myludo: Skyjo (2015)",
+    "summary": "Skyjo est un jeu rapide pour 2 à 8 joueurs, jouable en environ 15 à 45 minutes autour de cartes, Collection, Échange & Troc."
+  },
+  "small world": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 75,
+    "durationMax": 75,
+    "mechanics": [
+      "bagarre",
+      "conquête",
+      "Conquête",
+      "Contrôle de zone",
+      "Déplacement",
+      "Jeu de plateau",
+      "Négociation"
+    ],
+    "mood": [
+      "duel",
+      "stratégie"
+    ],
+    "myludoId": 8156,
+    "myludoCode": "small-world",
+    "myludoUrl": "https://www.myludo.fr/#!/game/small-world-8156",
+    "editionYear": 2009,
+    "ageMin": 8,
+    "contents": [
+      "1 dé de renforts",
+      "1 Dragon",
+      "1 jeton compte-tours",
+      "1 livret de règles",
+      "10 Antres de Troll",
+      "109 jetons de Victoire",
+      "14 Races fantastiques, leurs tuiles et leurs pions",
+      "2 Héros",
+      "2 plateaux de jeu double-face (4 configurations de jeu possibles !)",
+      "2 Tanières",
+      "20 tuiles de Pouvoir spéciaux",
+      "5 Campements",
+      "6 aides de jeu",
+      "6 Forteresses",
+      "9 Montagnes"
+    ],
+    "publishers": [
+      "Days Of Wonder"
+    ],
+    "authors": [
+      "Philippe Keyaerts"
+    ],
+    "illustrators": [
+      "Miguel Coimbra"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1735137079/300/ai/8156.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1735137079/160/ai/8156.png",
+    "sourceNotes": "Enrichissement Myludo: Small World (2009)",
+    "summary": "Small World est un jeu long pour 2 à 5 joueurs, jouable en environ 75 minutes autour de bagarre, conquête, Conquête."
+  },
+  "splendor": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Blocage",
+      "collection",
+      "Combinaison",
+      "draft",
+      "Échange & Troc",
+      "Gestion de ressources",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 1875,
+    "myludoCode": "splendor",
+    "myludoUrl": "https://www.myludo.fr/#!/game/splendor-1875",
+    "editionYear": 2014,
+    "ageMin": 10,
+    "contents": [
+      "40 jetons (poker)",
+      "90 cartes développement",
+      "règle du jeu"
+    ],
+    "publishers": [
+      "Space Cowboys"
+    ],
+    "authors": [
+      "Marc André"
+    ],
+    "illustrators": [
+      "Pascal Quidault"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1773056489/300/ab/1875.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1773056489/160/ab/1875.png",
+    "sourceNotes": "Enrichissement Myludo: Splendor (2014)",
+    "summary": "Splendor est un jeu court pour 2 à 4 joueurs, jouable en environ 30 minutes autour de Blocage, collection, Combinaison."
+  },
+  "splendor duel": {
+    "playersMin": 2,
+    "playersMax": 2,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Blocage",
+      "Combinaison",
+      "draft",
+      "duel",
+      "Gestion de ressources",
+      "Jeu de Cartes"
+    ],
+    "mood": [
+      "duel",
+      "familial"
+    ],
+    "myludoId": 57838,
+    "myludoCode": "splendor-duel",
+    "myludoUrl": "https://www.myludo.fr/#!/game/splendor-duel-57838",
+    "editionYear": 2022,
+    "ageMin": 10,
+    "contents": [
+      "1 plateau",
+      "1 sac",
+      "1 tuile Victoire",
+      "25 jetons",
+      "3 figurines Privilège",
+      "4 cartes royales",
+      "67 cartes Joaillerie"
+    ],
+    "publishers": [
+      "Space Cowboys"
+    ],
+    "authors": [
+      "Bruno Cathala",
+      "Marc André"
+    ],
+    "illustrators": [
+      "Davide Tosello"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1781517093/300/cf/57838.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1781517093/160/cf/57838.png",
+    "sourceNotes": "Enrichissement Myludo: Splendor Duel (2022)",
+    "summary": "Splendor Duel est un jeu duel pour 2 joueurs, jouable en environ 30 minutes autour de Blocage, Combinaison, draft."
+  },
+  "star wars": {
+    "myludoId": 20054,
+    "myludoCode": "star-wars-rebellion",
+    "myludoUrl": "https://www.myludo.fr/#!/game/star-wars-rebellion-20054",
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 180,
+    "durationMax": 240,
+    "ageMin": 14,
+    "imageUrl": "https://www.myludo.fr/img/jeux/1753997369/300/au/20054.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1753997369/160/au/20054.png",
+    "mechanics": [
+      "affrontement",
+      "asymétrique",
+      "figurines",
+      "stratégie"
+    ],
+    "mood": [
+      "duel",
+      "expert",
+      "stratégie"
+    ],
+    "sourceNotes": "Correspondance manuelle Myludo: Star Wars Rébellion (2016). À vérifier si la boîte CSE est une autre édition Star Wars.",
+    "summary": "Fiche rattachée à Star Wars Rébellion : un grand jeu asymétrique où l'Empire traque la base rebelle pendant que l'Alliance tente de rallier la galaxie."
+  },
+  "sur les traces de darwin": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Choix multiples",
+      "Combinaison",
+      "draft",
+      "Jeu de plateau",
+      "Jeu de tuiles",
+      "Placement de tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 62187,
+    "myludoCode": "sur-les-traces-de-darwin",
+    "myludoUrl": "https://www.myludo.fr/#!/game/sur-les-traces-de-darwin-62187",
+    "editionYear": 2023,
+    "ageMin": 8,
+    "contents": [
+      "(dont 64 animaux et 5 personnages)",
+      "1 carnet de score",
+      "1 livret de règles/ 1 livret appendice",
+      "1 pion bateau \"Beagle\"",
+      "1 pion Darwin",
+      "1 plateau central voyage",
+      "1 sac en tissu",
+      "10 jetons Guide",
+      "15 jetons Boussoles",
+      "16 tuiles Publication",
+      "28 tuiles Théorie",
+      "5 plateaux joueurs",
+      "69 tuiles Découverte"
+    ],
+    "publishers": [
+      "Sorry We Are French"
+    ],
+    "authors": [
+      "Grégory Grard",
+      "Matthieu Verdier"
+    ],
+    "illustrators": [
+      "David Sitbon"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1747813639/300/ck/62187.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1747813639/160/ck/62187.png",
+    "sourceNotes": "Enrichissement Myludo: Sur les traces de Darwin (2023)",
+    "summary": "Sur les Traces de Darwin est un jeu court pour 2 à 5 joueurs, jouable en environ 30 minutes autour de Choix multiples, Combinaison, draft."
+  },
+  "sushi go": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "draft",
+      "Draft",
+      "Jeu de Cartes",
+      "Majorité",
+      "Prise de risque"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 21882,
+    "myludoCode": "sushi-go",
+    "myludoUrl": "https://www.myludo.fr/#!/game/sushi-go-21882",
+    "editionYear": 2014,
+    "ageMin": 8,
+    "contents": [
+      "108 cartes",
+      "Les règles du jeu"
+    ],
+    "publishers": [
+      "Cocktail Games",
+      "Gamewright"
+    ],
+    "authors": [
+      "Phil Walker-Harding"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1777658570/300/av/21882.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1777658570/160/av/21882.png",
+    "sourceNotes": "Enrichissement Myludo: Sushi Go! (2014)",
+    "summary": "Sushi Go est un jeu rapide pour 2 à 5 joueurs, jouable en environ 15 minutes autour de draft, Draft, Jeu de Cartes."
+  },
+  "takenoko": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 45,
+    "durationMax": 45,
+    "mechanics": [
+      "Blocage",
+      "Jeu de plateau",
+      "Jeu de tuiles",
+      "Objectif secret",
+      "placement",
+      "Placement de tuiles",
+      "Plateau modulaire"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 48826,
+    "myludoCode": "takenoko",
+    "myludoUrl": "https://www.myludo.fr/#!/game/takenoko-48826",
+    "editionYear": 2021,
+    "ageMin": 8,
+    "contents": [
+      "1 dé météo,",
+      "1 figurine de jardinier,",
+      "1 figurine de panda,",
+      "1 livret de règles.",
+      "20 irrigations,",
+      "28 tuiles (parcelles),",
+      "4 plateaux individuels,",
+      "46 cartes objectifs,",
+      "8 jetons action,",
+      "9 aménagements,",
+      "90 sections de bambou,"
+    ],
+    "publishers": [
+      "Bombyx",
+      "Matagot"
+    ],
+    "authors": [
+      "Antoine Bauza"
+    ],
+    "illustrators": [
+      "Joël Picksel",
+      "Nicolas Fructus",
+      "Yuio"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1771243615/300/bw/48826.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1771243615/160/bw/48826.png",
+    "sourceNotes": "Enrichissement Myludo: Takenoko (2021)",
+    "summary": "Takenoko est un jeu court pour 2 à 4 joueurs, jouable en environ 45 minutes autour de Blocage, Jeu de plateau, Jeu de tuiles."
+  },
+  "terraforming mars": {
+    "playersMin": 1,
+    "playersMax": 5,
+    "durationMin": 90,
+    "durationMax": 120,
+    "mechanics": [
+      "Asymétrie",
+      "Combinaison",
+      "draft",
+      "Draft",
+      "Gestion de ressources",
+      "Jet De Dés",
+      "Jeu de dés",
+      "Jeu de plateau",
+      "Majorité",
+      "moteur",
+      "Objectif Commun",
+      "Placement de tuiles",
+      "Pouvoir",
+      "Stratégie"
+    ],
+    "mood": [
+      "expert",
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 100,
+    "myludoCode": "terraforming-mars",
+    "myludoUrl": "https://www.myludo.fr/#!/game/terraforming-mars-100",
+    "editionYear": 2017,
+    "ageMin": 12,
+    "contents": [
+      "1 livret de règles",
+      "1 marqueur premier joueur",
+      "1 plateau de jeu 5 plateaux individuels",
+      "11 tuiles spéciales",
+      "17 cartes corporation",
+      "200 marqueurs joueurs (cubes transparents de 5 couleurs)",
+      "200 marqueurs ressource (cubes opaques couleur or, argent et cuivre, de tailles différentes)",
+      "208 cartes projet",
+      "3 marqueurs du plateau (Gros cubes blancs)",
+      "60 tuiles verdure/cité",
+      "8 cartes de référence",
+      "9 tuiles océans"
+    ],
+    "publishers": [
+      "Fryxgames",
+      "Intrafin Games"
+    ],
+    "authors": [
+      "Jacob Fryxelius"
+    ],
+    "illustrators": [
+      "Isaac Fryxelius"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1747309922/300/aa/100.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1747309922/160/aa/100.png",
+    "sourceNotes": "Enrichissement Myludo: Terraforming Mars (2017)",
+    "summary": "Terraforming Mars est un jeu expert pour 1 à 5 joueurs, jouable en environ 90 à 120 minutes autour de Asymétrie, Combinaison, draft."
+  },
+  "terraforming mars des": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "Combinaison",
+      "dés",
+      "draft",
+      "Jet De Dés",
+      "Jeu de dés",
+      "Majorité",
+      "Pouvoir"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 66071,
+    "myludoCode": "terraforming-mars",
+    "myludoUrl": "https://www.myludo.fr/#!/game/terraforming-mars-66071",
+    "subtitle": "Le jeu de dés",
+    "editionYear": 2023,
+    "ageMin": 14,
+    "contents": [
+      "1 livret de règles",
+      "11 objectifs",
+      "159 cartes",
+      "2 aides de jeu",
+      "22 jetons Joker",
+      "4 tuiles Joueur",
+      "43 tuiles",
+      "6 cubes",
+      "60 dés"
+    ],
+    "publishers": [
+      "Fryxgames",
+      "Intrafin Games"
+    ],
+    "authors": [
+      "Daniel Fryxelius",
+      "Jacob Fryxelius"
+    ],
+    "illustrators": [
+      "Isaac Fryxelius"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1725538583/300/co/66071.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1725538583/160/co/66071.png",
+    "sourceNotes": "Enrichissement Myludo: Terraforming Mars (2023)",
+    "summary": "Terraforming Mars Dés, dans l'édition Le jeu de dés est un jeu moyen pour 1 à 4 joueurs, jouable en environ 60 minutes autour de Combinaison, dés, draft."
+  },
+  "that s not a hat": {
+    "playersMin": 3,
+    "playersMax": 8,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Jeu d'Ambiance",
+      "mémoire",
+      "Mémorisation"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 62447,
+    "myludoCode": "that-s-not-a-hat",
+    "myludoUrl": "https://www.myludo.fr/#!/game/that-s-not-a-hat-62447",
+    "editionYear": 2023,
+    "ageMin": 8,
+    "contents": [
+      "1 règle",
+      "110 cartes"
+    ],
+    "publishers": [
+      "Ravensburger"
+    ],
+    "authors": [
+      "Kasper Lapp"
+    ],
+    "illustrators": [
+      "Easy Draws It"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1741895767/300/ck/62447.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1741895767/160/ck/62447.png",
+    "sourceNotes": "Enrichissement Myludo: That's Not a Hat (2023)",
+    "summary": "That's Not a Hat est un jeu rapide pour 3 à 8 joueurs, jouable en environ 15 minutes autour de bluff, Bluff, Jeu d'Ambiance."
+  },
+  "the crew": {
+    "playersMin": 3,
+    "playersMax": 5,
+    "durationMin": 20,
+    "durationMax": 20,
+    "mechanics": [
+      "Combinaison",
+      "Communication Restreinte",
+      "Contrat",
+      "coop",
+      "Coopération",
+      "Jeu de Cartes",
+      "plis",
+      "Plis"
+    ],
+    "mood": [
+      "coopération",
+      "rapide"
+    ],
+    "myludoId": 37695,
+    "myludoCode": "the-crew",
+    "myludoUrl": "https://www.myludo.fr/#!/game/the-crew-37695",
+    "editionYear": 2020,
+    "ageMin": 10,
+    "contents": [
+      "1 jeton signal de détresse",
+      "1 jeton Signal de Détresse",
+      "1 livret de règles/journal de bord",
+      "1 pion Commandant",
+      "10 jetons tâche",
+      "10 jetons Tâche",
+      "16 jetons :",
+      "36 cartes de couleur (4 couleurs, de valeurs 1 à 9)",
+      "36 cartes Tâche (petites cartes)",
+      "4 cartes Fusée (de valeurs 1 à 4)",
+      "40 cartes Espace (grandes cartes) :",
+      "5 cartes Rappel",
+      "5 jetons radio",
+      "5 jetons Radio"
+    ],
+    "publishers": [
+      "Iello"
+    ],
+    "authors": [
+      "Thomas Sing"
+    ],
+    "illustrators": [
+      "Marco Armbruster"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1778147870/300/bl/37695.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1778147870/160/bl/37695.png",
+    "sourceNotes": "Enrichissement Myludo: The Crew (2020)",
+    "summary": "The Crew est un jeu rapide pour 3 à 5 joueurs, jouable en environ 20 minutes autour de Combinaison, Communication Restreinte, Contrat."
+  },
+  "the loop": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "cartes",
+      "Combinaison",
+      "coop",
+      "Coopération",
+      "Deck building",
+      "Gestion de main",
+      "Jeu de plateau"
+    ],
+    "mood": [
+      "coopération",
+      "stratégie"
+    ],
+    "myludoId": 39582,
+    "myludoCode": "the-loop",
+    "myludoUrl": "https://www.myludo.fr/#!/game/the-loop-39582",
+    "editionYear": 2020,
+    "ageMin": 12,
+    "contents": [
+      "1 feuillet Mode Solo",
+      "1 Livret Opérationnel",
+      "1 livret Règlement Intérieur",
+      "1 Machine 3D",
+      "1 plateau Espace-Temps",
+      "1 plateau QG",
+      "1 sac",
+      "10 tuiles Sabotage",
+      "100 cartes",
+      "3 tuiles Vortex",
+      "38 jetons",
+      "5 pions en bois",
+      "65 cubes en plastique (30 verts + 30 rouges + 5 bleus)",
+      "8 grandes tuiles"
+    ],
+    "publishers": [
+      "Catch Up Games"
+    ],
+    "authors": [
+      "Maxime Rambourg",
+      "Théo Rivière"
+    ],
+    "illustrators": [
+      "Simon Caruso"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1782593079/300/bn/39582.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1782593079/160/bn/39582.png",
+    "sourceNotes": "Enrichissement Myludo: The Loop (2020)",
+    "summary": "The Loop est un jeu long pour 1 à 4 joueurs, jouable en environ 60 minutes autour de cartes, Combinaison, coop."
+  },
+  "the mind": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "coop",
+      "Coopération",
+      "Déduction",
+      "Jeu de Cartes",
+      "Objectif secret"
+    ],
+    "mood": [
+      "coopération",
+      "rapide"
+    ],
+    "myludoId": 23301,
+    "myludoCode": "the-mind",
+    "myludoUrl": "https://www.myludo.fr/#!/game/the-mind-23301",
+    "editionYear": 2018,
+    "ageMin": 8,
+    "contents": [
+      "1 règle du jeu",
+      "120 cartes"
+    ],
+    "publishers": [
+      "Nürnberger Spielkarten Verlag",
+      "Oya"
+    ],
+    "authors": [
+      "Wolfgang Warsch"
+    ],
+    "illustrators": [
+      "Oliver Freudenreich"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1780502327/300/ax/23301.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1780502327/160/ax/23301.png",
+    "sourceNotes": "Enrichissement Myludo: The Mind (2018)",
+    "summary": "The Mind est un jeu rapide pour 2 à 4 joueurs, jouable en environ 15 minutes autour de coop, Coopération, Déduction."
+  },
+  "time bomb": {
+    "playersMin": 4,
+    "playersMax": 8,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "bluff",
+      "Bluff",
+      "Déduction",
+      "Équipes",
+      "Jeu d'Ambiance",
+      "Jeu de Cartes",
+      "Objectif secret",
+      "Prise de risque",
+      "Rôle secret"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 327,
+    "myludoCode": "time-bomb",
+    "myludoUrl": "https://www.myludo.fr/#!/game/time-bomb-327",
+    "editionYear": 2016,
+    "ageMin": 8,
+    "contents": [
+      "1 carte Pince Coupante",
+      "1 jeton Pince Coupante articulée",
+      "40 cartes Câble (61 x 112 mm)",
+      "8 cartes Rôle (61 x 112 mm)",
+      "8 jetons Compte-tours"
+    ],
+    "publishers": [
+      "Iello"
+    ],
+    "authors": [
+      "Yusuke Sato"
+    ],
+    "illustrators": [
+      "Biboun"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1753053696/300/aa/327.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1753053696/160/aa/327.png",
+    "sourceNotes": "Enrichissement Myludo: Time Bomb (2016)",
+    "summary": "Time Bomb est un jeu rapide pour 4 à 8 joueurs, jouable en environ 15 minutes autour de bluff, Bluff, Déduction."
+  },
+  "top ten": {
+    "playersMin": 4,
+    "playersMax": 9,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "ambiance",
+      "Classement",
+      "Coopération",
+      "Déduction",
+      "Jeu d'Ambiance"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 37542,
+    "myludoCode": "top-ten",
+    "myludoUrl": "https://www.myludo.fr/#!/game/top-ten-37542",
+    "editionYear": 2020,
+    "ageMin": 14,
+    "contents": [
+      "1 règle du jeu",
+      "1 tapis",
+      "135 cartes",
+      "8 jetons"
+    ],
+    "publishers": [
+      "Cocktail Games"
+    ],
+    "authors": [
+      "Aurélien Picolet"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1721375862/300/bl/37542.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1721375862/160/bl/37542.png",
+    "sourceNotes": "Enrichissement Myludo: Top Ten (2020)",
+    "summary": "Top Ten est un jeu court pour 4 à 9 joueurs, jouable en environ 30 minutes autour de ambiance, Classement, Coopération."
+  },
+  "tours ambulantes": {
+    "playersMin": 1,
+    "playersMax": 6,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "Déplacement",
+      "Gestion de main",
+      "Jet De Dés",
+      "Jeu de Cartes",
+      "Jeu de pions",
+      "Jeu de tuiles",
+      "Mémorisation",
+      "Stratégie",
+      "tuiles"
+    ],
+    "mood": [
+      "familial",
+      "rapide"
+    ],
+    "myludoId": 60693,
+    "myludoCode": "les-tours-ambulantes",
+    "myludoUrl": "https://www.myludo.fr/#!/game/les-tours-ambulantes-60693",
+    "editionYear": 2022,
+    "ageMin": 8,
+    "contents": [
+      "1 bouclier Oya",
+      "1 dé",
+      "1 donjon",
+      "24 sorciers",
+      "36 fioles",
+      "4 plaques",
+      "8 sorts",
+      "9 tours",
+      "90 cartes mouvements",
+      "règles du jeu"
+    ],
+    "publishers": [
+      "Oya"
+    ],
+    "authors": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ],
+    "illustrators": [
+      "Michael Menzel"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1765667068/300/ci/60693.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1765667068/160/ci/60693.png",
+    "sourceNotes": "Enrichissement Myludo: Les Tours Ambulantes (2022)",
+    "summary": "Tours ambulantes est un jeu rapide pour 1 à 6 joueurs, jouable en environ 30 minutes autour de Déplacement, Gestion de main, Jet De Dés."
+  },
+  "tracks": {
+    "playersMin": 1,
+    "playersMax": 6,
+    "durationMin": 25,
+    "durationMax": 25,
+    "mechanics": [
+      "Bande son",
+      "Coopération",
+      "Déduction",
+      "Énigme",
+      "enquête",
+      "Jeu D'Enquête",
+      "Observation"
+    ],
+    "mood": [
+      "enquête"
+    ],
+    "myludoId": 60001,
+    "myludoCode": "tracks",
+    "myludoUrl": "https://www.myludo.fr/#!/game/tracks-60001",
+    "editionYear": 2022,
+    "ageMin": 12,
+    "contents": [
+      "1 application à télécharger gratuitement (nécessite un smartphone ou une tablette)",
+      "1 dépliant touristique",
+      "1 dossier de police contenant 15 fiches Enquête",
+      "1 fiche \"règle du jeu\"",
+      "1 plan de Siren Bay",
+      "55 cartes Caméra"
+    ],
+    "publishers": [
+      "KYF Edition"
+    ],
+    "authors": [
+      "Christian Rubiella",
+      "Juan Rodriguez"
+    ],
+    "illustrators": [
+      "Piérô"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1725563394/300/ci/60001.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1725563394/160/ci/60001.png",
+    "sourceNotes": "Enrichissement Myludo: Tracks (2022)",
+    "summary": "Tracks est un jeu solo ou enquête pour 1 à 6 joueurs, jouable en environ 25 minutes autour de Bande son, Coopération, Déduction."
+  },
+  "trio": {
+    "playersMin": 3,
+    "playersMax": 6,
+    "durationMin": 15,
+    "durationMax": 15,
+    "mechanics": [
+      "cartes",
+      "Chance & Hasard",
+      "Collection",
+      "Jeu de Cartes",
+      "mémoire",
+      "Mémorisation",
+      "Observation"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 61611,
+    "myludoCode": "trio",
+    "myludoUrl": "https://www.myludo.fr/#!/game/trio-61611",
+    "editionYear": 2023,
+    "ageMin": 7,
+    "contents": [
+      "36 cartes (3 exemplaire de chaque carte allant de 1 à 12)",
+      "la règle"
+    ],
+    "publishers": [
+      "Cocktail Games"
+    ],
+    "authors": [
+      "Kaya Miyano"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1772792739/300/cj/61611.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1772792739/160/cj/61611.png",
+    "sourceNotes": "Enrichissement Myludo: Trio (2023)",
+    "summary": "Trio est un jeu rapide pour 3 à 6 joueurs, jouable en environ 15 minutes autour de cartes, Chance & Hasard, Collection."
+  },
+  "ttmc": {
+    "playersMin": 2,
+    "playersMax": 16,
+    "durationMin": 42,
+    "durationMax": 97,
+    "mechanics": [
+      "Déduction",
+      "Jeu d'Ambiance",
+      "Jeu De Connaissances",
+      "Logique",
+      "Questions & Réponses",
+      "quiz"
+    ],
+    "mood": [
+      "ambiance",
+      "rapide"
+    ],
+    "myludoId": 28269,
+    "myludoCode": "ttmc",
+    "myludoUrl": "https://www.myludo.fr/#!/game/ttmc-28269",
+    "subtitle": "Tu Te Mets Combien ?",
+    "editionYear": 2018,
+    "ageMin": 14,
+    "contents": [
+      "1 plateau de jeu intégré dans la boite",
+      "1 règles du jeu",
+      "10 cartes \"ça va pas du tout\"",
+      "10 cartes \"hésite pas à débuter\"",
+      "115 cartes challenge",
+      "540 cartes de jeu (10 questions par carte)",
+      "65 cartes \"n'hésite pas à gagner\"",
+      "85 cartes bleues \"Mature\"",
+      "85 cartes oranges \"Plaisir\"",
+      "85 cartes vertes \"Scolaire\"",
+      "85 cartes violettes \"improbable\""
+    ],
+    "publishers": [
+      "Les Éditions de Base"
+    ],
+    "authors": [
+      "Rémy Ponton",
+      "Vincent Burger"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1770303721/300/bc/28269.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1770303721/160/bc/28269.png",
+    "sourceNotes": "Enrichissement Myludo: TTMC (2018)",
+    "summary": "TTMC, dans l'édition Tu Te Mets Combien ? est un jeu court pour 2 à 16 joueurs, jouable en environ 42 à 97 minutes autour de Déduction, Jeu d'Ambiance, Jeu De Connaissances."
+  },
+  "turing machine": {
+    "playersMin": 1,
+    "playersMax": 4,
+    "durationMin": 20,
+    "durationMax": 30,
+    "mechanics": [
+      "Casse-tête",
+      "Choix multiples",
+      "Choix simultanés",
+      "Combinaison",
+      "déduction",
+      "Déduction",
+      "logique",
+      "Logique",
+      "Réflexion"
+    ],
+    "mood": [
+      "enquête",
+      "rapide"
+    ],
+    "myludoId": 58039,
+    "myludoCode": "turing-machine",
+    "myludoUrl": "https://www.myludo.fr/#!/game/turing-machine-58039",
+    "subtitle": "Interrogez La Machine",
+    "editionYear": 2022,
+    "ageMin": 14,
+    "contents": [
+      "1 feutre",
+      "1 support à cartes perforées (à assembler)",
+      "1 tuile centrale",
+      "4 paravents",
+      "45 cartes perforées (3 sets de 15 cartes numérotées de 1 à 5 en 3 couleurs)",
+      "48 cartes Critères",
+      "50 feuilles de note",
+      "96 cartes Vérification"
+    ],
+    "publishers": [
+      "Le Scorpion Masqué"
+    ],
+    "authors": [
+      "Fabien Gridel",
+      "Yoann Levet"
+    ],
+    "illustrators": [
+      "Sébastien Bizos"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1777810869/300/cg/58039.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1777810869/160/cg/58039.png",
+    "sourceNotes": "Enrichissement Myludo: Turing Machine (2022)",
+    "summary": "Turing Machine, dans l'édition Interrogez La Machine est un jeu court pour 1 à 4 joueurs, jouable en environ 20 à 30 minutes autour de Casse-tête, Choix multiples, Choix simultanés."
+  },
+  "unlock": {
+    "playersMin": 1,
+    "playersMax": 6,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "Combinaison",
+      "Coopération",
+      "Déduction",
+      "Énigme",
+      "enquête",
+      "escape game",
+      "Escape Game",
+      "Exploration",
+      "Jeu de Cartes",
+      "Logique",
+      "Observation"
+    ],
+    "mood": [
+      "enquête"
+    ],
+    "myludoId": 225,
+    "myludoCode": "unlock-escape-adventures",
+    "myludoUrl": "https://www.myludo.fr/#!/game/unlock-escape-adventures-225",
+    "editionYear": 2017,
+    "ageMin": 10,
+    "contents": [
+      "1 livret de règles",
+      "1 tutoriel de 10 cartes (permet d'apprendre les règles du jeu sans avoir à les lire)",
+      "L'île du docteur Goorse (60 cartes)",
+      "La Formule (60 cartes)",
+      "Squeek & Sausage (60 cartes)"
+    ],
+    "publishers": [
+      "Space Cowboys"
+    ],
+    "authors": [
+      "Alice Carroll",
+      "Cyril Demaegd",
+      "Thomas Cauet"
+    ],
+    "illustrators": [
+      "Arnaud Demaegd",
+      "Florian De Gesincourt",
+      "Legruth",
+      "Pierre Santamaria"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1780565638/300/aa/225.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1780565638/160/aa/225.png",
+    "sourceNotes": "Enrichissement Myludo: Unlock! - Escape Adventures (2017)",
+    "summary": "Unlock est un jeu solo ou enquête pour 1 à 6 joueurs, jouable en environ 60 minutes autour de Combinaison, Coopération, Déduction."
+  },
+  "uno": {
+    "playersMin": 2,
+    "playersMax": 10,
+    "durationMin": 30,
+    "durationMax": 30,
+    "mechanics": [
+      "cartes",
+      "Défausse",
+      "Jeu de Cartes",
+      "Pioche"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 29135,
+    "myludoCode": "uno",
+    "myludoUrl": "https://www.myludo.fr/#!/game/uno-29135",
+    "editionYear": 2015,
+    "ageMin": 7,
+    "contents": [
+      "1 boîtier de rangement",
+      "1 règle du jeu",
+      "108 cartes"
+    ],
+    "publishers": [
+      "Mattel"
+    ],
+    "authors": [
+      "Merle Robbins"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1771922656/300/bd/29135.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1771922656/160/bd/29135.png",
+    "sourceNotes": "Enrichissement Myludo: Uno (2015)",
+    "summary": "Uno est un jeu rapide pour 2 à 10 joueurs, jouable en environ 30 minutes autour de cartes, Défausse, Jeu de Cartes."
+  },
+  "vale of eternity": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 30,
+    "durationMax": 45,
+    "mechanics": [
+      "Collection",
+      "Combinaison",
+      "draft",
+      "Gestion de main",
+      "Jeu de Cartes",
+      "Planification",
+      "Pouvoir"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 71923,
+    "myludoCode": "the-vale-of-eternity",
+    "myludoUrl": "https://www.myludo.fr/#!/game/the-vale-of-eternity-71923",
+    "editionYear": 2023,
+    "ageMin": 10,
+    "contents": [
+      "1 compteur de manches",
+      "1 figurine cartonnée",
+      "1 livret de règles",
+      "1 piste de score",
+      "1 plateau",
+      "1 tuile d'initiative",
+      "4 pions score",
+      "4 tuiles individuelles",
+      "42 pierres magiques",
+      "70 cartes",
+      "8 pions capture"
+    ],
+    "publishers": [
+      "Blackrock Games",
+      "Mandoo Games"
+    ],
+    "authors": [
+      "Eric Hong"
+    ],
+    "illustrators": [
+      "Stefano Martinuz"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1772980274/300/ct/71923.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1772980274/160/ct/71923.png",
+    "sourceNotes": "Enrichissement Myludo: The Vale of Eternity (2023)",
+    "summary": "Vale of Eternity est un jeu moyen pour 2 à 4 joueurs, jouable en environ 30 à 45 minutes autour de Collection, Combinaison, draft."
+  },
+  "vindication": {
+    "playersMin": 2,
+    "playersMax": 5,
+    "durationMin": 45,
+    "durationMax": 150,
+    "mechanics": [
+      "Conquête",
+      "Jeu de plateau",
+      "Plateau modulaire",
+      "Roleplay",
+      "stratégie"
+    ],
+    "mood": [
+      "expert",
+      "stratégie"
+    ],
+    "myludoId": 57903,
+    "myludoCode": "vindication",
+    "myludoUrl": "https://www.myludo.fr/#!/game/vindication-57903",
+    "editionYear": 2022,
+    "ageMin": 13,
+    "contents": [
+      "1 dé de monstre (noir) et 1 dé d'attribut (blanc)",
+      "1 livret de règles",
+      "1 livret L'Art et les légendes de l'Éveil",
+      "1 plateau central hexagonal",
+      "1 sac en tissu - Inserts Gametrayz",
+      "1 tuile Mythes et Merveilles",
+      "10 tuiles Vitesse/Monture",
+      "117 cubes en bois",
+      "15 jetons Attribut hexagonaux, 20 jetons Cristal ronds et 5 jetons Téléportation ronds",
+      "196 cartes",
+      "27 tuiles hexagonales Région de l'île (17 types différents)",
+      "4 jetons Déclenchement de fin de partie",
+      "5 aides de jeu",
+      "5 disques de score en bois (1 par couleur/joueur)",
+      "5 jetons Faveur de la guilde",
+      "5 jetons Faveur de la guilde en métal",
+      "5 médaillons Joueur en métal avec support",
+      "5 plateaux Pouvoir",
+      "5 tuiles Joueur Vile crapule/Rédimé",
+      "6 tuiles Maîtrise et 24 tuiles Aptitude",
+      "6 tuiles Site de construction",
+      "7 figurines"
+    ],
+    "publishers": [
+      "Lucky Duck Games",
+      "Orange Nebula"
+    ],
+    "authors": [
+      "Marc Neidlinge"
+    ],
+    "illustrators": [
+      "Brett Carville",
+      "Emiliano Cordoba",
+      "Noah Adelman",
+      "Noemi Konkoly",
+      "Phu Thieu"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1781496234/300/cf/57903.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1781496234/160/cf/57903.png",
+    "sourceNotes": "Enrichissement Myludo: Vindication (2022)",
+    "summary": "Vindication est un jeu expert pour 2 à 5 joueurs, jouable en environ 45 à 150 minutes autour de Conquête, Jeu de plateau, Plateau modulaire."
+  },
+  "wasgij": {
+    "playersMin": 1,
+    "playersMax": 1,
+    "durationMin": 120,
+    "durationMax": 999,
+    "mechanics": [
+      "Logique",
+      "Observation",
+      "puzzle",
+      "Puzzle"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 66657,
+    "myludoCode": "wasgij-22-trip-to-the-tip",
+    "myludoUrl": "https://www.myludo.fr/#!/game/wasgij-22-trip-to-the-tip-66657",
+    "subtitle": "Destiny Puzzle",
+    "editionYear": 2021,
+    "ageMin": 10,
+    "contents": [],
+    "publishers": [
+      "Jumbo"
+    ],
+    "authors": [],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1683532342/300/co/66657.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1683532342/160/co/66657.png",
+    "sourceNotes": "Enrichissement Myludo: Wasgij? 22 - Trip To The Tip! (2021)",
+    "summary": "Wasgij, dans l'édition Destiny Puzzle est un jeu rapide pour 1 joueur, jouable en environ 120 à 999 minutes autour de Logique, Observation, puzzle."
+  },
+  "wazabi": {
+    "durationMin": 10,
+    "durationMax": 20,
+    "mechanics": [
+      "cartes",
+      "dés"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "welcome": {
+    "playersMin": 1,
+    "playersMax": 99,
+    "durationMin": 25,
+    "durationMax": 25,
+    "mechanics": [
+      "Chance & Hasard",
+      "Combinaison",
+      "Construction",
+      "draw and write",
+      "Flip & Write",
+      "Jeu à Griffonner",
+      "Jeu de plateau",
+      "Papier & Crayon",
+      "Prise de risque"
+    ],
+    "mood": [
+      "rapide"
+    ],
+    "myludoId": 19524,
+    "myludoCode": "welcome-to-your-perfect-home",
+    "myludoUrl": "https://www.myludo.fr/#!/game/welcome-to-your-perfect-home-19524",
+    "editionYear": 2018,
+    "ageMin": 10,
+    "contents": [
+      "1 bloc de feuilles de marque",
+      "1 règle du jeu",
+      "29 cartes Plans",
+      "4 aides de jeu",
+      "81 cartes Travaux"
+    ],
+    "publishers": [
+      "Blue Cocker"
+    ],
+    "authors": [
+      "Benoit Turpin"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1753053404/300/at/19524.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1753053404/160/at/19524.png",
+    "sourceNotes": "Enrichissement Myludo: Welcome To Your Perfect Home (2018)",
+    "summary": "Welcome est un jeu court pour 1 à 99 joueurs, jouable en environ 25 minutes autour de Chance & Hasard, Combinaison, Construction."
+  },
+  "welcome to the moon": {
+    "playersMin": 1,
+    "playersMax": 6,
+    "durationMin": 25,
+    "durationMax": 30,
+    "mechanics": [
+      "Campagne",
+      "Chance & Hasard",
+      "Combinaison",
+      "draw and write",
+      "Flip & Write",
+      "Jeu à Griffonner",
+      "Jeu de Cartes",
+      "Papier & Crayon",
+      "Prise de risque",
+      "Scénarios"
+    ],
+    "mood": [
+      "stratégie"
+    ],
+    "myludoId": 50329,
+    "myludoCode": "welcome-to-the-moon",
+    "myludoUrl": "https://www.myludo.fr/#!/game/welcome-to-the-moon-50329",
+    "editionYear": 2021,
+    "ageMin": 10,
+    "contents": [
+      "1 carte Capitaine",
+      "11 cartes Solo ASTRA",
+      "2 livrets de Campagne",
+      "2 livrets de règles",
+      "24 feuilles Aventure effaçables recto-verso",
+      "48 cartes Mission",
+      "6 feutres effaçables",
+      "63 cartes Vaisseau",
+      "97 cartes Campagne"
+    ],
+    "publishers": [
+      "Blue Cocker"
+    ],
+    "authors": [
+      "Alexis Allard",
+      "Benoit Turpin"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1747833179/300/by/50329.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1747833179/160/by/50329.png",
+    "sourceNotes": "Enrichissement Myludo: Welcome to the Moon (2021)",
+    "summary": "Welcome to the Moon est un jeu moyen pour 1 à 6 joueurs, jouable en environ 25 à 30 minutes autour de Campagne, Chance & Hasard, Combinaison."
+  },
+  "wingspan": {
+    "playersMin": 1,
+    "playersMax": 5,
+    "durationMin": 60,
+    "durationMax": 60,
+    "mechanics": [
+      "collection",
+      "Collection",
+      "Draft",
+      "Gestion de main",
+      "Jet De Dés",
+      "Jeu de plateau",
+      "moteur"
+    ],
+    "mood": [
+      "familial",
+      "stratégie"
+    ],
+    "myludoId": 28349,
+    "myludoCode": "wingspan",
+    "myludoUrl": "https://www.myludo.fr/#!/game/wingspan-28349",
+    "subtitle": "À tire d'ailes",
+    "editionYear": 2019,
+    "ageMin": 10,
+    "contents": [
+      "1 Appendice",
+      "1 bloc de score",
+      "1 carte de suivi de manche",
+      "1 jeton premier joueur",
+      "1 livret de règle",
+      "1 plateau Objectif (recto-verso)",
+      "1 plateau oiseaux",
+      "1 règle solo",
+      "1 Swift Pack (10 cartes bonus + 5 plateaux aides)",
+      "1 tour de dé",
+      "103 jetons nourriture",
+      "11 cartes Automa (dont 1 experte)",
+      "170 cartes oiseaux",
+      "2 cartes aides de jeu",
+      "2 cartes décompte d'objectifs",
+      "26 cartes bonus",
+      "40 cubes action en bois (8x 5 couleurs (bleu, rouge, jaune, mauve, vert)",
+      "5 dès en bois",
+      "5 plateaux joueurs",
+      "75 oiseaux miniatures",
+      "8 tuiles objectifs (4 recto-verso)"
+    ],
+    "publishers": [
+      "Matagot",
+      "Stonemaier Games"
+    ],
+    "authors": [],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1753523933/300/bc/28349.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1753523933/160/bc/28349.png",
+    "sourceNotes": "Enrichissement Myludo: Wingspan (2019)",
+    "summary": "Wingspan, dans l'édition À tire d'ailes est un jeu long pour 1 à 5 joueurs, jouable en environ 60 minutes autour de collection, Collection, Draft."
+  },
+  "wyrmspan": {
+    "mechanics": [
+      "collection",
+      "moteur"
+    ],
+    "mood": [
+      "familial"
+    ],
+    "sourceNotes": "Description générée depuis l'inventaire local, sans correspondance Myludo confirmée."
+  },
+  "yokai": {
+    "playersMin": 2,
+    "playersMax": 4,
+    "durationMin": 15,
+    "durationMax": 30,
+    "mechanics": [
+      "Communication Restreinte",
+      "coop",
+      "Coopération",
+      "Déduction",
+      "Jeu de Cartes",
+      "mémoire",
+      "Mémorisation",
+      "Placement de cartes"
+    ],
+    "mood": [
+      "ambiance",
+      "coopération",
+      "rapide"
+    ],
+    "myludoId": 32448,
+    "myludoCode": "yokai",
+    "myludoUrl": "https://www.myludo.fr/#!/game/yokai-32448",
+    "editionYear": 2019,
+    "ageMin": 8,
+    "contents": [
+      "14 cartes Indice",
+      "16 cartes Yōkai",
+      "3 cartes Objectif",
+      "6 cartes Affinité"
+    ],
+    "publishers": [
+      "Bankiiiz Editions"
+    ],
+    "authors": [
+      "Julien Griffon"
+    ],
+    "illustrators": [],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1756244785/300/bg/32448.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1756244785/160/bg/32448.png",
+    "sourceNotes": "Enrichissement Myludo: Yōkai (2019)",
+    "summary": "Yokai est un jeu rapide pour 2 à 4 joueurs, jouable en environ 15 à 30 minutes autour de Communication Restreinte, coop, Coopération."
+  },
+  "zombicide": {
+    "playersMin": 1,
+    "playersMax": 6,
+    "durationMin": 30,
+    "durationMax": 60,
+    "mechanics": [
+      "coop",
+      "Coopération",
+      "figurines",
+      "Jet De Dés",
+      "Jeu de figurines",
+      "Jeu de plateau",
+      "Plateau modulaire",
+      "Scénarios"
+    ],
+    "mood": [
+      "coopération",
+      "expert",
+      "stratégie"
+    ],
+    "myludoId": 46953,
+    "myludoCode": "zombicide",
+    "myludoUrl": "https://www.myludo.fr/#!/game/zombicide-46953",
+    "subtitle": "2e Édition",
+    "editionYear": 2020,
+    "ageMin": 14,
+    "contents": [
+      "1 livret de règles",
+      "107 mini-cartes",
+      "12 fiches d'identité",
+      "48 pointeurs",
+      "6 dés",
+      "6 socles",
+      "6 tableaux de bord",
+      "71 pions",
+      "88 figurines",
+      "9 dalles"
+    ],
+    "publishers": [
+      "CMON"
+    ],
+    "authors": [
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult",
+      "Raphaël Guiton"
+    ],
+    "illustrators": [
+      "Édouard Guiton",
+      "Eric Nouhaut"
+    ],
+    "imageUrl": "https://www.myludo.fr/img/jeux/1737330423/300/bu/46953.png",
+    "thumbnailUrl": "https://www.myludo.fr/img/jeux/1737330423/160/bu/46953.png",
+    "sourceNotes": "Enrichissement Myludo: Zombicide (2020)",
+    "summary": "Zombicide, dans l'édition 2e Édition est un jeu expert pour 1 à 6 joueurs, jouable en environ 30 à 60 minutes autour de coop, Coopération, figurines."
+  }
+}

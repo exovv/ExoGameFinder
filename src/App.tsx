@@ -1,9 +1,7 @@
 import {
   BookOpen,
   Boxes,
-  CheckCircle2,
   Home,
-  ImagePlus,
   LockKeyhole,
   Menu,
   Search,
@@ -13,17 +11,16 @@ import {
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { Link, NavLink, Route, Routes, useLocation, useNavigate, useParams } from "react-router-dom";
-import { ContributionQueue } from "./components/admin/ContributionQueue";
+import { AdminDashboard } from "./components/admin/AdminDashboard";
 import { GameAdminTable } from "./components/admin/GameAdminTable";
 import { GameEditForm } from "./components/admin/GameEditForm";
-import { ImageEnrichmentPanel } from "./components/admin/ImageEnrichmentPanel";
 import { EmptyState } from "./components/EmptyState";
 import { GameCard } from "./components/GameCard";
 import { GameDetail } from "./components/GameDetail";
 import { GameFilters } from "./components/GameFilters";
 import { RecommendationWizard } from "./components/RecommendationWizard";
-import { createGameRepository, type RepositorySnapshot } from "./repositories/gameRepository";
-import type { Contribution, DataQuality, Game, GameFilters as GameFiltersType } from "./types/game";
+import { createGameRepository, type RepositoryImport, type RepositorySnapshot } from "./repositories/gameRepository";
+import type { DataQuality, Game, GameFilters as GameFiltersType } from "./types/game";
 import { filterGames } from "./utils/filterGames";
 import "./styles/theme.css";
 
@@ -33,8 +30,6 @@ const repository = createGameRepository();
 const ADMIN_PASSWORD = "exo";
 const adminTabs = [
   { id: "games", label: "Jeux", icon: Boxes },
-  { id: "contributions", label: "Propositions", icon: CheckCircle2 },
-  { id: "images", label: "Images", icon: ImagePlus },
 ] as const;
 
 type AdminTab = (typeof adminTabs)[number]["id"];
@@ -69,16 +64,12 @@ function App() {
     return <div className="app-loading">Chargement ExoGameFinder…</div>;
   }
 
-  const submitContribution = async (contribution: Contribution) => {
-    setSnapshot(await repository.submitContribution(contribution));
-  };
-
   const saveGame = async (game: Game) => {
     setSnapshot(await repository.saveGame(game, "admin"));
   };
 
-  const reviewContribution = async (id: string, status: "approved" | "rejected") => {
-    setSnapshot(await repository.reviewContribution(id, status, "admin"));
+  const importSnapshot = async (snapshotImport: RepositoryImport) => {
+    setSnapshot(await repository.importSnapshot(snapshotImport, "admin"));
   };
 
   return (
@@ -107,16 +98,15 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage games={snapshot.games} />} />
           <Route path="/finder" element={<RecommendationWizard games={snapshot.games} />} />
-          <Route path="/library" element={<LibraryPage games={snapshot.games} onSubmitContribution={submitContribution} />} />
-          <Route path="/game/:id" element={<GamePage games={snapshot.games} onSubmitContribution={submitContribution} />} />
+          <Route path="/library" element={<LibraryPage games={snapshot.games} />} />
+          <Route path="/game/:id" element={<GamePage games={snapshot.games} />} />
           <Route
             path="/admin"
             element={
               <AdminPage
                 snapshot={snapshot}
                 onSaveGame={saveGame}
-                onSubmitContribution={submitContribution}
-                onReviewContribution={reviewContribution}
+                onImportSnapshot={importSnapshot}
               />
             }
           />
@@ -137,31 +127,16 @@ function HomePage({ games }: { games: Game[] }) {
           </div>
           <div className="eyebrow">Le sélecteur de jeux du CSE</div>
           <h1>ExoGameFinder</h1>
-          <p>Trouvez le bon jeu en 10 secondes parmi {games.length} références.</p>
-          <Link className="admin-discreet" to="/admin">Administration collaborative</Link>
+          <p>Trouvez les meilleurs jeux parmi {games.length} références.</p>
         </div>
       </section>
     </div>
   );
 }
 
-function LibraryPage({ games, onSubmitContribution }: { games: Game[]; onSubmitContribution(contribution: Contribution): void }) {
+function LibraryPage({ games }: { games: Game[] }) {
   const [filters, setFilters] = useState<GameFiltersType>({ sort: "title" });
   const visibleGames = useMemo(() => filterGames(games, filters), [games, filters]);
-  const proposeGame = () => {
-    const title = window.prompt("Nom du jeu à proposer");
-    if (!title?.trim()) return;
-    onSubmitContribution({
-      id: `contrib-game-${Date.now()}`,
-      type: "create-game",
-      authorName: "Visiteur",
-      status: "pending",
-      payload: { title: title.trim() },
-      comment: "Jeu proposé depuis la ludothèque.",
-      createdAt: new Date().toISOString(),
-    });
-    window.alert("Merci, la proposition a été envoyée à l'administrateur.");
-  };
 
   return (
     <div className="page-stack">
@@ -169,7 +144,6 @@ function LibraryPage({ games, onSubmitContribution }: { games: Game[]; onSubmitC
         <div className="eyebrow">Ludothèque complète</div>
         <h1>{visibleGames.length} jeux</h1>
         <p>Recherche par nom, nombre de joueurs, durée, difficulté, mécanique et ambiance.</p>
-        <div className="hero-actions"><button type="button" onClick={proposeGame}>Proposer un jeu</button></div>
       </section>
       <GameFilters games={games} filters={filters} onChange={setFilters} />
       {visibleGames.length ? (
@@ -183,7 +157,7 @@ function LibraryPage({ games, onSubmitContribution }: { games: Game[]; onSubmitC
   );
 }
 
-function GamePage({ games, onSubmitContribution }: { games: Game[]; onSubmitContribution(contribution: Contribution): void }) {
+function GamePage({ games }: { games: Game[] }) {
   const { id } = useParams();
   const navigate = useNavigate();
   const game = games.find((item) => item.id === id);
@@ -205,19 +179,17 @@ function GamePage({ games, onSubmitContribution }: { games: Game[]; onSubmitCont
     sort: "relevance",
   }).filter((item) => item.id !== game.id).slice(0, 4);
 
-  return <GameDetail game={game} similarGames={similarGames} onSubmitContribution={onSubmitContribution} />;
+  return <GameDetail game={game} similarGames={similarGames} />;
 }
 
 function AdminPage({
   snapshot,
   onSaveGame,
-  onSubmitContribution,
-  onReviewContribution,
+  onImportSnapshot,
 }: {
   snapshot: RepositorySnapshot;
   onSaveGame(game: Game): void;
-  onSubmitContribution(contribution: Contribution): void;
-  onReviewContribution(id: string, status: "approved" | "rejected"): void;
+  onImportSnapshot(snapshot: RepositoryImport): void;
 }) {
   const [tab, setTab] = useState<AdminTab>("games");
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -233,11 +205,33 @@ function AdminPage({
     onSaveGame({ ...game, dataQuality: [...new Set([...game.dataQuality, "to-check" as DataQuality])], sourceNotes: `${game.sourceNotes ?? ""} | À vérifier depuis l'administration` });
   };
 
+  const exportSnapshot = () => {
+    const blob = new Blob([JSON.stringify(snapshot, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `exogamefinder-local-${new Date().toISOString().slice(0, 10)}.json`;
+    link.click();
+    URL.revokeObjectURL(url);
+  };
+
+  const importLocalSnapshot = (file: File) => {
+    const reader = new FileReader();
+    reader.addEventListener("load", () => {
+      try {
+        onImportSnapshot(JSON.parse(String(reader.result)) as RepositoryImport);
+      } catch {
+        window.alert("Import impossible: le fichier JSON est invalide.");
+      }
+    });
+    reader.readAsText(file);
+  };
+
   if (!isAuthenticated) {
     return (
       <section className="admin-login panel">
-        <div className="section-heading"><LockKeyhole aria-hidden="true" /><h1>Administration</h1></div>
-        <p className="muted">Les visiteurs peuvent proposer des corrections ou des images. La validation est réservée à l’administrateur.</p>
+        <div className="section-heading"><LockKeyhole aria-hidden="true" /><h1>Administration locale</h1></div>
+        <p className="muted">Cet espace sert uniquement à modifier la base locale, importer ou exporter un fichier JSON.</p>
         <form onSubmit={(event) => {
           event.preventDefault();
           if (password === ADMIN_PASSWORD) {
@@ -251,6 +245,7 @@ function AdminPage({
           {authError ? <p className="alert-text">{authError}</p> : null}
           <button type="submit">Entrer</button>
         </form>
+        <p className="admin-credit">création de l'app : Vincent Vallet</p>
       </section>
     );
   }
@@ -259,11 +254,13 @@ function AdminPage({
     <div className="admin-page">
       <section className="admin-hero">
         <div>
-          <div className="eyebrow">Administration · {repository.mode}</div>
-          <h1>Back-office</h1>
-          <p>Les visiteurs proposent des jeux, des corrections ou des images. L’administrateur valide ou rejette les propositions.</p>
+          <div className="eyebrow">Administration locale · {repository.mode}</div>
+          <h1>Base locale</h1>
+          <p>Modifiez les fiches, contrôlez les données et sauvegardez l’état courant par export JSON.</p>
         </div>
       </section>
+
+      <AdminDashboard games={snapshot.games} auditLog={snapshot.auditLog} onExport={exportSnapshot} onImport={importLocalSnapshot} />
 
       <div className="admin-tabs" role="tablist">
         {adminTabs.map(({ id: tabId, label, icon: Icon }) => (
@@ -290,8 +287,7 @@ function AdminPage({
           <div className="panel editor-panel"><GameEditForm game={selectedGame} onSave={onSaveGame} /></div>
         </section>
       )}
-      {tab === "contributions" && <ContributionQueue contributions={snapshot.contributions} games={snapshot.games} onReview={onReviewContribution} />}
-      {tab === "images" && <ImageEnrichmentPanel games={snapshot.games} onSubmitContribution={onSubmitContribution} />}
+      <p className="admin-credit">création de l'app : Vincent Vallet</p>
     </div>
   );
 }

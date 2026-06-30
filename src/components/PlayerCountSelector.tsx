@@ -10,19 +10,30 @@ type PlayerCountSelectorProps = {
 export function PlayerCountSelector({ value, onChange, min = 1, max = 12 }: PlayerCountSelectorProps) {
   const decrement = () => onChange(Math.max(min, value - 1));
   const increment = () => onChange(Math.min(max, value + 1));
+  const presets = [2, 3, 4, 5, 6, 8, 10].filter((preset) => preset >= min && preset <= max);
 
   return (
-    <div className="player-selector" aria-label="Nombre de joueurs">
-      <button type="button" onClick={decrement} aria-label="Retirer un joueur">
-        <Minus size={18} aria-hidden="true" />
-      </button>
-      <div className="player-selector__value">
-        <Users size={18} aria-hidden="true" />
-        <strong>{value}</strong>
+    <div className="player-picker" aria-label="Nombre de joueurs">
+      <div className="player-selector">
+        <button className="player-selector__button" type="button" onClick={decrement} aria-label="Retirer un joueur" disabled={value <= min}>
+          <Minus size={24} aria-hidden="true" />
+        </button>
+        <div className="player-selector__value">
+          <Users size={22} aria-hidden="true" />
+          <strong>{value}</strong>
+          <span>joueurs</span>
+        </div>
+        <button className="player-selector__button" type="button" onClick={increment} aria-label="Ajouter un joueur" disabled={value >= max}>
+          <Plus size={24} aria-hidden="true" />
+        </button>
       </div>
-      <button type="button" onClick={increment} aria-label="Ajouter un joueur">
-        <Plus size={18} aria-hidden="true" />
-      </button>
+      <div className="player-presets" aria-label="Formats rapides">
+        {presets.map((preset) => (
+          <button className={value === preset ? "is-selected" : ""} type="button" key={preset} onClick={() => onChange(preset)}>
+            {preset}
+          </button>
+        ))}
+      </div>
     </div>
   );
 }
